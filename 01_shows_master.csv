@@ -1,26 +1,87 @@
 id,name,status,network,country,rating,genres,total_episodes
-21898,"10 over half 5 Paul de Leeuw Show, De",Canceled/Ended,NCRV,NL,0,"Children, Sketch/Improv, Interview",13
-26832,101 Ways to Leave a Game Show,Ended,ABC,US,4.0000,"Comedy, Family",6
-8876,A Show Called Fred,Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",5
-944,Aaagh! It's the Mr. Hell Show!,Ended,BBC Two,US,0,Comedy,13
-1697,Aaagh! It's the Mr. Hell Show!,Canceled/Ended,BBC TWO,GB,0,"Comedy, Adult Cartoons",13
-13138,ALF's Hit Talk Show,Canceled/Ended,TVland,US,0,Comedy,7
-23039,Alles ist möglich - Die 10-Millionen-Show,Returning Series,ORF 1,AT,0,Family,0
-36323,Ancient Greece: The Greatest Show On Earth,Canceled/Ended,BBC FOUR,GB,10.0000,"History, Educational",3
-15376,And Here's the Show,Canceled/Ended,NBC,US,0,Comedy,0
-23486,Ant and Dec's Christmas Show,Ended,sky MOVIES FAMILY,GB,0,"Comedy, Music, Celebrities, Dance",1
-31573,Asbjørn Brekke Show,Returning Series,TVNorge,NO,0,"Comedy, Family, Interview",27
-629,At Last the 1948 Show,Ended,ITV1,GB,0,Comedy,13
-2625,Attack Of The Show!,Canceled/Ended,G4,US,0,Tech/Gaming,1510
-33029,Bam's Bad Ass Game Show,Ended,TBS,US,10.0000,Comedy,6
-19724,Basil's Game Show,Canceled/Ended,Cbbc,GB,0,Children,28
-28506,BCS Countdown Show,Ended,ESPN,US,0,"Action, Family, Interview, Sports, Talent, Fitness",33
-23437,BCS Selection Show,Ended,ESPN,US,0,"Family, Celebrities, Sports, Talent",10
-14527,Big Black Comedy Show,Canceled/Ended,SHOWTIME,US,0,"Comedy, Sketch/Improv",5
-967,Big Urban Myth Show,Canceled/Ended,MTV,US,0,,12
-32849,Bob's New Heart Show,In Development,FOX,US,0,Comedy,0
-2810,Bobcat's Big Ass Show,Canceled/Ended,FX,US,0,,0
-287,Brak Presents the Brak Show Starring Brak,Canceled/Ended,Cartoon Network,US,0,,2
-21365,"Bridget Show, The",Never Aired,ABC,US,0,"Comedy, Romance/Dating",1
-14656,Buck Owens' Ranch Show,Canceled/Ended,Syndicated,US,0,Music,0
-11930,Carol Duvall Show,Canceled/Ended,HGTV,US,10.0000,How To/Do It Yourself,601
+14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
+6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
+22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
+24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
+33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
+8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
+23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
+9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
+25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
+13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
+35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
+21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
+22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
+31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
+33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
+10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
+9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
+540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
+1797,Your Show of Shows,Canceled/Ended,NBC,US,10.0000,"Comedy, Sketch/Improv",136
+26278,Zona's Awesome Fishing Show,Running,Outdoor Channel,US,0,Sports,31
+14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
+6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
+24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
+33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
+8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
+23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
+9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
+25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
+13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
+35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
+22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
+31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
+33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
+10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
+23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
+9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
+9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
+540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
+25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
+13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
+14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
+21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
+6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
+22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
+24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
+33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
+8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
+23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
+9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
+25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
+13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
+35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
+21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
+22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
+31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
+33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
+10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
+9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
+540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
+1797,Your Show of Shows,Canceled/Ended,NBC,US,10.0000,"Comedy, Sketch/Improv",136
+26278,Zona's Awesome Fishing Show,Running,Outdoor Channel,US,0,Sports,31
+14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
+6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
+24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
+33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
+8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
+23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
+9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
+25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
+13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
+35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
+21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
+22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
+31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
+33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
+10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
+9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
+540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
+1797,Your Show of Shows,Canceled/Ended,NBC,US,10.0000,"Comedy, Sketch/Improv",136
+26278,Zona's Awesome Fishing Show,Running,Outdoor Channel,US,0,Sports,31
+14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
+6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
+24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
+31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
+23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
+540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
