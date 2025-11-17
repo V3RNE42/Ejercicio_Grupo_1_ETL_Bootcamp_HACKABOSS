@@ -1,0 +1,160 @@
+id,name,status,network,country,rating,genres,total_episodes
+1,Fernwood 2Night,Ended,Syndication,US,0,Comedy,65
+2,America 2Night,Ended,Syndication,US,0,Comedy,65
+3,"Mary Hartman, Mary Hartman",Ended,Syndication,US,0,Comedy,325
+4,Sara (1985),Canceled/Ended,NBC,US,0,Comedy,13
+5,Buffalo Bill,Canceled/Ended,NBC,US,0,Comedy,26
+6,The Rousters,Canceled/Ended,NBC,US,0,Adventure,13
+7,Paper Dolls,To Be Determined,Paramount+,US,7.0000,"Drama, Music",12
+8,"Marcus Welby, M.D.",Ended,ABC,US,0,"Drama, Medical",172
+9,Too Close for Comfort,Ended,Syndication,US,7.0000,"Comedy, Family",129
+10,Bob & Carol & Ted & Alice,Canceled/Ended,ABC,US,10.0000,Comedy,7
+11,USA High,Canceled/Ended,USA Network,US,10.0000,Comedy,95
+12,The Colbys,Ended,ABC,US,0,Drama,49
+13,The Betty White Show,Canceled/Ended,CBS,US,0,Comedy,14
+14,The Andy Williams Show (1958),Canceled/Ended,NBC,US,0,"Family, Music",7
+15,The Courtship of Eddie's Father,Canceled/Ended,ABC,US,0,"Comedy, Romance/Dating, Family",73
+16,Forever Fernwood,Ended,Syndication,US,0,Comedy,8
+17,Seven Brides for Seven Brothers,Canceled/Ended,CBS,US,0,"Drama, Music",22
+18,Fallen Angels,Canceled/Ended,SHOWTIME,US,0,"Crime, Drama, Mystery",12
+19,Another Day,Canceled/Ended,CBS,US,0,Comedy,4
+20,The Defenders (1961),Canceled/Ended,CBS,US,0,Drama,132
+21,"Trapper John, M.D.",Canceled/Ended,CBS,US,0,"Drama, Medical",151
+22,Dr. Kildare,Canceled/Ended,NBC,US,0,"Drama, Medical",191
+23,Empire (1962),Canceled/Ended,NBC,US,0,"Drama, Western",32
+24,Fifteen,Canceled/Ended,nickelodeon,US,0,"Soaps, Drama, Teens",143
+25,Swans Crossing,Canceled/Ended,Syndicated,US,0,"Soaps, Teens",65
+26,Santa Barbara,Canceled/Ended,NBC,US,0,"Soaps, Drama",2137
+27,NYPD,Canceled/Ended,ABC,US,0,"Crime, Drama",49
+28,Social Studies,Running,FX,US,0,Comedy,6
+29,Winnetka Road,Canceled/Ended,NBC,US,0,Drama,5
+30,Cupid,Ended,ABC,US,0,"Comedy, Drama, Romance",14
+31,Pokémon,Running,TV Tokyo,AJ,9.6000,"Adventure, Fantasy, Anime",1418
+32,Second Chance (1987),Canceled/Ended,FOX,US,0,Comedy,21
+33,Home Free,Canceled/Ended,ABC,US,0,Comedy,11
+34,The Trouble with Larry,Canceled/Ended,CBS,US,0,Comedy,3
+35,Day by Day,Canceled/Ended,NBC,US,0,Comedy,33
+36,It's a Living,Canceled/Ended,Syndicated,US,6.6667,Comedy,120
+37,Phyllis,Canceled/Ended,CBS,US,0,Comedy,48
+38,Julia,Canceled/Ended,NBC,US,0,Comedy,86
+39,Bachelor Father,Canceled/Ended,ABC,US,0,"Comedy, Family",157
+40,Nasty Boys,Canceled/Ended,NBC,US,0,Drama,14
+41,Working it Out,Canceled/Ended,NBC,US,0,Comedy,12
+42,I'm Dickens... He's Fenster,Ended,ABC,US,6.0000,Comedy,32
+43,December Bride,Canceled/Ended,CBS,US,0,Comedy,157
+44,Pete and Gladys,Canceled/Ended,CBS,US,0,Comedy,72
+45,House Calls,Canceled/Ended,CBS,US,0,"Comedy, Romance/Dating",57
+46,Apple Pie,Canceled/Ended,ABC,US,0,Comedy,2
+47,Blansky's Beauties,Canceled/Ended,ABC,US,0,Comedy,13
+48,True Colors,To Be Determined,Peacock,US,0,Comedy,45
+49,Fish (US),Canceled/Ended,ABC,US,0,Comedy,35
+50,Burke's Law (1994),Canceled/Ended,CBS,US,0,"Crime, Drama",27
+51,Three's a Crowd (1984),Canceled/Ended,ABC,US,6.0000,Comedy,22
+52,Babes,Canceled/Ended,FOX,US,0,Comedy,22
+53,Going Places,Canceled/Ended,ABC,US,0,Comedy,19
+54,Amen,Canceled/Ended,NBC,US,0,Comedy,110
+55,That's My Mama,Canceled/Ended,ABC,US,0,Comedy,39
+56,Undressed,Canceled/Ended,MTV,US,0,"Soaps, Comedy, Drama, Teens",223
+57,Ready or Not,Ended,BBC One,CA,0,Comedy,9
+58,Katts and Dog,Canceled/Ended,CTV,CA,0,"Crime, Action, Adventure, Animals/Pets",1
+59,"Zoe, Duncan, Jack & Jane",Canceled/Ended,WB,US,0,Comedy,26
+60,Throb,Canceled/Ended,Syndicated,US,0,"Comedy, Music",48
+61,CatDog,Ended,Nickelodeon,US,0,"Comedy, Children",131
+62,Head Start,Ended,ABC,AU,0,"Comedy, Drama, Adventure",40
+63,Grace & Favour,Ended,BBC One,GB,0,Comedy,12
+64,Keeping Up Appearances,Ended,BBC One,GB,6.5000,Comedy,40
+65,Bagdad Cafe,Canceled/Ended,CBS,US,0,Comedy,15
+66,Dot Comedy,Canceled/Ended,ABC,US,0,"Comedy, Sketch/Improv",1
+67,Black Tie Affair,Canceled/Ended,NBC,US,0,Comedy,5
+68,My World and Welcome to It,Canceled/Ended,NBC,US,0,Comedy,26
+69,Who Wants to Be a Millionaire,To Be Determined,ABC,US,0,,2825
+70,Emerald Point N.A.S.,Canceled/Ended,CBS,US,0,"Drama, Military/War",22
+71,James at 15,Canceled/Ended,NBC,US,0,"Drama, Teens",20
+72,The United States Steel Hour,Canceled/Ended,CBS,US,0,Anthology,259
+73,The Beachcombers,Ended,CBC,CA,0,"Comedy, Drama, Adventure",321
+74,The Good Guys (1968),Canceled/Ended,CBS,US,0,Comedy,42
+75,Tales of the Unexpected,Canceled/Ended,itv,GB,0,"Thriller, Horror/Supernatural, Anthology",112
+76,The Kids from Room 402,Ended,FOX,US,0,Animation General,2
+77,Jesse Hawkes,Canceled/Ended,CBS,US,0,Adventure,6
+78,Lock-Up,Canceled/Ended,Syndicated,US,5.5000,"Crime, Drama",78
+79,Thieftakers,Canceled/Ended,itv,GB,0,,25
+80,Chip 'N Dale Rescue Rangers,Ended,Disney Channel,US,0,"Adventure, Children",65
+504,Two Faces West,Canceled/Ended,Syndicated,US,0,Western,38
+505,About Face,Canceled/Ended,itv,GB,0,Comedy,12
+506,Hootenanny,Canceled/Ended,ABC,US,0,"Family, Music, Celebrities, Talent",63
+507,Mike and Angelo,Canceled/Ended,itv,GB,0,"Comedy, Sci-Fi, Children",123
+508,Beyond Chance (2006),Canceled/Ended,CMT,CA,0,"Drama, Family",0
+509,The Young Lawyers,Canceled/Ended,ABC,US,0,Drama,23
+510,The Interns,Canceled/Ended,CBS,US,0,"Drama, Medical",24
+511,Division 4,Canceled/Ended,Nine Network,AU,0,"Crime, Drama",259
+512,A Kind of Loving,Canceled/Ended,itv,GB,0,Drama,10
+513,Roger Roger,Canceled/Ended,BBC one,GB,0,Comedy,17
+514,Union Pacific,Canceled/Ended,Syndicated,US,0,Western,32
+515,Dangerous Assignment,Canceled/Ended,Syndicated,US,0,Adventure,39
+516,Don't Eat the Neighbours,Canceled/Ended,Citv,GB,0,"Comedy, Children",26
+517,The Dream Team,Canceled/Ended,Syndicated,US,0,,5
+518,Extreme Dinosaurs,Canceled/Ended,Syndicated,US,0,Animation General,52
+519,It's Only TV But I Like It,Canceled/Ended,BBC one,GB,0,Comedy,32
+520,The Magician (1999),Canceled/Ended,FOX,US,0,Animation General,26
+521,The Micro Ventures,Canceled/Ended,,,0,,4
+522,The Monroes (1995),Canceled/Ended,ABC,US,9.0000,"Soaps, Drama",5
+523,Wichita Town,Canceled/Ended,NBC,US,0,Western,26
+524,The Wrangler,Canceled/Ended,NBC,US,0,"Drama, Western",6
+525,Nightingales (UK),Canceled/Ended,Channel 4,GB,0,Comedy,13
+526,Office Gossip,Canceled/Ended,BBC one,GB,0,Comedy,6
+527,P.R.,Canceled/Ended,CBC,CA,0,,10
+528,Preston Front,Canceled/Ended,,GB,0,Comedy,19
+529,Valley of the Dinosaurs,Canceled/Ended,CBS,US,0,Animation General,16
+530,Scotland Yard,Canceled/Ended,itv,GB,0,"Drama, Mystery",0
+531,Tandarra,Canceled/Ended,Seven,AU,0,"History, Adventure",13
+532,Totally Hoops,Canceled/Ended,DiSNEY CHANNEL,US,0,"Children, Sports",16
+533,Circus of the Stars,Canceled/Ended,CBS,US,0,Celebrities,18
+534,Changing Rooms (UK),Canceled/Ended,BBC one,GB,0,Family,3
+535,Egoli: Place Of Gold,Returning Series,M-Net,ZA,0,"Soaps, Drama",29
+536,Jane,Canceled/Ended,BBC TWO,GB,0,"Comedy, Sketch/Improv",10
+537,Revelations (UK),Canceled/Ended,Channel 5,GB,0,,26
+538,McCready and Daughter,Canceled/Ended,BBC one,GB,0,,6
+539,Harold and the Purple Crayon,Canceled/Ended,HBO Family,US,0,Animation General,0
+540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
+541,Tiswas,Ended,ITV,GB,0,"Comedy, Children",302
+542,Moon and Son,Canceled/Ended,BBC one,GB,0,,0
+543,On Common Ground,Canceled/Ended,PBS,US,0,"Politics, Educational",0
+544,The Experiment,Canceled/Ended,BBC TWO,GB,0,,5
+545,TNA Pay-Per-View,Returning Series,Pay-Per-View,US,0,Action,220
+546,A.J.'s Time Travelers,Canceled/Ended,Syndicated,US,0,Animation General,4
+547,Bug Juice: My Adventures at Camp,Ended,Disney Channel,US,0,"Adventure, Family",19
+548,Tall Tales and Legends,Canceled/Ended,SHOWTIME,US,0,"Fantasy, Celebrities",7
+549,Under the Umbrella Tree,Canceled/Ended,CBC,CA,0,Children,7
+550,The Morecambe & Wise Show,Ended,BBC Two,GB,0,Comedy,175
+552,Washingtoon,Canceled/Ended,SHOWTIME,US,0,"Comedy, Adult Cartoons",5
+553,Brass Eye,Ended,Channel 4,GB,0,Comedy,7
+554,Big Train,Ended,BBC Two,GB,0,Comedy,12
+555,The Railway Children (1968),Canceled/Ended,BBC one,GB,0,Drama,0
+556,Close to Home,Ended,CBS,US,0,Drama,44
+557,Shipmates (US),Canceled/Ended,Syndicated,US,0,,0
+558,The Savages,Canceled/Ended,BBC one,GB,0,Comedy,6
+559,The Eddie Cantor Comedy Theatre,Canceled/Ended,Syndicated,US,0,"Comedy, Anthology",1
+560,The Magic Basket,Canceled/Ended,PBS,US,0,,0
+561,Kath and Kim,Ended,Seven Network,AU,9.5000,Comedy,32
+562,Hero Corp,Ended,France 4,FR,0,"Drama, Action, Fantasy",93
+563,Victoria Wood,Canceled/Ended,BBC one,GB,0,Comedy,6
+564,WWE Confidential,Canceled/Ended,SPIKE,US,0,"Drama, Action, Family",85
+565,Campus Cops,Canceled/Ended,USA Network,US,0,"Comedy, Crime",12
+566,That Peter Kay Thing,Canceled/Ended,Channel 4,GB,0,,6
+567,The Tomorrow People (1992),Canceled/Ended,itv,GB,0,"Sci-Fi, Children",25
+568,Out of Tune,Canceled/Ended,BBC one,GB,0,"Comedy, Children",0
+569,Harry Enfield's Brand Spanking New Show,Canceled/Ended,sky 1,GB,0,,12
+570,Daisy Daisy,Canceled/Ended,Channel 4,GB,0,,6
+571,RI:SE,Canceled/Ended,Channel 4,GB,0,Family,410
+572,WWE The Bottom Line,Canceled/Ended,Syndicated,US,0,"Drama, Action, Family, Sports",61
+573,WWE After Burn,Returning Series,Syndicated,US,0,"Drama, Action, Family",600
+574,Modern Love,Pilot Rejected,We tv,US,0,"Romance/Dating, Family",0
+575,Supply and Demand,Canceled/Ended,itv,GB,0,,0
+576,Mister Roberts,Canceled/Ended,NBC,US,0,"Comedy, Military/War",30
+577,The Last Resort (US),Canceled/Ended,ABC Family,US,0,,20
+578,The Martha Raye Show,Canceled/Ended,NBC,US,0,Music,0
+579,Late World with Zach,Canceled/Ended,VH1,US,0,,0
+580,Crank Yankers,Canceled/Ended,MTV2,US,1.0000,"Comedy, Puppets",70
+581,Varsity Blues,In Development,CMT,US,0,"Drama, Action",0
+582,Ready Steady Go,Running,YouTube,GB,10.0000,Music,177
+583,Short Cuts,Canceled/Ended,Seven,AU,0,"Drama, Teens",26
