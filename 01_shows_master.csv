@@ -1,160 +1,1143 @@
-id,name,status,network,country,rating,genres,total_episodes
-1,Fernwood 2Night,Ended,Syndication,US,0,Comedy,65
-2,America 2Night,Ended,Syndication,US,0,Comedy,65
-3,"Mary Hartman, Mary Hartman",Ended,Syndication,US,0,Comedy,325
-4,Sara (1985),Canceled/Ended,NBC,US,0,Comedy,13
-5,Buffalo Bill,Canceled/Ended,NBC,US,0,Comedy,26
-6,The Rousters,Canceled/Ended,NBC,US,0,Adventure,13
-7,Paper Dolls,To Be Determined,Paramount+,US,7.0000,"Drama, Music",12
-8,"Marcus Welby, M.D.",Ended,ABC,US,0,"Drama, Medical",172
-9,Too Close for Comfort,Ended,Syndication,US,7.0000,"Comedy, Family",129
-10,Bob & Carol & Ted & Alice,Canceled/Ended,ABC,US,10.0000,Comedy,7
-11,USA High,Canceled/Ended,USA Network,US,10.0000,Comedy,95
-12,The Colbys,Ended,ABC,US,0,Drama,49
-13,The Betty White Show,Canceled/Ended,CBS,US,0,Comedy,14
-14,The Andy Williams Show (1958),Canceled/Ended,NBC,US,0,"Family, Music",7
-15,The Courtship of Eddie's Father,Canceled/Ended,ABC,US,0,"Comedy, Romance/Dating, Family",73
-16,Forever Fernwood,Ended,Syndication,US,0,Comedy,8
-17,Seven Brides for Seven Brothers,Canceled/Ended,CBS,US,0,"Drama, Music",22
-18,Fallen Angels,Canceled/Ended,SHOWTIME,US,0,"Crime, Drama, Mystery",12
-19,Another Day,Canceled/Ended,CBS,US,0,Comedy,4
-20,The Defenders (1961),Canceled/Ended,CBS,US,0,Drama,132
-21,"Trapper John, M.D.",Canceled/Ended,CBS,US,0,"Drama, Medical",151
-22,Dr. Kildare,Canceled/Ended,NBC,US,0,"Drama, Medical",191
-23,Empire (1962),Canceled/Ended,NBC,US,0,"Drama, Western",32
-24,Fifteen,Canceled/Ended,nickelodeon,US,0,"Soaps, Drama, Teens",143
-25,Swans Crossing,Canceled/Ended,Syndicated,US,0,"Soaps, Teens",65
-26,Santa Barbara,Canceled/Ended,NBC,US,0,"Soaps, Drama",2137
-27,NYPD,Canceled/Ended,ABC,US,0,"Crime, Drama",49
-28,Social Studies,Running,FX,US,0,Comedy,6
-29,Winnetka Road,Canceled/Ended,NBC,US,0,Drama,5
-30,Cupid,Ended,ABC,US,0,"Comedy, Drama, Romance",14
-31,Pokémon,Running,TV Tokyo,AJ,9.6000,"Adventure, Fantasy, Anime",1418
-32,Second Chance (1987),Canceled/Ended,FOX,US,0,Comedy,21
-33,Home Free,Canceled/Ended,ABC,US,0,Comedy,11
-34,The Trouble with Larry,Canceled/Ended,CBS,US,0,Comedy,3
-35,Day by Day,Canceled/Ended,NBC,US,0,Comedy,33
-36,It's a Living,Canceled/Ended,Syndicated,US,6.6667,Comedy,120
-37,Phyllis,Canceled/Ended,CBS,US,0,Comedy,48
-38,Julia,Canceled/Ended,NBC,US,0,Comedy,86
-39,Bachelor Father,Canceled/Ended,ABC,US,0,"Comedy, Family",157
-40,Nasty Boys,Canceled/Ended,NBC,US,0,Drama,14
-41,Working it Out,Canceled/Ended,NBC,US,0,Comedy,12
-42,I'm Dickens... He's Fenster,Ended,ABC,US,6.0000,Comedy,32
-43,December Bride,Canceled/Ended,CBS,US,0,Comedy,157
-44,Pete and Gladys,Canceled/Ended,CBS,US,0,Comedy,72
-45,House Calls,Canceled/Ended,CBS,US,0,"Comedy, Romance/Dating",57
-46,Apple Pie,Canceled/Ended,ABC,US,0,Comedy,2
-47,Blansky's Beauties,Canceled/Ended,ABC,US,0,Comedy,13
-48,True Colors,To Be Determined,Peacock,US,0,Comedy,45
-49,Fish (US),Canceled/Ended,ABC,US,0,Comedy,35
-50,Burke's Law (1994),Canceled/Ended,CBS,US,0,"Crime, Drama",27
-51,Three's a Crowd (1984),Canceled/Ended,ABC,US,6.0000,Comedy,22
-52,Babes,Canceled/Ended,FOX,US,0,Comedy,22
-53,Going Places,Canceled/Ended,ABC,US,0,Comedy,19
-54,Amen,Canceled/Ended,NBC,US,0,Comedy,110
-55,That's My Mama,Canceled/Ended,ABC,US,0,Comedy,39
-56,Undressed,Canceled/Ended,MTV,US,0,"Soaps, Comedy, Drama, Teens",223
-57,Ready or Not,Ended,BBC One,CA,0,Comedy,9
-58,Katts and Dog,Canceled/Ended,CTV,CA,0,"Crime, Action, Adventure, Animals/Pets",1
-59,"Zoe, Duncan, Jack & Jane",Canceled/Ended,WB,US,0,Comedy,26
-60,Throb,Canceled/Ended,Syndicated,US,0,"Comedy, Music",48
-61,CatDog,Ended,Nickelodeon,US,0,"Comedy, Children",131
-62,Head Start,Ended,ABC,AU,0,"Comedy, Drama, Adventure",40
-63,Grace & Favour,Ended,BBC One,GB,0,Comedy,12
-64,Keeping Up Appearances,Ended,BBC One,GB,6.5000,Comedy,40
-65,Bagdad Cafe,Canceled/Ended,CBS,US,0,Comedy,15
-66,Dot Comedy,Canceled/Ended,ABC,US,0,"Comedy, Sketch/Improv",1
-67,Black Tie Affair,Canceled/Ended,NBC,US,0,Comedy,5
-68,My World and Welcome to It,Canceled/Ended,NBC,US,0,Comedy,26
-69,Who Wants to Be a Millionaire,To Be Determined,ABC,US,0,,2825
-70,Emerald Point N.A.S.,Canceled/Ended,CBS,US,0,"Drama, Military/War",22
-71,James at 15,Canceled/Ended,NBC,US,0,"Drama, Teens",20
-72,The United States Steel Hour,Canceled/Ended,CBS,US,0,Anthology,259
-73,The Beachcombers,Ended,CBC,CA,0,"Comedy, Drama, Adventure",321
-74,The Good Guys (1968),Canceled/Ended,CBS,US,0,Comedy,42
-75,Tales of the Unexpected,Canceled/Ended,itv,GB,0,"Thriller, Horror/Supernatural, Anthology",112
-76,The Kids from Room 402,Ended,FOX,US,0,Animation General,2
-77,Jesse Hawkes,Canceled/Ended,CBS,US,0,Adventure,6
-78,Lock-Up,Canceled/Ended,Syndicated,US,5.5000,"Crime, Drama",78
-79,Thieftakers,Canceled/Ended,itv,GB,0,,25
-80,Chip 'N Dale Rescue Rangers,Ended,Disney Channel,US,0,"Adventure, Children",65
-504,Two Faces West,Canceled/Ended,Syndicated,US,0,Western,38
-505,About Face,Canceled/Ended,itv,GB,0,Comedy,12
-506,Hootenanny,Canceled/Ended,ABC,US,0,"Family, Music, Celebrities, Talent",63
-507,Mike and Angelo,Canceled/Ended,itv,GB,0,"Comedy, Sci-Fi, Children",123
-508,Beyond Chance (2006),Canceled/Ended,CMT,CA,0,"Drama, Family",0
-509,The Young Lawyers,Canceled/Ended,ABC,US,0,Drama,23
-510,The Interns,Canceled/Ended,CBS,US,0,"Drama, Medical",24
-511,Division 4,Canceled/Ended,Nine Network,AU,0,"Crime, Drama",259
-512,A Kind of Loving,Canceled/Ended,itv,GB,0,Drama,10
-513,Roger Roger,Canceled/Ended,BBC one,GB,0,Comedy,17
-514,Union Pacific,Canceled/Ended,Syndicated,US,0,Western,32
-515,Dangerous Assignment,Canceled/Ended,Syndicated,US,0,Adventure,39
-516,Don't Eat the Neighbours,Canceled/Ended,Citv,GB,0,"Comedy, Children",26
-517,The Dream Team,Canceled/Ended,Syndicated,US,0,,5
-518,Extreme Dinosaurs,Canceled/Ended,Syndicated,US,0,Animation General,52
-519,It's Only TV But I Like It,Canceled/Ended,BBC one,GB,0,Comedy,32
-520,The Magician (1999),Canceled/Ended,FOX,US,0,Animation General,26
-521,The Micro Ventures,Canceled/Ended,,,0,,4
-522,The Monroes (1995),Canceled/Ended,ABC,US,9.0000,"Soaps, Drama",5
-523,Wichita Town,Canceled/Ended,NBC,US,0,Western,26
-524,The Wrangler,Canceled/Ended,NBC,US,0,"Drama, Western",6
-525,Nightingales (UK),Canceled/Ended,Channel 4,GB,0,Comedy,13
-526,Office Gossip,Canceled/Ended,BBC one,GB,0,Comedy,6
-527,P.R.,Canceled/Ended,CBC,CA,0,,10
-528,Preston Front,Canceled/Ended,,GB,0,Comedy,19
-529,Valley of the Dinosaurs,Canceled/Ended,CBS,US,0,Animation General,16
-530,Scotland Yard,Canceled/Ended,itv,GB,0,"Drama, Mystery",0
-531,Tandarra,Canceled/Ended,Seven,AU,0,"History, Adventure",13
-532,Totally Hoops,Canceled/Ended,DiSNEY CHANNEL,US,0,"Children, Sports",16
-533,Circus of the Stars,Canceled/Ended,CBS,US,0,Celebrities,18
-534,Changing Rooms (UK),Canceled/Ended,BBC one,GB,0,Family,3
-535,Egoli: Place Of Gold,Returning Series,M-Net,ZA,0,"Soaps, Drama",29
-536,Jane,Canceled/Ended,BBC TWO,GB,0,"Comedy, Sketch/Improv",10
-537,Revelations (UK),Canceled/Ended,Channel 5,GB,0,,26
-538,McCready and Daughter,Canceled/Ended,BBC one,GB,0,,6
-539,Harold and the Purple Crayon,Canceled/Ended,HBO Family,US,0,Animation General,0
-540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
-541,Tiswas,Ended,ITV,GB,0,"Comedy, Children",302
-542,Moon and Son,Canceled/Ended,BBC one,GB,0,,0
-543,On Common Ground,Canceled/Ended,PBS,US,0,"Politics, Educational",0
-544,The Experiment,Canceled/Ended,BBC TWO,GB,0,,5
-545,TNA Pay-Per-View,Returning Series,Pay-Per-View,US,0,Action,220
-546,A.J.'s Time Travelers,Canceled/Ended,Syndicated,US,0,Animation General,4
-547,Bug Juice: My Adventures at Camp,Ended,Disney Channel,US,0,"Adventure, Family",19
-548,Tall Tales and Legends,Canceled/Ended,SHOWTIME,US,0,"Fantasy, Celebrities",7
-549,Under the Umbrella Tree,Canceled/Ended,CBC,CA,0,Children,7
-550,The Morecambe & Wise Show,Ended,BBC Two,GB,0,Comedy,175
-552,Washingtoon,Canceled/Ended,SHOWTIME,US,0,"Comedy, Adult Cartoons",5
-553,Brass Eye,Ended,Channel 4,GB,0,Comedy,7
-554,Big Train,Ended,BBC Two,GB,0,Comedy,12
-555,The Railway Children (1968),Canceled/Ended,BBC one,GB,0,Drama,0
-556,Close to Home,Ended,CBS,US,0,Drama,44
-557,Shipmates (US),Canceled/Ended,Syndicated,US,0,,0
-558,The Savages,Canceled/Ended,BBC one,GB,0,Comedy,6
-559,The Eddie Cantor Comedy Theatre,Canceled/Ended,Syndicated,US,0,"Comedy, Anthology",1
-560,The Magic Basket,Canceled/Ended,PBS,US,0,,0
-561,Kath and Kim,Ended,Seven Network,AU,9.5000,Comedy,32
-562,Hero Corp,Ended,France 4,FR,0,"Drama, Action, Fantasy",93
-563,Victoria Wood,Canceled/Ended,BBC one,GB,0,Comedy,6
-564,WWE Confidential,Canceled/Ended,SPIKE,US,0,"Drama, Action, Family",85
-565,Campus Cops,Canceled/Ended,USA Network,US,0,"Comedy, Crime",12
-566,That Peter Kay Thing,Canceled/Ended,Channel 4,GB,0,,6
-567,The Tomorrow People (1992),Canceled/Ended,itv,GB,0,"Sci-Fi, Children",25
-568,Out of Tune,Canceled/Ended,BBC one,GB,0,"Comedy, Children",0
-569,Harry Enfield's Brand Spanking New Show,Canceled/Ended,sky 1,GB,0,,12
-570,Daisy Daisy,Canceled/Ended,Channel 4,GB,0,,6
-571,RI:SE,Canceled/Ended,Channel 4,GB,0,Family,410
-572,WWE The Bottom Line,Canceled/Ended,Syndicated,US,0,"Drama, Action, Family, Sports",61
-573,WWE After Burn,Returning Series,Syndicated,US,0,"Drama, Action, Family",600
-574,Modern Love,Pilot Rejected,We tv,US,0,"Romance/Dating, Family",0
-575,Supply and Demand,Canceled/Ended,itv,GB,0,,0
-576,Mister Roberts,Canceled/Ended,NBC,US,0,"Comedy, Military/War",30
-577,The Last Resort (US),Canceled/Ended,ABC Family,US,0,,20
-578,The Martha Raye Show,Canceled/Ended,NBC,US,0,Music,0
-579,Late World with Zach,Canceled/Ended,VH1,US,0,,0
-580,Crank Yankers,Canceled/Ended,MTV2,US,1.0000,"Comedy, Puppets",70
-581,Varsity Blues,In Development,CMT,US,0,"Drama, Action",0
-582,Ready Steady Go,Running,YouTube,GB,10.0000,Music,177
-583,Short Cuts,Canceled/Ended,Seven,AU,0,"Drama, Teens",26
+id,name,status,start_date,end_date,network,country,runtime,rating,rating_count,genres,total_episodes
+75924,Partner Track,Ended,2022-08-26,,Netflix,US,10,5.5000,2,Drama,10
+75925,La divina gula,To Be Determined,2022-01-19,,Netflix,US,10,0,0,Food,6
+75926,Fotobonden,To Be Determined,2020-01-07,,NRK TV,NO,10,0,0,Nature,15
+75927,Thursday Night Football on Prime Video,Running,2022-09-15,,Prime Video,US,10,0,0,,63
+75928,48 часов,Ended,2021-12-25,,Пятый канал,RU,39,0,0,,16
+75929,The Beaker Girls,Ended,2021-12-13,,CBBC,GB,10,0,0,,17
+75930,I Am Shauna Rae,To Be Determined,2022-01-11,,TLC,US,60,10.0000,1,,16
+75931,True Story with Ed Helms and Randall Park,In Development,,,Peacock,US,10,0,0,,6
+75932,Selling the Hamptons,Running,2022-01-20,,Max,US,10,0,0,,16
+75933,Passaporte para Liberdade,Ended,2021-12-20,,TV Globo,BR,60,0,0,"Drama, History",8
+75934,We Need to Talk About Cosby,Ended,2022-01-30,,Showtime,US,60,0,0,,4
+75935,El Deafo,Ended,2022-01-07,,Apple TV+,US,10,0,0,"Comedy, Adventure, Children",3
+75936,Ничего особенного,In Development,,,Netflix,US,10,0,0,Drama,0
+75937,RuPaul's Drag Race UK vs The World,Running,2022-01-17,,BBC Three,GB,10,7.0000,1,,14
+75938,Delphine: mijn verhaal,Running,2022-01-12,,één,BE,10,0,0,,3
+75939,#weetikveel,Ended,2021-02-22,,VRT 1,BE,30,0,0,,20
+75940,Roadfood: Discovering America One Dish at a Time,Running,2021-12-03,,PBS,US,10,0,0,,13
+75941,The People's Question Time,In Development,,,GB News,GB,60,0,0,,0
+75942,We Need to Talk About...,Ended,2022-01-03,,GB News,GB,60,0,0,,89
+75943,Tough Love with Hilary Farr,To Be Determined,2021-12-20,,HGTV,US,60,0,0,,18
+75944,Kaginado,Running,2021-10-13,,Tokyo MX,JP,4,0,0,Comedy,24
+75945,Dimension 20 LIVE,To Be Determined,2019-10-16,,Twitch,US,150,0,0,"Comedy, Adventure, Fantasy",20
+75946,A Good Cop,Ended,2021-12-05,,NTD Television,US,60,0,0,"Crime, Drama",10
+75948,Twee zomers,Ended,2022-02-06,,VRT NU,BE,10,0,0,"Drama, Mystery, Thriller",6
+75949,De Kemping,Running,2021-04-15,,één,BE,50,0,0,,7
+75950,Château Planckaert,Running,2020-09-06,,één,BE,40,0,0,Family,26
+75951,Restaurant Misverstand,In Development,,,één,BE,10,0,0,,0
+75952,Meester Tijs,In Development,,,één,BE,10,0,0,,0
+75953,De jaren 80 voor tieners,In Development,,,één,BE,10,0,0,,0
+75954,Dwars door de Lage Landen,Running,2022-03-21,,VRT 1,BE,10,0,0,,16
+75955,Lost Luggage,Ended,2022-03-20,,VRT 1,BE,55,0,0,,6
+75956,Luchthaven 24/7,In Development,,,één,BE,10,0,0,,0
+75957,We Are Family,Ended,2024-01-03,,FOX,BE,60,0,0,Family,10
+75958,Campus Cup,Running,2019-05-27,,VRT 1,BE,50,0,0,,119
+75959,Zij aan zij,In Development,,,één,BE,10,0,0,,0
+75960,Niets gaat over,In Development,,,één,BE,10,0,0,,0
+75961,De notaris,In Development,,,één,BE,10,0,0,,0
+75962,Zorgen voor mama,Running,2021-04-20,,één,BE,45,0,0,,7
+75963,Familiequiz,Running,2021-12-13,,VTM GO,BE,4,0,0,,13
+75964,Martin Clunes: Islands of the Pacific,To Be Determined,2022-01-13,,Acorn TV,GB,10,0,0,"Adventure, Travel",6
+75965,Monterossi - La serie,To Be Determined,2022-01-17,,Prime Video,US,10,0,0,"Crime, Drama, Thriller",11
+75966,Party Island: Summer in Zante,Running,2022-01-03,,Channel 4,GB,65,0,0,,3
+75967,Moments Between the Moments,Ended,2021-12-07,,Facebook Watch,US,10,0,0,Music,6
+75968,Masameer County,Ended,2021-07-01,,Netflix,US,10,0,0,Comedy,14
+75969,Sex Zimmer Küche Bad,To Be Determined,2021-12-23,,Amazon Prime Video,US,10,0,0,"Comedy, Drama, Romance",8
+75970,Tales from the SMP,To Be Determined,2020-12-26,,twitch,US,60,0,0,"Adventure, Fantasy",8
+75971,Texas True Crime,Running,2021-04-22,,Hulu,US,10,0,0,Crime,15
+75972,Myths: The Great Mysteries of Humanity,Running,2021-12-13,,ZDFmediathek,DE,54,0,0,"Mystery, History",1
+75973,Johanna Möller - Sveriges mest hatade kvinna,Ended,2022-01-13,,Viaplay,US,10,0,0,Crime,3
+75974,Ligga – konsten att komma över sitt ex,Ended,2021-12-25,,discovery+,US,10,0,0,"Comedy, Drama, Romance",8
+75975,Eldorado KaDeWe,Ended,2021-12-27,,Das Erste,DE,45,0,0,"Drama, History",6
+75976,WWII in Color: Road to Victory,Ended,2021-12-22,,Netflix,US,10,0,0,"History, War",10
+75977,Koisenu Futari,Ended,2022-01-10,,NHK,JP,30,0,0,"Comedy, Drama",8
+75978,The Dawn of the Witch,Running,2022-04-07,,TBS,JP,24,10.0000,3,"Comedy, Adventure, Fantasy, Anime",12
+75979,GBN News Bulletin,To Be Determined,2021-12-26,,GB News,GB,6,0,0,,24
+75980,"Man, Woman, Dog",Running,2021-12-03,,National Geographic Channel,US,60,0,0,,8
+75981,No More Jockeys,Running,2020-06-19,,YouTube,US,30,0,0,,68
+75982,Call of the Night,Running,2022-07-07,,Fuji TV,JP,30,9.6667,6,"Comedy, Fantasy, Anime, Romance",25
+75983,Todos mienten,To Be Determined,2022-01-28,,Movistar+,ES,10,0,0,"Drama, Thriller",12
+75984,Twenty-Five Twenty-One,Ended,2022-02-12,,tvN,KR,80,9.6667,3,"Drama, Fantasy, Romance",16
+75985,Ambient Swim,Ended,2021-12-25,,Max,US,10,0,0,,9
+75986,La edad de la ira,Ended,2022-02-27,,ATRESplayer PREMIUM,ES,48,0,0,Drama,4
+75987,Hatchimals: Adventures in Hatchtopia,Running,2018-11-05,,YouTube,US,5,0,0,,54
+75988,Hello Misfortune,Ended,2021-12-27,,TVB,HK,60,0,0,,10
+75989,Vita da Carlo,Running,2021-11-05,,Prime Video,US,10,0,0,Comedy,30
+75990,Hanwoo Rhapsody,Ended,2022-01-06,,Netflix,US,49,0,0,Food,2
+75991,Spy×Family,Running,2022-04-09,,TV Tokyo,JP,30,9.4000,5,"Comedy, Action, Anime",50
+75992,Remix My Space with Marsai Martin,To Be Determined,2022-01-15,,discovery+,US,10,0,0,,8
+75993,"Like Mother, Like Daughter?",To Be Determined,2022-01-08,,discovery+,US,10,0,0,,8
+75994,King of the Con,Ended,2022-01-14,,discovery+,US,10,0,0,Crime,3
+75995,In My Own World,Running,2022-01-25,,Vice TV,US,60,0,0,,8
+75996,Verbúð,Ended,2021-12-26,,Ríkisútvarpið,IS,50,0,0,"Crime, Drama",8
+75997,Hunted VIPS,Running,2021-01-25,,NPO 3,NL,55,0,0,,19
+75998,Tracer,Ended,2022-01-07,,wavve,KR,70,0,0,"Drama, Mystery",24
+75999,I Hate You,Ended,2022-09-29,,Channel 4,GB,30,0,0,Comedy,6
+76000,Noggin,In Development,,,Disney+,US,10,0,0,,0
+76001,Full Circle,Running,,,Insight TV,US,10,0,0,,0
+76002,My Heart,Ended,2021-12-09,,Tencent QQ,CN,40,0,0,"Fantasy, Romance, Supernatural",24
+76003,Top Chef,Running,2016-09-21,,MBC,AE,75,0,0,Food,106
+76118,Are You the One?,To Be Determined,2020-04-14,,RTL+,DE,10,0,0,,125
+76119,БиМ,Running,2022-01-10,,НТВ,RU,65,0,0,Mystery,65
+76120,Fishbowl Wives,To Be Determined,2022-02-14,,Netflix,US,10,0,0,Drama,8
+76121,Hautalehto: Kylmä syli,To Be Determined,2021-12-09,,C More Finland,FI,10,0,0,"Crime, Mystery, Thriller",14
+76122,Erkek Severse,Ended,2022-01-20,,beIN CONNECT,TR,45,9.8333,6,"Comedy, Drama, Romance",26
+76123,Romeo & Duet,Ended,2022-04-16,,ITV1,GB,60,0,0,"Music, Romance",7
+76124,jeen-yuhs,Ended,2022-02-16,,Netflix,US,10,9.0000,2,Music,3
+76125,Monday Late Show,Running,2012-04-09,,NTV,JP,60,0,0,,586
+76126,Don't Call It Mystery,Ended,2022-01-10,,Fuji TV,JP,60,0,0,"Drama, Mystery",12
+76127,Mama the Idol,Ended,2021-12-10,,tvN,KR,10,0,0,,8
+76129,Soko Linz,Running,2022-02-01,,ORF 1,AT,45,0,0,,39
+76130,De Verraders: De Aftocht,Ended,,,VTM GO,BE,10,0,0,,0
+76131,Dr. Park's Clinic,Ended,2022-01-14,,TVING,KR,10,0,0,"Comedy, Drama, Medical",12
+76132,Street Outlaws: Farmtruck and Azn,Running,2022-01-10,,Discovery Channel,US,60,0,0,,8
+76133,"Thirty, Nine",Ended,2022-02-16,,jTBC,KR,80,10.0000,1,"Drama, Romance",12
+76134,Causa Própria,Ended,2022-01-05,,RTP1,PT,60,0,0,"Crime, Drama",7
+76135,Reginald the Vampire,Ended,2022-10-05,,Syfy,US,60,8.5000,4,"Comedy, Drama, Supernatural",20
+76136,Teen Mom: Girls Night In,To Be Determined,2022-01-11,,MTV,US,60,0,0,,20
+76137,One Love,Ended,2022-01-23,,One31,TH,60,0,0,"Comedy, Romance",15
+76138,49 Days with a Merman,Ended,2022-02-06,,KKTV,TW,60,0,0,"Comedy, Fantasy, Romance",14
+76139,Cielo Grande,Ended,2022-02-16,,Netflix,US,10,0,0,"Drama, Children",19
+76140,Big Nate,Ended,2022-02-17,,Paramount+,US,23,0,0,"Comedy, Children",36
+76141,Underground Railroad: The Secret History,Ended,2022-01-30,,Science,US,60,0,0,,10
+76142,Chithi 2,Running,2020-01-27,,Sun TV,IN,10,0,0,,437
+76143,Wonders of the Border,Running,2022-01-11,,ITV,GB,30,0,0,Travel,6
+76144,Ocean Wreck Investigation,To Be Determined,2021-10-21,,National Geographic Channel,AU,60,0,0,,10
+76145,Sergio Over De Grens,Running,2022-01-04,,VTM,BE,10,0,0,,25
+76146,Blind Gesprongen,Running,2022-04-04,,VTM,BE,50,0,0,,7
+76147,Paradijs zoekt Personeel,Running,2022-02-22,,VTM,BE,80,0,0,,6
+76148,Vrederechters,Running,2022-03-30,,VTM,BE,10,0,0,,8
+76149,Ons DNA,Running,2022-10-27,,VTM,BE,10,0,0,,1
+76150,Welkom in de Familie,In Development,,,VTM,BE,10,0,0,,0
+76151,Alloo en tot ziens,Ended,2022-03-03,,VTM,BE,75,0,0,,8
+76152,Venga Juan,Ended,2021-11-28,,HBO Max,US,10,0,0,,8
+76153,Der König von Palma,Running,2022-02-24,,RTL+,DE,10,0,0,,12
+76154,Awesomeness TV's Next Influencer,Ended,2020-11-22,,Paramount+,US,10,10.0000,1,,36
+76155,Barrett-Jackson REVVED UP,Running,2020-09-10,,FYI,US,60,0,0,,96
+76156,Reframed: Marilyn Monroe,Ended,2022-01-16,,CNN,US,60,10.0000,1,History,4
+76157,Cherry Blossoms After Winter,Ended,2022-02-24,,Heavenly,US,10,9.0000,2,"Drama, Romance",8
+76158,Take Out with Lisa Ling,To Be Determined,2022-01-27,,Max,US,10,0,0,Food,6
+76159,Married to Real Estate,Ended,2022-01-13,,HGTV,US,60,0,0,,44
+76160,Small Town Secrets,To Be Determined,2022-01-11,,Vice TV,US,60,0,0,,3
+76161,Taking the Stand,Running,2022-01-13,,A&E,US,60,0,0,Crime,52
+76162,Baby in Charge,Ended,2021-12-20,,NHK World,JP,5,0,0,Comedy,15
+76163,Learning with Pibby: Apocalypse,Running,2021-10-30,,Adult Swim,US,10,10.0000,2,,1
+76164,Murderville,Ended,2022-02-03,,Netflix,US,10,8.0000,1,"Comedy, Crime, Mystery",6
+76165,Justified: City Primeval,Ended,2023-07-18,,FX,US,10,9.0000,3,"Crime, Drama",8
+76166,Nos Tempos do Imperador,Ended,2021-08-09,,TV Globo,BR,40,0,0,"Drama, Action, Romance",154
+76167,Bondi Forever,Ended,2018-11-18,,ABC iView,AU,10,0,0,,2
+76168,Campus Diaries,To Be Determined,2022-01-07,,MX Player,IN,10,0,0,"Comedy, Drama, Romance",12
+76169,The Chronicles of Strangford,Ended,2022-01-17,,BBC One Northern Ireland,GB,30,0,0,Nature,4
+76170,Mates on a Mission,Running,2022-01-13,,Seven Network,AU,90,0,0,Travel,1
+76171,The World's Most Expensive Hotels,Running,2021-05-01,,Channel 5,GB,60,0,0,,8
+76172,Home Inspector Joe,Ended,2022-01-19,,HGTV,US,60,10.0000,1,DIY,10
+76173,American Rock Stars,Ended,2022-01-26,,Peacock,US,10,0,0,Sports,4
+76174,50/50 Flip,Ended,2022-01-29,,A&E,US,60,10.0000,1,DIY,18
+76175,Adults Adopting Adults,Ended,2022-01-31,,A&E,US,60,0,0,,5
+76176,FreakAngels,Running,2022-01-27,,Crunchyroll,US,10,0,0,Anime,9
+76177,Freaked Out,Running,2022-01-31,,Canal+,FR,10,0,0,,8
+76178,Posse,Running,2014-10-03,,MTV3,FI,70,0,0,Comedy,104
+76179,Stuck,To Be Determined,2022-09-26,,BBC iPlayer,GB,10,0,0,Comedy,5
+76180,Mood,To Be Determined,2022-03-01,,BBC iPlayer,GB,10,10.0000,1,"Drama, Music",6
+76182,New York,Running,2022-01-07,,Channel 5,GB,60,0,0,,3
+76183,Josep,In Development,,,ABC,US,10,0,0,,0
+76184,Found,Ended,2023-10-03,,NBC,US,60,8.3333,3,"Crime, Drama, Mystery",35
+76186,Human,To Be Determined,2022-01-14,,Disney+ Hotstar,US,10,0,0,"Drama, Thriller",10
+76187,Zero Hour,Ended,2022-01-10,,Kan 11,IL,10,0,0,Drama,6
+76189,Reset,Ended,2022-01-11,,Tencent QQ,CN,10,0,0,"Drama, Thriller, Science-Fiction",15
+76190,Story of the Day When You Bite Your Tail,Running,2020-09-17,,SBS,KR,75,0,0,,169
+76191,The Fix,Running,2022-01-21,,Roku,US,10,0,0,,8
+76192,Rikets sikkerhet,Ended,2022-01-30,,NRK TV,NO,10,0,0,"Crime, Mystery, Espionage",6
+76193,Cupid's Kitchen,Ended,2022-01-13,,Youku,CN,45,0,0,,40
+76194,Red Notice,Running,2021-11-12,,Netflix,US,10,0,0,"Comedy, Crime, Action",1
+76195,Водна поліція,Ended,2022-01-31,,Україна,UA,46,0,0,"Crime, Mystery, Adventure",44
+76196,Kelvin's Big Farming Adventure,Ended,2022-01-17,,BBC One,GB,30,0,0,,6
+76529,L'Indice McSween,Running,,,Télé-Québec,CA,10,0,0,,0
+76530,C'est humain,Running,,,Télé-Québec,CA,10,0,0,,0
+76531,Bloom County,In Development,,,FOX,US,10,0,0,,0
+76532,The Challenge: USA,Ended,2022-07-06,,CBS,US,60,6.0000,1,,26
+76533,Son Nefesime Kadar,Ended,2022-02-23,,FOX Türkiye,TR,10,0,0,"Crime, Drama",5
+76534,NCIS: Sydney,Running,2023-11-10,,Paramount+,AU,10,10.0000,1,"Crime, Drama",29
+76535,A Gentleman in Moscow,Ended,2024-03-29,,Paramount+,US,10,7.0000,1,"Drama, History",8
+76536,1923,Ended,2022-12-18,,Paramount+,US,10,9.1250,8,"Drama, Western",16
+76537,A Friend of the Family,Ended,2022-10-06,,Peacock,US,10,0,0,"Crime, Drama, Thriller",9
+76538,The Real Death in Paradise,To Be Determined,2022-01-15,,discovery+,US,44,0,0,Crime,9
+76539,Stress Things ATEEZ,Ended,2022-02-15,,Universe,KR,15,0,0,"Comedy, Horror",8
+76541,Hillsong: A Megachurch Exposed,Ended,2022-03-24,,discovery+,US,10,0,0,,4
+76542,Tayat Pan Kao Nieow,Ended,2022-02-16,,One31,TH,60,0,0,"Drama, Romance",46
+76543,Bilardo: El doctor del fútbol,To Be Determined,2022-02-24,,Max,US,10,0,0,Sports,4
+76544,Hackad,To Be Determined,2021-10-19,,SVT Play,SE,10,0,0,,6
+76546,Rust Belt News,In Development,,,CBS,US,10,0,0,Comedy,0
+76547,The Big Conn,Ended,2022-05-05,,Apple TV+,US,10,0,0,Crime,4
+76548,Lizzo's Watch Out for the Big Grrrls,To Be Determined,2022-03-25,,Prime Video,US,10,0,0,,8
+76549,Folkevalgt,Ended,2022-02-28,,NRK TV,NO,10,0,0,,6
+76550,Loggerheads,Running,2022-02-17,,BBC Scotland,GB,30,0,0,,6
+76551,Into the Wild Frontier,Running,2022-02-17,,insp,US,60,0,0,History,31
+76552,THE LETTERs,Ended,2022-02-01,,YouTube,US,10,0,0,"Drama, Romance",3
+76553,The Julia Child Challenge,To Be Determined,2022-03-14,,Food Network,US,10,0,0,Food,6
+76554,Roman to the Rescue,To Be Determined,2022-02-12,,Disney XD,US,30,0,0,,17
+76555,Rock Till We Drop,Running,2022-03-01,,BBC Two,GB,60,0,0,Music,4
+76556,Remember 15,Ended,2022-02-22,,Viu,US,10,0,0,"Drama, Horror",12
+76557,The Hug Machine,In Development,,,CBS,US,10,0,0,,0
+76558,Ruby and the Well,Running,2022-02-27,,BYUtv.org,US,10,0,0,"Drama, Family, Fantasy",36
+76559,Kid of the Year,Ended,2020-12-04,,Nickelodeon,US,60,0,0,Children,2
+76560,Pisarze. Serial na krótko,Running,2019-06-08,,Canal+,PL,10,0,0,,21
+76561,Going to You at a Speed of 493 km,Ended,2022-04-20,,KBS2,KR,70,10.0000,1,"Drama, Sports, Romance",16
+76562,The Devil's Throat (Djavolskoto Garlo),Running,,,Nova TV,BG,10,0,0,,0
+76563,Theodore Roosevelt,Ended,2022-05-30,,History,US,120,0,0,,2
+76564,Wolf Pack,Ended,2023-01-26,,Paramount+,US,10,9.3333,6,"Drama, Horror, Supernatural",8
+76565,A Rainha e a Bastarda,Ended,2022-02-23,,RTP1,PT,60,0,0,"Drama, History",8
+76567,The Crack of Dawn,Ended,2022-01-27,,Mango TV,CN,35,0,0,Drama,24
+76568,Donde hubo fuego,To Be Determined,2022-08-17,,Netflix,US,10,0,0,"Drama, Mystery, Adventure",39
+76569,Real Steel,In Development,,,Disney+,US,10,0,0,"Drama, Action, Science-Fiction",0
+76570,Salade Grecque,To Be Determined,2023-04-14,,Prime Video,US,10,0,0,"Comedy, Drama",8
+76571,Deadloch,Running,2023-06-02,,Prime Video,US,10,0,0,"Comedy, Crime, Mystery",9
+76572,Lawmen: Bass Reeves,Ended,2023-11-05,,Paramount+,US,10,10.0000,1,"Crime, Drama, Western",8
+45375,Путешествие из Петербурга в Москву: особый путь,Canceled,Nov/27/2014,Dec/26/2014,Дождь,RU,26,0,0,"History, Interview, Politics, Lifestyle, Travel, Literature",6
+76574,Devoured,Running,2022-02-21,,Vice TV,US,60,0,0,"Crime, Drama, Food",6
+76575,The King of Pigs,Ended,2022-03-18,,TVING,KR,10,0,0,"Drama, Mystery, Thriller",12
+76576,Hotel Margaret,Ended,2022-01-31,,RTL Klub,HU,48,0,0,"Comedy, Crime",61
+76577,Технарь,Ended,2022-02-16,,KION,RU,10,0,0,,8
+76578,Arjen,Ended,2024-04-26,,GAIN,NL,10,0,0,"Crime, Drama, Action",247
+76579,Zachowaj spokój,Ended,2022-04-22,,Netflix,US,10,0,0,"Crime, Drama, Thriller",6
+76580,Jane McDonald: My Yorkshire,Running,2022-02-20,,Channel 5,GB,60,0,0,,1
+76581,Queer·ious,Running,2019-12-31,,YouTube,US,10,0,0,"Drama, Romance",1
+76582,The Great Indian Murder,To Be Determined,2022-02-04,,Disney+ Hotstar,US,10,0,0,"Crime, Mystery, Action",9
+76583,Meeno's Yorizori,Ended,2021-08-27,,E Channel,KR,15,0,0,,29
+76584,My Beloved (?) In-law,Ended,2022-02-14,,Channel 7,TH,90,0,0,"Comedy, Romance",18
+76585,Dale Gas,To Be Determined,2022-03-16,,Netflix,US,10,0,0,"Crime, Action, Thriller",10
+76586,Vostro Onore,Ended,2022-02-28,,Rai 1,IT,65,0,0,"Crime, Thriller, Legal",8
+76587,Когда закончится февраль,Ended,2022-02-21,,Россия 1,RU,45,0,0,Drama,6
+76588,Бабуля,Ended,2022-02-19,,Россия 1,RU,47,0,0,"Drama, Romance",4
+76589,We Are Black and British,Running,2022-02-23,,BBC Two,GB,60,0,0,,2
+76590,Unspun World with John Simpson,Running,2022-02-23,,BBC Two,GB,25,0,0,,67
+76591,Today at the Caravan Show,Running,2022-02-23,,Channel 5,GB,60,0,0,,2
+76592,Is It Cake?,Running,2022-03-18,,Netflix,US,10,0,0,"Comedy, Food",24
+76593,Lov3,To Be Determined,2022-02-18,,Prime Video,US,10,0,0,Comedy,6
+76594,Byron Baes,To Be Determined,2022-03-09,,Netflix,US,10,0,0,,8
+76595,The Andy Warhol Diaries,Ended,2022-03-09,,Netflix,US,10,0,0,,6
+76596,Life and Death in the Warehouse,In Development,,,BBC Three,GB,60,0,0,,1
+76597,Phoenix Rising,Ended,2022-03-15,,HBO Max,US,10,0,0,,2
+76598,Тени старого шкафа,Ended,2022-02-22,,Домашний,RU,48,0,0,"Drama, Romance",4
+76599,Дина и Доберман,Ended,2022-02-23,,НТВ,RU,51,0,0,"Drama, Romance, War",4
+76600,Беременна в 45,Running,2022-03-02,,Ю,RU,60,0,0,,24
+76601,Royal Feast,Ended,2022-02-22,,Hunan TV,CN,45,10.0000,3,"Drama, Romance, Food",40
+76602,Vandaag Inside,Running,2022-01-10,,SBS 6,NL,50,0,0,,805
+76603,Власть,Ended,2022-08-24,,Okko,RU,10,0,0,,10
+76604,Transformers: BotBots,Ended,2022-03-25,,Netflix,US,10,0,0,"Comedy, Action, Science-Fiction",20
+76605,Silverpoint,To Be Determined,2022-03-06,,BBC iPlayer,GB,10,0,0,"Drama, Family, Science-Fiction",26
+76606,Алиса не может ждать,Ended,2022-10-20,,Start,RU,10,0,0,,8
+76607,"Ева, рожай!",To Be Determined,2022-09-20,,Start,RU,10,0,0,"Comedy, Drama",13
+76608,Irodorimidori,Ended,2022-01-05,,Tokyo MX,JP,3,0,0,Anime,8
+79249,Juliet,Running,2024-03-03,,VRT 1,BE,45,0,0,,6
+79250,Watson,Running,2025-01-26,,CBS,US,60,5.0000,1,"Drama, Mystery, Medical",24
+79251,New Edition,Ended,2022-10-10,,TalkTV,GB,60,0,0,,5
+79252,Class,Running,2023-02-03,,Netflix,US,10,0,0,"Crime, Drama, Thriller",8
+79253,Silent,Ended,2022-10-06,,Fuji TV,JP,10,0,0,"Drama, Romance",11
+79254,Riches,To Be Determined,2022-12-02,,Prime Video,GB,10,0,0,Drama,6
+79256,Hôtel,Running,2022-09-22,,TVA,CA,43,0,0,Drama,24
+79257,Вызов,Running,2022-10-15,,ТНТ,RU,60,0,0,,30
+79258,A Série,Ended,2022-10-09,,RTP2,PT,30,0,0,,13
+79259,BEGINS ≠ YOUTH,Ended,2024-04-30,,Xclusive,KR,10,0,0,Drama,12
+79260,GAP,Ended,2022-11-19,,Channel 3,TH,60,10.0000,1,"Comedy, Romance",12
+79261,Ammo,Ended,2022-10-20,,TV 2 Play,NO,10,0,0,Drama,6
+79262,Addict,Ended,2022-10-27,,TF1,FR,60,10.0000,1,Drama,6
+79263,The Wedding,To Be Determined,2022-10-24,,BBC iPlayer,GB,10,0,0,Drama,6
+79265,Beauty and the Geek UK,To Be Determined,2022-09-25,,discovery+,US,10,0,0,Romance,8
+79267,Сны,Ended,2022-11-03,,Premier,RU,30,0,0,"Mystery, Science-Fiction",8
+79268,Life After,To Be Determined,2022-10-18,,Prime Video,US,10,0,0,Sports,8
+79269,Cuomo,Running,2022-10-03,,NewsNation,US,60,0,0,,481
+79270,Homicide Hunter: American Detective,Running,2021-01-04,,Investigation Discovery,US,60,10.0000,1,Crime,41
+79271,Arknights,To Be Determined,2022-10-28,,TV Tokyo,JP,30,0,0,"Drama, Action, Science-Fiction",26
+79272,Drag Race España: All Stars,To Be Determined,2024-01-14,,ATRESplayer PREMIUM,ES,10,0,0,,7
+79273,Désordres,Running,2022-10-03,,Canal+,FR,30,0,0,Comedy,8
+79274,Drag Race Sverige: Otejpat!,To Be Determined,2023-03-04,,SVT1,SE,10,0,0,,8
+79275,Brigi és Brúnó,Ended,2022-10-17,,VIASAT3,HU,30,0,0,,62
+79276,Передача знаний,Running,2022-09-04,,Россия Культура,RU,48,0,0,,9
+79277,The Turning Point,Running,2022-10-23,,MSNBC,US,60,0,0,,9
+79278,Low Country: The Murdaugh Dynasty,Ended,2022-11-03,,Max,US,60,0,0,"Crime, Legal",3
+79279,Апокалипсис древних времен,In Development,,,Netflix,US,10,0,0,,8
+79280,Dare Master,To Be Determined,2021-06-21,,CITV,GB,10,0,0,,20
+79281,Знаковые места русской литературы,Running,2022-10-21,,Chill,RU,10,0,0,,5
+79282,Párharc,To Be Determined,2022-10-17,,TV2,HU,80,0,0,,60
+79283,The Bequeathed,Ended,2024-01-19,,Netflix,US,10,0,0,"Crime, Mystery",6
+79284,Sizi Dinliyorum,Running,2022-09-23,,Exxen,TR,10,0,0,,10
+79285,Право на свободу,Ended,2022-10-20,,Wink,RU,10,0,0,"Crime, Drama",8
+79286,Corpo Libero,To Be Determined,2022-10-26,,Paramount+,US,10,0,0,"Drama, Sports",6
+79287,Alex Jones: Making Babies,Ended,2023-01-05,,U&W,GB,60,0,0,Medical,10
+79288,Chasing the Rains,To Be Determined,2023-04-02,,Sky Nature,GB,60,0,0,Nature,4
+79289,Home: The Story of Earth,To Be Determined,2022-09-13,,ABC,AU,60,0,0,"Science-Fiction, Nature",4
+79290,J'Irai Dormir Chez Vous,Running,2005-07-01,,RMC Découverte,FR,52,0,0,Travel,80
+79291,J'irai dormir chez vous L'intégrale,To Be Determined,2021-11-12,,RMC Découverte,FR,10,0,0,,3
+79292,The Car Club,Running,2022-10-22,,7mate,AU,30,0,0,,24
+79293,Midnight Horror: Six Nights,Ended,2022-10-27,,Seezn,KR,25,0,0,Horror,6
+79294,Кухня по любви,Ended,2022-10-01,,СТС,RU,4,0,0,Food,8
+79295,Lost Worlds with Ben Fogle,Running,2022-10-27,,Channel 5,GB,90,0,0,,3
+79296,Viagem a Portugal,Ended,2022-10-22,,RTP1,PT,60,0,0,,6
+79297,Дедлайн,Ended,2022-10-01,,KION,RU,10,0,0,,7
+79298,La Pitchoune: Cooking in France,To Be Determined,2022-10-23,,Magnolia Network,US,10,0,0,Food,7
+79299,The Challenge Australia,Running,2022-11-14,,Network 10,AU,60,0,0,,10
+79300,The Travelling Auctioneers,Running,2022-10-31,,BBC iPlayer,GB,10,0,0,,75
+79301,Scotland's Biggest Families,Running,2022-10-31,,BBC One Scotland,GB,60,0,0,,3
+79302,Together Stronger,Running,2022-11-02,,BBC One Wales,GB,60,0,0,Sports,3
+79303,La vita bugiarda degli adulti,Ended,2023-01-04,,Netflix,US,10,0,0,Drama,6
+79304,Quelle époque !,Running,2022-09-24,,France 2,FR,140,0,0,,6
+79305,Beach Cottage Chronicles,Running,2022-07-07,,HBO Max,US,10,0,0,,60
+79306,Пробный переезд,Running,2022-10-22,,Пятница,RU,45,0,0,,40
+79307,"Pepsi, Where's My Jet?",Ended,2022-11-17,,Netflix,US,10,0,0,"History, Legal",4
+79308,Steel Troops,Running,2021-03-23,,Channel A,KR,10,0,0,Action,57
+79309,The Parent Test,Ended,2022-12-15,,ABC,US,60,0,0,,10
+79310,Love & Hip Hop: Where Are They Now?,Ended,2022-10-31,,VH1,US,60,0,0,,4
+79311,"Black Widows: Kiss, Marry, Kill",Running,2022-09-15,,Investigation Discovery,US,60,0,0,Crime,6
+79312,Inseparables: Amor al límite,To Be Determined,2019-05-27,,Univision,US,120,0,0,Romance,40
+79313,Аксентьев,Ended,2022-11-01,,Okko,RU,50,0,0,"Crime, Drama, Mystery",8
+79314,Priere De Ne Pas Envoyer Des Fleurs,Running,2014-01-09,,ICI Radio-Canada Télé,CA,10,0,0,,64
+79315,Storybots: Answer Time,Ended,2022-11-21,,Netflix,US,10,0,0,"Comedy, Adventure, Children",22
+79316,The Good Ship Murder,Running,2023-10-13,,5,GB,60,0,0,"Crime, Drama, Mystery",15
+79317,Inside the Sydney Opera House,Ended,2022-10-23,,ABC,AU,60,0,0,,3
+79318,Till the World Ends,Ended,2022-10-29,,Amarin TV,TH,60,0,0,"Drama, Thriller, Romance",10
+79319,Glow Up - Deutschlands nächster Make-up-Star,Running,2022-09-22,,ZDFneo,DE,60,0,0,,8
+79320,Tug of Words,Ended,2021-11-08,,Game Show Network,US,30,0,0,,130
+79321,La Novia Gitana,To Be Determined,2022-09-25,,ATRESplayer PREMIUM,ES,10,0,0,"Crime, Drama, Mystery",16
+79322,Junji Ito Maniac: Japanese Tales of the Macabre,Ended,2023-01-19,,Netflix,US,10,0,0,"Anime, Horror",12
+79323,World War II: Secrets from Above,Running,2022-09-19,,National Geographic,GB,60,0,0,"History, War",18
+79324,The 1619 Project,Ended,2023-01-26,,Hulu,US,10,0,0,"Drama, History",6
+79325,Это миниатюры,Ended,2022-10-31,,ТНТ4,RU,60,0,0,Comedy,9
+79326,Black Rabbit,Ended,2025-09-18,,Netflix,US,10,8.0000,1,"Drama, Thriller",8
+79327,Roadworthy Rescues,Running,2022-09-27,,MotorTrend,US,60,0,0,,33
+79328,The Bends,In Development,,,FX,US,10,0,0,Thriller,0
+80250,Quand les murs tombent,Running,,,CASA,CA,22,0,0,DIY,0
+80251,Slammed The Seventies,Running,2023-01-25,,BBC iPlayer,GB,10,0,0,,3
+80252,"My Mum, Your Dad",Running,2023-09-11,,ITV1,GB,60,0,0,Romance,20
+80253,Shift Talkers,To Be Determined,2020-06-15,,Motor Trend On Demand,US,10,0,0,,21
+80302,Ну-ка все вместе: Битва сезонов.,To Be Determined,2023-02-03,,Россия 1,RU,133,0,0,,5
+80303,Hotel Mondial,To Be Determined,2023-01-25,,ZDF,DE,45,0,0,Drama,24
+80304,Volver a caer,Ended,2023-01-20,,Vix,US,10,0,0,"Drama, Romance",6
+80305,Kitchen Commando,To Be Determined,2023-02-12,,Tubi,US,10,0,0,Food,10
+80306,Rise of the Dragon,Running,2022-07-02,,Youku,CN,10,10.0000,1,"Action, Adventure, Fantasy, Anime",40
+80646,Big Mood,Running,2024-03-28,,Channel 4,GB,10,0,0,Comedy,6
+80647,La vie en slip,Running,,,myCANAL,FR,10,0,0,,0
+80648,Passengers,Running,2023-02-14,,TVNZ 1,NZ,60,0,0,History,4
+80649,Falling for You,Ended,2023-02-18,,Tencent QQ,CN,10,0,0,"Fantasy, Romance",24
+80650,We Interrupt This Broadcast,Ended,2023-02-28,,Seven Network,AU,60,0,0,Comedy,10
+80651,Quarterback,To Be Determined,2023-07-12,,Netflix,US,10,0,0,Sports,15
+80652,Ciao House,To Be Determined,2023-04-16,,Food Network,US,60,0,0,Food,18
+80653,AEW: All Access,Ended,2023-03-29,,TBS,US,60,0,0,Sports,6
+80654,Колотушка,Ended,2023-03-23,,Premier,RU,10,0,0,"Comedy, Drama, Sports",10
+80655,Hear Your Hearbeat,Ended,2023-02-17,,Kuaishou,CN,5,0,0,"Drama, Fantasy, Romance",25
+80656,How to Survive Difficulty in the Brainless Manga,Ended,2023-02-22,,Youku,CN,15,0,0,Romance,30
+80657,Cavalos de Corrida,Ended,2023-02-22,,RTP1,PT,60,0,0,"Crime, Drama",8
+80658,Snövita Drömmar,Running,2023-02-21,,SVT Play,SE,30,0,0,"Adventure, Travel",6
+80659,Balto,Running,2023-02-08,,Watch iT!,EG,30,10.0000,1,"Drama, Medical",10
+80660,Operarejsen,Running,2022-03-06,,DR1,DK,10,0,0,Travel,18
+80661,Pettaikaali,Running,2022-10-21,,aha,IN,10,0,0,"Drama, Mystery, Romance",8
+80662,"I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",Running,2023-04-03,,Tokyo MX,JP,30,9.8750,8,"Action, Adventure, Fantasy, Anime",13
+80663,Just an Excuse,Running,2022-11-17,,YouTube,US,10,0,0,,81
+80664,Teach Me How,Ended,2023-02-27,,YouTube,US,10,0,0,"Drama, Romance",7
+80665,Аутсайдер,Running,2023-02-27,,НТВ,RU,60,0,0,"Crime, Mystery, Action",24
+80666,Once Young,Ended,2023-02-27,,Tencent QQ,CN,45,0,0,Drama,25
+80667,Лимитчицы,Running,2023-02-27,,Россия 1,RU,48,0,0,"Drama, Romance",16
+80668,Alliance,Ended,2023-09-19,,CCTV-8,CN,45,0,0,"Drama, Romance",36
+80669,Biz Kimden Kaçıyorduk Anne?,To Be Determined,2023-03-24,,Netflix,US,10,0,0,"Crime, Drama",7
+80670,Amidst a Snowstorm of Love,Ended,2024-02-02,,Tencent QQ,CN,10,9.0000,1,Romance,30
+80671,Who Killed Robert Wone?,Ended,2023-03-07,,Peacock,US,10,0,0,Crime,2
+80672,"Cocaïne, Prison & Likes: La Vraie Histoire D'Isabelle",Running,2022-12-01,,Crave,CA,10,0,0,,3
+80673,Drift: Partners in Crime,To Be Determined,2023-02-24,,Sky Go,DE,10,0,0,"Crime, Drama, Thriller",10
+80674,The Exhibit: Finding the Next Great Artist,To Be Determined,2023-03-03,,MTV,US,60,0,0,,6
+80676,FBI True,Running,2023-02-28,,Paramount+,US,10,0,0,Crime,86
+80677,Waco: American Apocalypse,In Development,2023-03-22,,Netflix,US,10,0,0,"Crime, History",3
+80678,Cromosoma 21,Running,2022-10-14,,Canal 13,CL,10,0,0,,8
+80679,Bright Eyes,Ended,2025-05-26,,Mango TV,CN,10,0,0,"Drama, Romance",40
+80680,Warm on a Cold Night,Ended,2023-02-25,,iQIYI,US,45,0,0,"Mystery, Action, Romance",36
+80681,Tailor Made - Chi Ha La Stoffa?,To Be Determined,2022-06-28,,discovery+,US,10,0,0,,6
+80682,Adım Farah,Ended,2023-03-01,,NOW,TR,140,9.5000,4,"Crime, Drama, Romance",27
+80683,Wer stiehlt mir die Show?,Running,2021-01-05,,ProSieben,DE,200,0,0,,59
+80684,Detektiven från Beledweyne,To Be Determined,2023-03-10,,SVT Play,SE,10,0,0,"Crime, Drama",6
+80685,Show Me Love,Ended,2023-02-28,,YouTube,US,10,9.0000,5,"Comedy, Drama, Romance",9
+80686,My Blessing,Ended,2023-03-11,,WeTV,US,10,0,0,"Drama, Romance",2
+80687,The Good Time,Ended,2023-02-27,,Youku,CN,40,0,0,Romance,24
+80688,Cops Who Kill with Will Mellor,Running,2023-03-06,,Crime & Investigation,GB,60,0,0,Crime,7
+80689,U-Boat Wargamers,Running,2023-02-21,,Sky History,GB,75,0,0,"History, War",6
+80690,Skip and Loafer,Running,2023-04-04,,Tokyo MX,JP,10,9.0000,1,"Comedy, Anime, Romance",12
+80691,Langs de nieuwe zijderoute,Running,2023-03-05,,NPO 2,NL,10,0,0,,6
+80692,"Min Mamma, Din Pappa",Running,2023-03-08,,TV4 Play,SE,45,0,0,Romance,10
+80693,Різдво та Маланка,Ended,2018-12-21,,YouTube,US,10,0,0,"History, Travel",10
+80694,Стріха,Ended,2023-02-11,,YouTube,US,10,0,0,"History, Travel",5
+80695,Vice Special Report,Ended,2023-01-05,,Vice TV,US,60,0,0,,46
+80696,Snoopy Presents,To Be Determined,2021-12-10,,Apple TV+,US,10,0,0,"Comedy, Adventure, Children",7
+80697,Еще одна попытка полюбить,Running,2023-03-02,,Домашний,RU,10,0,0,,4
+80698,The Wine Down with Mary J. Blige,To Be Determined,2023-03-01,,BET,US,60,10.0000,1,,2
+80699,Gunma-chan,Running,2021-10-03,,TV Kanagawa,JP,30,0,0,Anime,26
+80700,The Tribute: Battle of the Bands,Running,2022-01-15,,SBS 6,NL,10,0,0,Music,14
+80701,Map for the Wedding,To Be Determined,2022-10-07,,Prime Video,US,10,0,0,,10
+80702,Pokémon Concierge,To Be Determined,2023-12-28,,Netflix,US,10,7.0000,1,"Comedy, Adventure",8
+80704,The Legend of Taotie,Ended,2024-12-10,,Youku,CN,10,0,0,"History, Fantasy, Romance",40
+80705,Jamie's £1 Wonders,Running,2023-03-06,,Channel 4,GB,60,0,0,Food,6
+80706,George Michael: Outed,Ended,2023-03-06,,Channel 4,GB,60,0,0,,2
+80707,Bronson: Fit to Be Free?,To Be Determined,2023-02-27,,All 4,GB,47,0,0,Crime,2
+80708,Home Greek Home,Running,2023-02-28,,More4,GB,60,0,0,DIY,6
+80709,The Girl in the Box: The Kidnapping of Stephanie Slater,Running,2023-02-28,,Channel 5,GB,60,0,0,,2
+80710,A Body That Works,Running,2023-02-13,,Keshet 12,IL,60,0,0,Drama,8
+80711,Век СССР,Running,2023-02-27,,Первый канал,RU,85,0,0,History,5
+80712,Ao no Orchestra,Running,2023-04-09,,NHK,JP,30,0,0,"Drama, Anime, Romance",36
+80713,Tousouchuu: Great Mission,Running,2023-04-02,,Fuji TV,JP,30,10.0000,1,Anime,97
+80714,Scrublands,To Be Determined,2023-11-16,,Stan,AU,10,0,0,"Crime, Drama",8
+80715,Мама может,Running,2023-03-11,,Россия 1,RU,10,0,0,"Drama, Romance",4
+80716,На выход!,Ended,2023-03-08,,СТС,RU,60,0,0,,18
+80717,White Lies,Ended,2024-03-07,,M-Net,ZA,60,8.0000,1,"Crime, Drama, Thriller",8
+80718,Real Madrid: Until the End,Ended,2023-03-10,,Apple TV+,US,10,0,0,Sports,3
+80719,Isle of Wight: Jewel of the South,Running,2023-03-02,,Channel 5,GB,60,0,0,,10
+80720,Into the Grand Canyon with Nick Knowles,Ended,2023-03-02,,Channel 5,GB,60,0,0,"Adventure, Travel",2
+80721,Murder in the Pacific,Running,2023-03-02,,BBC iPlayer,GB,10,0,0,,3
+80722,Unintentional Love Story,Ended,2023-03-17,,TVING,KR,10,9.6667,6,"Comedy, Drama, Romance",10
+82518,Norfolk and Suffolk: Country & Coast,Running,2023-09-06,,Channel 5,GB,58,0,0,,6
+82520,4 Cut Hero,Ended,2023-07-17,,Bilibili,CN,10,10.0000,1,"Comedy, Action, Fantasy",10
+82522,Elizabeth II: Making of a Monarch,Ended,2023-08-05,,Channel 4,GB,60,0,0,History,2
+82524,Jee Karda,To Be Determined,2023-06-15,,Prime Video,US,10,0,0,"Drama, Romance",8
+82526,Deer Squad,To Be Determined,2021-01-25,,Nick Jr.,US,13,0,0,"Comedy, Adventure, Science-Fiction",120
+82528,Puppy School for Guide Dogs,Running,2023-09-01,,Channel 5,GB,60,0,0,,4
+82530,Scotland's Most Luxurious Railway,In Development,,,Channel 4,GB,10,0,0,Travel,0
+82532,Good Night World,Ended,2023-10-12,,Netflix,US,10,0,0,"Anime, Science-Fiction",12
+82534,Farm Dreams,Running,2023-07-29,,National Geographic: Wild,US,60,0,0,,6
+82536,Farming for Love,Running,2023-05-28,,CTV,CA,44,0,0,Romance,20
+82538,My Personal Weatherman,Ended,2023-08-11,,MBS,JP,30,10.0000,4,"Comedy, Romance",8
+82540,LOL: Last One Laughing Argentina,To Be Determined,2023-03-17,,Prime Video,US,10,0,0,Comedy,6
+82542,Couch Talk with Captain Lee and Kate,To Be Determined,2023-08-14,,Bravo,US,30,0,0,,10
+82544,Deadlocked: How America Shaped the Supreme Court,Ended,2023-09-22,,Paramount+,US,10,0,0,,5
+82546,Контуженный,Running,2023-08-13,,Пятый канал,RU,10,0,0,Crime,16
+82548,Wu Ming Dang Pu,Ended,2023-08-02,,Tencent QQ,CN,7,0,0,Drama,24
+82550,Murder Detective with Graham Hill,Running,2022-10-16,,Crime & Investigation,GB,60,0,0,,10
+82552,Karen Carney's Leaders of the Pack,Running,2023-07-12,,ITV4,GB,30,0,0,Sports,6
+82554,СуперИвановы,Running,2023-08-14,,ТВ-3,RU,60,0,0,"Comedy, Mystery",58
+82556,The Galloping Remaining Year,Ended,2023-08-04,,Tencent QQ,CN,10,0,0,Drama,19
+82558,Cross Country Cake Off,Running,2022-12-15,,CTV,CA,45,0,0,Food,10
+82560,Miseducation,To Be Determined,2023-09-15,,Netflix,US,10,7.0000,1,"Comedy, Drama",6
+82562,Does Murder Sleep?,To Be Determined,2023-08-02,,Investigation Discovery,US,60,0,0,Crime,6
+82564,Missing Persons Investigation,To Be Determined,2023-08-14,,Nine Network,AU,60,0,0,Crime,9
+82566,Live to 100: Secrets of the Blue Zones,Ended,2023-08-30,,Netflix,US,10,0,0,"Travel, Food",4
+82568,Tales of the Teenage Mutant Ninja Turtles,Running,2024-08-09,,Paramount+,US,10,0,0,,12
+82570,Fright Krewe,To Be Determined,2023-10-02,,Hulu,US,10,0,0,Adventure,20
+82572,Черное облако,Running,2023-09-07,,Okko,RU,10,0,0,"Drama, Thriller",9
+82574,Kriminalarkivet med Pops och Lampers,To Be Determined,2021-10-30,,SVT Play,SE,10,0,0,,36
+82576,Metaverse,Ended,2023-08-07,,Tencent QQ,CN,10,0,0,"Romance, Science-Fiction",20
+82578,Drag Heals,To Be Determined,2018-09-07,,OUTtv,CA,10,0,0,,32
+82580,Слей шоу,Running,2023-03-22,,UA:Перший,UA,30,0,0,,78
+82582,KCSI: Smoking Gun,Ended,2023-03-29,,KBS2,JP,90,0,0,,30
+82584,Kekkon Yoteibi,Ended,2023-08-04,,MBS,JP,10,0,0,"Comedy, Drama, Romance",8
+82586,MEAC/SWAC Challenge Kickoff,Running,2023-08-26,,ABC,US,210,0,0,,3
+82588,Camping World Kickoff,Running,2023-09-03,,ABC,US,210,0,0,,1
+82590,Aer Lingus College Football Classic Ireland,Running,2023-08-26,,ESPN,US,210,0,0,,4
+82592,Vegas Kickoff Classic,Running,2024-09-01,,ABC,US,210,0,0,,2
+82594,Teresa Teng,Ended,2024-06-06,,Dragon TV,CN,10,0,0,Drama,48
+82596,Days with Ambition and Pride,Ended,2023-08-05,,Beijing TV,CN,45,0,0,Drama,45
+82598,Kaalkoot,To Be Determined,2023-07-27,,JioCinema,IN,37,0,0,"Crime, Drama",8
+82600,El otro lado,Ended,2023-11-23,,Movistar+,ES,10,0,0,"Comedy, Horror",6
+82602,ЭКСТРА Такси,Running,2023-08-25,,ТВ-3,RU,30,0,0,,41
+82604,Mechamato,Running,2021-12-04,,TV9,MY,10,0,0,,39
+82606,A Love Story of Different Dimensions,Ended,2023-08-07,,Mango TV,CN,10,0,0,"Drama, Romance",16
+82608,Прелесть,Ended,2024-01-18,,Premier,RU,10,0,0,,6
+82610,Кибер Иван,Ended,2023-08-28,,СТС,RU,10,0,0,,13
+82612,Extra Ekstrand,Running,2023-08-20,,SVT Play,SE,10,0,0,,6
+82614,Novela,To Be Determined,2023-07-28,,Prime Video,US,10,0,0,Comedy,8
+82616,1992,Ended,2024-12-13,,Netflix,US,10,0,0,"Crime, Thriller",6
+82618,Her World,Ended,2023-08-17,,iQIYI,US,45,0,0,"Drama, Romance",32
+82620,Moran,In Development,,,Youku,CN,10,0,0,Romance,0
+82622,LightHouse,To Be Determined,2023-08-22,,Netflix,US,10,0,0,,6
+82624,The Frontier,Ended,2023-07-25,,5Select,GB,60,0,0,History,6
+82626,Top Dogs,Running,2020-04-09,,Noovo,CA,10,0,0,"Comedy, Crime, Mystery",16
+82628,Honor,To Be Determined,2023-07-30,,ATRESplayer PREMIUM,ES,10,0,0,"Crime, Drama, Thriller",8
+82630,Big Brother,Running,2004-09-18,,RTL,HR,75,0,0,,886
+82632,Alone,Ended,2023-08-06,,Channel 4,GB,60,0,0,"Adventure, Nature",6
+82634,The Long Shadow,Ended,2023-09-25,,ITVX,GB,10,0,0,"Crime, Drama",7
+82636,Kaiser,To Be Determined,2022-07-08,,Hoichoi,IN,10,0,0,,9
+82638,Favorite Places,Running,,,OUTtvGo,CA,10,0,0,,0
+82640,Ein Byd Bach Ni,To Be Determined,2022-08-30,,S4C,GB,10,0,0,,75
+82642,Beyond the Headlines: The Series,To Be Determined,2023-08-05,,Lifetime,US,60,0,0,Crime,6
+82644,Грешницы на перевоспитании,Ended,2023-09-08,,Ю,RU,50,0,0,,6
+82646,Жизнь после шоу. Беременна в 16,Running,2023-09-09,,Ю,RU,80,0,0,,28
+82648,Soul Doctor,Ended,2023-08-09,,Tencent QQ,CN,10,0,0,Drama,48
+82650,Hot Haus,To Be Determined,2022-01-26,,OUTtv,CA,10,0,0,,13
+82652,Пять копеек,Ended,2024-08-01,,Premier,RU,10,0,0,,8
+82654,Celebrandi,To Be Determined,2023-07-24,,RTL+,HU,10,0,0,,20
+82656,Confucious was a Foodie,Running,2016-02-02,,Nat Geo TV,US,10,0,0,,19
+82658,Hollywood's Hottest Hunks,Running,2020-10-26,,OUTtv,CA,10,0,0,,8
+82660,Vuxna människor,To Be Determined,2022-10-06,,TV4,SE,45,0,0,,8
+82662,My Fake Wife,Ended,2023-08-12,,Tencent QQ,CN,8,0,0,Romance,20
+82664,6ixtynin9 The Series,Ended,2023-09-06,,Netflix,US,10,0,0,"Comedy, Crime, Thriller",6
+82666,"No Gamble, No Future",Running,2022-08-23,,Pokerstars.com,US,10,0,0,,115
+82668,Toxic Town,Ended,2025-02-27,,Netflix,US,10,0,0,Drama,4
+82670,Однажды в Абхазии,Running,2023-10-13,,Start,RU,10,0,0,Comedy,8
+82672,Секс. До и после,Running,2023-10-12,,Okko,RU,10,0,0,"Comedy, Drama",14
+82674,Wu Nao Monu,Running,2023-07-04,,Bilibili,CN,10,0,0,"Comedy, Drama, Fantasy",30
+82676,Sweet Games,Ended,2023-08-11,,Tencent QQ,CN,45,0,0,Romance,24
+83520,Blev vores datter myrdet?,Running,2023-10-02,,TV2,DK,40,0,0,,3
+84522,Jamie's Christmas Shortcuts,Running,2023-12-11,,Channel 4,GB,60,0,0,Food,2
+84523,Matt Baker: Christmas Travels with Mum & Dad,Running,2022-12-15,,More4,GB,60,0,0,Travel,5
+84524,Apocalypse: The Fall of Hitler,In Development,,,National Geographic Channel,GB,60,0,0,,2
+84525,Stacey Solomon's Crafty Christmas,Running,2022-12-15,,BBC One,GB,60,0,0,,3
+84526,Christmas at the Movies,Running,2023-12-16,,Sky Max,GB,60,0,0,,2
+84527,Доктор твоего счастья,Ended,2023-04-23,,Суббота,RU,10,0,0,,12
+84528,Asia Super Young,Ended,2023-11-25,,Youku,CN,10,0,0,Music,9
+84529,Cindy la Regia: La serie,To Be Determined,2023-12-20,,Netflix,US,10,0,0,"Comedy, Drama",7
+84530,El Niñero,To Be Determined,2023-12-24,,Netflix,US,10,0,0,"Comedy, Romance",18
+84531,Crimes That Changed the World,To Be Determined,2023-12-04,,ZDFinfo,DE,10,0,0,"Crime, History",3
+84532,Yubisaki to Renren,Ended,2024-01-06,,Tokyo MX,JP,25,9.6667,3,,12
+84533,Dr. Phil Primetime,Running,2024-04-02,,Merit Street,US,60,0,0,,402
+84534,Ingeniería Romana,Running,2015-10-24,,La 2,ES,10,0,0,,8
+84535,Что не так с 90-ми,Running,2023-11-20,,OstWest,DE,60,0,0,,8
+84536,Память не изменяет,Running,2023-11-04,,Дождь,RU,20,0,0,,9
+84537,Hananoi-kun to Koi no Yamai,Ended,2024-04-04,,TBS,JP,24,0,0,"Drama, Anime, Romance",12
+84538,Disco: Soundtrack of a Revolution,Running,2023-12-16,,BBC iPlayer,GB,10,0,0,"History, Music",3
+84539,Danny ter Plekke,Running,2023-12-11,,NPO 2,NL,50,0,0,,3
+84540,Innebandykrigerne,To Be Determined,2023-03-23,,TV 2 Play,NO,10,0,0,"Comedy, Sports",12
+84541,First-Time Buyer's Club,Running,2023-12-30,,Oprah Winfrey Network,US,30,0,0,,19
+84542,The Barnes Bunch,Running,2024-04-19,,WE tv,US,60,0,0,,8
+84543,Science Fair: The Series,Running,2023-12-10,,National Geographic,US,60,0,0,,3
+84544,Fatal Crossing,To Be Determined,2023-11-29,,DR1,DK,45,0,0,"Crime, Drama",14
+84545,Kaiju No. 8,Running,2024-04-13,,TV Tokyo,US,30,9.7778,9,"Action, Fantasy, Anime, Science-Fiction",24
+84546,Sengoku Youko,Ended,2024-01-10,,Tokyo MX,US,24,0,0,Anime,35
+84547,Galactic Messages,Running,,,Gaia,US,32,0,0,,0
+84548,The Forerunner,Ended,2023-12-12,,CCTV-1,CN,10,0,0,,30
+84549,Reblooming Blue,Ended,2024-05-08,,Hunan TV,CN,10,0,0,Romance,36
+84550,Undercover: Caught on Tape,To Be Determined,2024-01-11,,A&E,US,60,0,0,Crime,10
+84551,Se eu fosse Luísa Sonza,Ended,2023-12-13,,Netflix,US,10,0,0,Music,3
+84552,La Influencer,To Be Determined,2023-12-13,,Netflix,US,10,0,0,"Drama, Romance",16
+84553,Time: The Series,Ended,2024-01-09,,Channel 3,TH,60,0,0,"Drama, Romance",10
+84554,Flourished Peony,Ended,2025-01-07,,Hunan TV,CN,10,10.0000,1,Romance,56
+84555,Chang'an Martial Arts Story,In Development,,,Hunan TV,CN,10,0,0,Romance,0
+84556,Romance in the Alley,Ended,2024-10-28,,Hunan TV,CN,10,0,0,Family,40
+84557,"Mou Ichido Kimi ni, Propose",Ended,2012-04-20,,TBS,US,60,8.0000,1,"Drama, Romance",10
+84558,Безумные изобретения,Ended,2023-12-14,,VK Видео Originals,RU,10,0,0,,6
+84559,Long Gone Gulch,To Be Determined,2021-01-11,,YouTube,US,10,0,0,"Comedy, Adventure, Fantasy",1
+84560,Das Signal,Ended,2024-03-07,,Netflix,US,10,0,0,"Drama, Mystery, Thriller",4
+84561,My New Start,In Development,,,Hunan TV,CN,10,0,0,Romance,0
+84562,Growing Together,Ended,2024-02-01,,Hunan TV,CN,45,0,0,Family,80
+84563,Back to the Origin,In Development,,,Hunan TV,CN,10,0,0,Family,0
+84564,My Doctor,Ended,2025-05-09,,Hunan TV,CN,10,0,0,"Drama, Medical",14
+84565,Thou Shalt Not Love,In Development,,,Hunan TV,CN,10,0,0,Romance,0
+84566,The Way to Success,In Development,,,Hunan TV,CN,10,0,0,Drama,0
+84567,Houniao Xiaofang Yuan,In Development,,,Mango TV,CN,10,0,0,Drama,0
+84568,You Are What You Eat: A Twin Experiment,Ended,2024-01-01,,Netflix,US,10,0,0,"Medical, Food",4
+84569,Themis,In Development,,,TVB Jade,CN,10,0,0,"Drama, Legal",0
+84570,Suburbs Youth,In Development,,,Hunan TV,CN,10,0,0,Drama,0
+84571,Baby Bandito,Running,2024-01-31,,Netflix,US,10,0,0,"Crime, Drama, Thriller",16
+84572,Zong Ran,In Development,,,Mango TV,CN,10,0,0,"Fantasy, Romance",0
+84573,Eyes of Wakanda,Ended,2025-08-01,,Disney+,US,10,7.0000,1,"Action, Adventure, Science-Fiction",4
+84574,Ферма,Ended,2025-01-03,,VK Видео,UA,10,0,0,Comedy,10
+84575,Тень Чикатило,Ended,2024-04-04,,Okko,RU,10,0,0,"Crime, Drama, Thriller",8
+84576,Gushing over Magical Girls,Running,2024-01-03,,Tokyo MX,JP,30,0,0,Anime,13
+84577,Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord,Ended,2024-01-09,,Tokyo MX,JP,30,10.0000,1,Anime,12
+84578,Hokkaido Gals Are Super Adorable!,Ended,2024-01-08,,TV Tokyo,JP,30,8.0000,2,Anime,12
+84579,Yoh! Christmas,To Be Determined,2023-12-15,,Netflix,US,10,0,0,"Comedy, Romance",6
+84580,Szuperpáros,To Be Determined,2023-12-25,,M4 Sport,HU,75,0,0,Sports,5
+84581,Killer Soup,To Be Determined,2024-01-11,,Netflix,US,10,0,0,"Comedy, Crime, Thriller",8
+84582,Apple Cider Vinegar,Ended,2025-02-06,,Netflix,US,10,0,0,"Crime, Drama",6
+84583,Eesti selgeltnägijate tuleproov,Running,2016-09-19,,TV3,EE,90,0,0,,62
+84584,The Incredible Pol Farm,Running,2024-01-06,,National Geographic Wild,US,30,0,0,,14
+84585,Сидоровы,Ended,2024-03-12,,СТС,RU,10,0,0,,1
+84586,Dragons of Wonderhatch,In Development,,,Disney+,US,10,0,0,,0
+84587,La Voz All Stars,Running,2023-12-22,,Antena 3,ES,180,0,0,Music,2
+84588,Fluffy Paradise,Running,2024-01-01,,Tokyo MX,JP,23,0,0,,12
+84589,The Weakest Tamer Began a Journey to Pick Up Trash,Ended,2024-01-12,,Tokyo MX,JP,24,7.0000,1,,12
+84590,Night Dream,Ended,2023-12-16,,Youku,CN,10,0,0,Romance,6
+84591,We Are the Future,In Development,,,Mango TV,CN,10,0,0,Sports,0
+84592,Give You My Heart,In Development,,,Tencent QQ,CN,10,0,0,"Fantasy, Romance",0
+84593,My Dearest Friends,Ended,2023-12-15,,Bilibili,CN,10,0,0,"Comedy, Drama, Romance",14
+84594,Big Little Brawlers,To Be Determined,2024-01-09,,Discovery Channel,US,60,10.0000,1,Sports,6
+84595,Bright Time,Ended,2024-07-06,,Mango TV,CN,10,0,0,Romance,32
+84596,Nine Lives of...,Running,2024-01-10,,Vice TV,US,60,0,0,,10
+84597,Ci Long Ru Hai,In Development,,,Hunan TV,CN,10,0,0,Drama,0
+84598,Last Chance Garage,Running,2024-03-20,,MotorTrend,US,60,0,0,,10
+84599,Jing Ming Hua Zuo,In Development,,,Hunan TV,CN,10,0,0,Romance,0
+84600,Большие девочки,Running,2024-02-08,,Пятница,RU,10,0,0,,48
+84601,Sunshine in Winter,Ended,2023-12-15,,Mango TV,CN,10,0,0,"Drama, Romance",20
+85132,Country Love,Ended,2024-02-02,,Youku,CN,10,0,0,"Comedy, Family",120
+85133,5 Ways to Socially Kill Your Husband,Ended,2023-01-11,,TV Tokyo,JP,30,0,0,Drama,22
+85134,Карта желаний,In Development,,,Okko,RU,10,0,0,,0
+85135,GARO: Heir to Steel Armor,Running,2024-01-11,,Tokyo MX,JP,24,0,0,"Action, Fantasy, Horror",12
+85136,The Cheating Heist,Ended,2024-01-23,,Channel 7,TH,60,0,0,"Drama, Action, Romance",34
+85137,The Opera of Love,Ended,2024-01-08,,One31,TH,60,0,0,"Drama, Music",37
+85138,My Love in the Countryside,Ended,2024-01-22,,Channel 3,TH,60,0,0,"Drama, Romance",24
+85139,Bakuage Sentai Boonboomger,Running,2024-03-03,,TV Asahi,JP,25,0,0,"Action, Adventure",14
+85140,Wiyan Phaesaya,Ended,2024-01-08,,Channel 8,TH,60,0,0,Horror,38
+85141,The Meta Universe,Ended,2024-01-30,,Tencent QQ,CN,10,0,0,Science-Fiction,24
+85142,Bienvenue au monastère,Running,2024-01-12,,C8,FR,120,0,0,,5
+85143,Fortune de France,Ended,2024-09-16,,France 2,FR,55,0,0,"Drama, History",6
+85144,Dans l'ombre,Running,,,France 2,FR,52,0,0,"Drama, Thriller",0
+85145,9.3 BB,Ended,2024-04-19,,France tv slash,FR,10,0,0,"Comedy, Drama",8
+85147,Peter Mangs – en seriemördares hemlighet,Ended,2024-02-01,,Viaplay,US,10,0,0,Crime,3
+85148,Jack and Joker,Ended,2024-09-09,,Channel 3,US,60,10.0000,4,"Crime, Action, Romance",12
+85149,Roux Down the River,Running,2024-02-01,,Food Network,GB,60,0,0,Food,10
+85150,Fighting for Love,Ended,2024-01-31,,iQIYI,US,10,0,0,"Action, Romance, War",36
+85151,Date My Mate,Ended,2023-03-01,,Prime Video,US,10,0,0,"Romance, Adult",6
+85152,La lunga notte - La caduta del Duce,Ended,2024-01-29,,RaiPlay,IT,10,0,0,"Drama, History",6
+85153,Rendez-vous avec le crime,Running,2022-12-20,,France 3,FR,10,0,0,,2
+85154,When Life Gives You Tangerines,Ended,2025-03-07,,Netflix,US,10,0,0,"Drama, Romance",16
+85155,10 News: Afternoon,Running,2024-01-29,,Network 10,AU,30,0,0,,473
+85156,Population 11,Ended,2024-03-14,,Stan,AU,10,0,0,"Comedy, Crime, Thriller",12
+85157,The Wallabies - Inside Rugby World Cup 2023,Running,2024-02-22,,Stan,AU,10,0,0,Sports,3
+85158,Old Enough!,In Development,,,TVO,CA,10,0,0,,0
+85159,Crime Scene Returns,Running,2024-02-09,,TVING,KR,62,0,0,"Comedy, Crime, Mystery",10
+85160,For the Culture with Amanda Parris,Running,2024-01-30,,CBC Gem,CA,47,0,0,,6
+85161,My Best Friend's an Animal,Running,2024-02-02,,Sky Nature,GB,60,0,0,Nature,6
+85162,Rick Stein's Food Stories,Running,2024-02-12,,BBC iPlayer,GB,10,0,0,Food,15
+85163,D-Day: The Unheard Tapes,Ended,2024-06-02,,BBC iPlayer,GB,10,0,0,"History, War",3
+85164,Suits LA,Ended,2025-02-23,,NBC,US,60,10.0000,1,"Drama, Legal",13
+85165,The Truth About Jim,Ended,2024-02-15,,Max,US,10,0,0,"Crime, Mystery",4
+85166,Death by Lightning,Ended,2025-11-06,,Netflix,US,10,0,0,"Drama, History",4
+85167,Megamind Rules!,To Be Determined,2024-03-01,,Peacock,US,10,0,0,"Comedy, Action, Science-Fiction",16
+85168,Always on the Move,Ended,2024-02-06,,CCTV-8,CN,60,0,0,"Drama, Family, Romance",39
+85169,The Soulmate,Ended,2024-02-03,,Tencent QQ,CN,10,0,0,"Thriller, Fantasy, Romance",24
+85170,A Tale of Love and Loyalty,Ended,2024-02-05,,Tencent QQ,CN,10,0,0,"Drama, Romance",20
+85171,Say Nothing,Ended,2024-11-14,,Hulu,US,10,9.0000,2,"Drama, History",9
+85172,The Challenge: Home Turf,Running,2024-01-29,,YouTube,US,10,0,0,,8
+85173,Trade War,Ended,2024-02-17,,FTV,TW,50,0,0,Drama,7
+85174,My Undercover Chef,Running,2023-12-21,,Prime Video,US,10,0,0,"Comedy, Drama, Action",14
+85175,Not a Murder Story,Ended,2024-01-17,,CATCHPLAY+,TW,10,0,0,"Crime, Mystery, Thriller",8
+85176,The Accidental Influencer,Ended,2024-02-10,,HBO Go,US,10,0,0,"Comedy, Drama",13
+85177,The Invincible,Ended,2024-01-22,,Channel 3,TH,90,0,0,"Action, History, Romance",18
+85178,Blondie in an Ancient Time,Running,2024-01-06,,Workpoint TV,TH,60,0,0,"Comedy, Fantasy",22
+85179,Dr. Lifesaver,Ended,2023-11-26,,EBC,TW,10,0,0,"Drama, Medical",30
+85180,Hotel Saltwater,Ended,2024-03-03,,PTS,TW,10,0,0,"Comedy, Drama",8
+85181,Yarın Yokmuş Gibi,Ended,2024-02-14,,GAIN,TR,10,0,0,,4
+85182,OMG Fashun,Running,2024-05-06,,E!,US,30,0,0,,8
+85183,Churchy,To Be Determined,2024-02-15,,BET+,US,10,0,0,Drama,18
+85184,Les disparus de la Black Coast,To Be Determined,2023-06-04,,Canal+,FR,10,0,0,Crime,4
+85185,Intern in My Heart,Ended,2024-01-10,,WeTV,US,10,0,0,"Drama, Romance",10
+85186,Margo's Got Money Troubles,In Development,,,Apple TV+,US,10,0,0,Drama,0
+85187,A Man on the Inside,Running,2024-11-21,,Netflix,US,10,0,0,"Comedy, Espionage",16
+85188,"Plus belle la vie, encore plus belle",Running,2024-01-08,,TF1,FR,22,0,0,,35
+85189,Zokie of Planet Ruby,Ended,2023-12-31,,Prime Video,US,10,0,0,"Children, Fantasy",46
+85190,The Hairy Bikers Go West,Ended,2024-02-06,,BBC Two,GB,60,0,0,"Travel, Food",7
+85191,Midnight Photo Studio,Ended,2024-03-11,,ENA,KR,70,0,0,"Drama, Fantasy, Romance",16
+85192,Nothing Uncovered,Ended,2024-03-18,,KBS2,KR,70,0,0,"Crime, Mystery, Thriller",16
+85193,Kick a Goal,Running,2021-06-16,,SBS,KR,100,0,0,Sports,145
+85194,Jimmy's Taste of Florida,Running,2024-02-12,,ITV1,GB,60,0,0,"Travel, Food",5
+85195,Välkommen till Köping,To Be Determined,2020-02-03,,discovery+,US,10,0,0,,8
+85196,Renoveringsdrömmar,Running,2024-02-07,,discovery+,US,40,0,0,,6
+85197,Poacher,Ended,2024-02-23,,Prime Video,US,10,0,0,Crime,8
+85198,Söndag med,Running,,,SVT Play,SE,10,0,0,,0
+85199,Страх над Невой,Running,2024-02-06,,ivi,RU,10,0,0,"Mystery, Thriller",9
+85200,Ainsley's Taste of Malta,Ended,2024-02-05,,ITV1,GB,60,0,0,"Travel, Food",5
+85201,Historical Homos,Running,2023-06-09,,Dekkoo,US,60,0,0,,4
+85202,Life is Drama,Ended,2024-02-05,,Youku,CN,10,0,0,"Drama, Romance",24
+85203,Roast Night,Running,2024-01-04,,Seven Network,AU,10,0,0,,6
+85204,Burning Flames,Ended,2024-03-13,,iQIYI,US,10,0,0,"Drama, Fantasy, Romance",40
+85205,Last Stop Larrimah: Murder Down Under,Running,2023-10-08,,HBO,US,60,0,0,,2
+85206,There Can Be Only One,Running,2023-01-27,,NBC.com,US,10,0,0,,14
+85207,Selena & Yolanda: The Secrets Between Them,Running,2024-02-17,,Oxygen True Crime,US,60,0,0,Crime,3
+85208,Ancient Builders,Ended,2019-07-05,,National Geographic Channel,US,60,0,0,"Mystery, History",5
+85209,Missing Crown Prince,Ended,2024-04-13,,MBN,KR,70,10.0000,1,"Comedy, History, Romance",20
+86131,Mackerel Falls in Love with Cat,Ended,2024-04-07,,Tencent QQ,CN,10,0,0,Romance,24
+86132,A Hero Without a Name,Ended,2024-04-01,,Tencent QQ,CN,10,0,0,Drama,33
+86133,The Atypical Family,Ended,2024-05-04,,jTBC,KR,80,10.0000,1,"Drama, Fantasy, Romance",12
+86134,Секретный артист,Ended,2024-04-08,,Пятница,RU,10,0,0,Music,24
+86135,De bauers 20 jaar later,Running,2024-04-04,,NPO 1,NL,43,0,0,,4
+86136,Muertos S.L.,Running,2024-04-04,,Movistar+,ES,10,0,0,Comedy,26
+86137,Moordzaken: levenslang,Running,2024-03-13,,VTM,BE,45,0,0,,5
+86138,Defiance: Fighting the Far Right,Running,2024-04-08,,Channel 4,GB,60,0,0,History,3
+86139,Police Interceptors: Pursuit and Capture,Running,2024-04-08,,5Action,GB,60,0,0,Crime,10
+86140,Fairy Tail: 100 Years Quest,Ended,2024-07-07,,TV Tokyo,JP,30,0,0,Anime,25
+86141,Cavuto Live,Ended,2018-01-20,,Fox News Channel,US,120,0,0,,358
+86142,One Nation with Brian Kilmeade,Running,2022-01-29,,Fox News Channel,US,60,0,0,,198
+86143,Häräntappoase,Running,,,Elisa Viihde,FI,10,0,0,,0
+86144,Sunday Night in America with Trey Gowdy,Running,2021-06-06,,Fox News Channel,US,60,0,0,,228
+86145,Pren ar y Bryn,To Be Determined,2023-11-19,,S4C Clic,GB,10,0,0,"Comedy, Drama",6
+86146,The Big Weekend Show,Running,2021-02-27,,Fox News Channel,US,180,0,0,,484
+86147,Handen på hjärtat,To Be Determined,2022-11-23,,TV4,SE,20,0,0,,6
+86148,Fizzy and Suds,To Be Determined,2024-03-11,,ABC iview,AU,10,0,0,Children,52
+86149,Evig singel,To Be Determined,2024-04-19,,TV 2 Play,NO,10,0,0,Comedy,16
+86150,Tree on a Hill,To Be Determined,2024-04-02,,BBC iPlayer,GB,10,0,0,,6
+86151,Rise Again: The Tale of Xu Yunlong,Ended,2024-04-08,,Youku,CN,10,0,0,"Drama, Action",24
+86152,Wind Direction,Ended,2024-09-09,,CCTV-8,US,10,0,0,Family,30
+86153,Lady Revenger Returns From the Fire,Ended,2024-04-26,,Tencent QQ,CN,10,0,0,"Drama, Romance",24
+86154,The City of Sunlight,Ended,2024-10-02,,Hunan TV,CN,10,0,0,Drama,21
+86155,Creative Types with Virginia Trioli,Running,2024-04-09,,ABC iview,AU,10,0,0,,12
+86156,Omukae Shibuya-kun,Ended,2024-04-02,,KTV,JP,24,0,0,"Comedy, Drama, Romance",12
+86157,The Days of Seclusion and Love,In Development,,,iQIYI,CN,10,0,0,"Drama, Romance",0
+86158,MasterChef India – Telugu,To Be Determined,2021-08-27,,SonyLIV,IN,10,0,0,,78
+86159,MasterChef India – Tamil,To Be Determined,2021-08-07,,SonyLIV,IN,10,0,0,,80
+86160,Boligkjøp i blinde,To Be Determined,2023-04-13,,Viaplay,US,10,0,0,,10
+86161,Gigantene,To Be Determined,2024-04-16,,NRK TV,NO,10,0,0,Sports,6
+86162,Liang Chen Mei Jin,In Development,,,Hunan TV,CN,10,0,0,"Drama, Romance",0
+86163,Blue Ridge,Running,2020-08-18,,Western Bound,US,10,0,0,"Crime, Drama, Action",10
+86164,La vida secreta de tu mente,Ended,2023-11-10,,Max,US,10,0,0,Children,5
+86165,Tack för musiken,Running,2024-04-13,,SVT Play,SE,10,0,0,,4
+86166,"Faster, Purple Worm! Kill! Kill!",To Be Determined,2023-11-16,,Amazon Freevee,US,10,0,0,,20
+86167,К.О.Д.,Running,2024-04-22,,СТБ,UA,60,0,0,"Crime, Drama",166
+86168,Race to Survive: New Zealand,Running,2024-05-20,,USA Network,US,60,0,0,,10
+86169,Alison Hammond's Big Weekend,To Be Determined,2025-05-16,,BBC iPlayer,GB,10,0,0,,6
+86170,ITV Studio Sessions,To Be Determined,2024-05-03,,ITVX,GB,10,0,0,Music,6
+86171,Bestemming X,Running,2023-02-20,,VTM,BE,60,0,0,,11
+86172,Rachael Ray's Meals in Minutes,Running,2024-04-15,,FYI,US,30,0,0,Food,86
+86173,Ace of Base - All That She Wants,Ended,2024-05-01,,Viaplay,US,10,0,0,Music,3
+86174,Ett liv värt,Ended,2025-06-19,,Viaplay,US,10,0,0,"Drama, Action, War",6
+86175,I kjærlighetens navn,To Be Determined,2024-04-04,,SBS On Demand,US,10,0,0,"Comedy, Drama",8
+86176,Scener efter ett äktenskap,In Development,,,Viaplay,US,10,0,0,Drama,0
+86177,Sekunnit,Ended,2024-04-04,,Yle Areena,FI,10,0,0,"Drama, Mystery, Thriller",6
+86178,Testify,To Be Determined,2024-04-08,,TVNZ 2,NZ,60,0,0,Drama,6
+86179,Amanpour & Co.,Running,2018-09-10,,PBS,US,60,0,0,,562
+86180,Home Jacking,To Be Determined,,,OCS City,FR,10,0,0,,0
+86181,Il Clandestino,Running,2024-04-08,,Rai 1,IT,60,0,0,Drama,12
+86182,John Mulaney Presents: Everybody's in L.A.,Ended,2024-05-03,,Netflix,US,10,0,0,Comedy,6
+86183,Club Friday Season 16: Depression or Just Selfishness,Running,2024-04-05,,One31,TH,60,0,0,"Drama, Romance",4
+86184,Vinhos com História,Ended,2024-04-01,,RTP1,PT,10,0,0,Travel,5
+86185,Fight for Paradise: Wem kannst Du trauen?,Running,2024-04-23,,Netflix,US,10,0,0,,8
+86186,Unlocked: A Jail Experiment,To Be Determined,2024-04-10,,Netflix,US,10,0,0,Crime,8
+86187,Pompeii: The New Dig,Running,2024-04-15,,BBC Two,GB,60,0,0,"History, Nature",3
+86188,An Indelible Destiny,Ended,2024-04-18,,Youku,CN,10,0,0,Romance,18
+86189,CBS News Roundup,Running,2024-04-22,,CBS News,US,60,0,0,,87
+86190,Walk with You,Ended,2024-04-23,,Youku,CN,10,0,0,"Drama, Romance",24
+86191,The Eternal Fragrance,In Development,,,Youku,CN,10,0,0,"Drama, Romance",0
+86192,Laura Flanders & Friends,Running,,,PBS,US,60,0,0,,0
+86193,In Her Eyes,In Development,,,Youku,CN,10,0,0,,0
+86194,Champions: Full Gallop,Running,2024-07-19,,ITVX,GB,10,0,0,Sports,12
+86195,How Disney Built America,Ended,2024-04-28,,History,US,62,0,0,History,6
+86196,Yo Gabba GabbaLand!,Running,2024-08-09,,Apple TV,US,10,0,0,"Family, Music, Children",11
+86197,The Full Irish Hidden Camera Show,To Be Determined,2022-12-24,,RTÉ ONE,IE,30,0,0,Comedy,10
+86198,Chamak,Running,2023-12-06,,SonyLIV,IN,10,0,0,,12
+86199,Dr. Arora,To Be Determined,2022-07-21,,Sony LIV,IN,10,0,0,,8
+86200,Adrishyam: The Invisible Heroes,Ended,2024-04-11,,SonyLIV,IN,10,0,0,,32
+86201,Raisinghani vs Raisinghani,Ended,2024-02-12,,SonyLIV,IN,10,8.0000,1,,118
+86202,Heroes: Eclipsed,In Development,,,NBC,US,10,0,0,,0
+86203,BGT Reacts,To Be Determined,2024-04-20,,ITVX,GB,10,0,0,,6
+86204,The 8 Show,Ended,2024-05-17,,Netflix,US,10,0,0,"Comedy, Drama, Mystery",8
+86205,Кресло,Ended,2024-04-11,,Okko,RU,10,0,0,Comedy,8
+86206,Massacre of the Mormons,Ended,2024-04-11,,Max,US,10,0,0,Crime,4
+86207,Орлинская,Running,2022-04-01,,ТВ Центр,RU,10,0,0,,2
+86208,Tia Mowry: My Next Act,Running,2024-10-04,,WE tv,US,60,0,0,,8
+86209,Dead in the Water,Ended,2024-02-28,,Prime Video,US,10,0,0,"Crime, History",3
+86210,I Am Solo: Love Forever,Running,2022-08-11,,SBS Plus,KR,50,0,0,,130
+86211,Operación Barrio Inglés,Ended,2024-04-10,,RTVE,ES,60,0,0,"Drama, Espionage, War",8
+86212,Khun Mae Kaekhat,Running,2025-05-19,,Channel 7,TH,41,0,0,Drama,10
+86213,Love Naggers,Running,2018-01-13,,KBS N,KR,70,0,0,,366
+86214,The Lost City of Ramses II,Running,2024-04-14,,Sky History,GB,60,0,0,,2
+86215,Royal Rules of Ohio,Running,2024-05-15,,Freeform,US,30,0,0,,10
+86216,Eye on America,Running,2022-01-24,,CBS News,US,10,0,0,,30
+86218,The Uplift,Running,2022-01-27,,CBS News,US,10,0,0,,114
+86220,CBS MoneyWatch,Running,,,CBS News,US,30,0,0,,0
+86222,El Rey del Cachopo: César Román,Ended,2024-05-10,,Netflix,US,10,0,0,Crime,3
+86224,Горький 53,Running,2024-04-23,,ivi,RU,50,0,0,"Crime, Mystery",8
+86226,An Hour to Kill,To Be Determined,2024-02-23,,Super Channel Fuse,CA,60,0,0,Crime,30
+86228,Danny Dyer: How to Be a Man,Ended,2024-04-16,,Channel 4,GB,65,0,0,,2
+86230,CBS News Weekender,Running,2022-09-09,,CBS News,US,30,0,0,,1
+86232,CBS News Confirmed,In Development,,,CBS News,US,60,0,0,,0
+87828,Moja mama i twój tata,In Development,,,Polsat,PL,10,0,0,Romance,0
+87829,Русская жена,Running,2024-07-22,,Смотрим,RU,10,0,0,"Drama, Thriller",16
+87831,Terror Tuesday: Extreme,To Be Determined,2024-08-20,,Netflix,US,10,0,0,Horror,8
+87833,Geeks: Keisatsusho no Henjintachi,Running,2024-07-04,,Fuji TV,JP,60,0,0,"Comedy, Drama, Mystery",10
+87835,Cowboy Cartel,Ended,2024-08-02,,Apple TV+,US,10,0,0,Crime,4
+87837,Pete Wicks: For Dogs' Sake,Running,2025-01-07,,U&W,GB,60,0,0,,9
+87839,Лихие,Ended,2024-10-24,,Okko,RU,10,0,0,"Crime, Drama",17
+87841,Footprints of Change,Ended,2025-09-04,,Tencent QQ,US,10,0,0,"Drama, Family, Romance",30
+87843,La casa de los espíritus,In Development,,,Prime Video,US,10,0,0,Drama,0
+87845,In Vogue: The 90s,To Be Determined,2024-09-13,,Disney+,US,10,0,0,,6
+87847,Saucy! Secrets of the British Sex Comedy,Running,2024-07-28,,Channel 4,GB,90,0,0,,2
+87849,Olivia Attwood's Bad Boyfriends,Running,2024-09-01,,ITVX,GB,10,0,0,Romance,22
+87851,Os Signos da Minha Ex,To Be Determined,2023-06-29,,YouTube,US,10,0,0,,7
+87853,Killer Lies: Chasing A True Crime Con Man,Running,2024-08-28,,National Geographic,US,60,0,0,Crime,3
+87855,Les Sentinelles,To Be Determined,2025-09-29,,Canal+,FR,10,0,0,"Drama, Fantasy, War",8
+87859,84-ի ամառը,Ended,2024-06-20,,Kinodaran,AM,10,0,0,Drama,12
+87861,My Troublesome Honey,Running,2024-07-30,,iQIYI,US,10,0,0,"Comedy, Romance",24
+87863,The War Between the Land and the Sea,In Development,2025-12-07,,BBC One,GB,10,0,0,"Drama, Adventure, Science-Fiction",5
+87865,Vought Rising,In Development,,,Prime Video,US,10,0,0,"Mystery, Action, Science-Fiction",0
+87867,We All Lie,Ended,2024-08-29,,Youku,CN,10,0,0,"Drama, Romance",16
+87869,American Dynasty,To Be Determined,2022-06-27,,Fox Nation,US,10,0,0,History,18
+87871,Shadrach,To Be Determined,2024-07-25,,Pure Flix,US,10,0,0,Family,6
+87873,Shaun Micallef's Eve of Destruction,To Be Determined,2024-08-14,,ABC iview,AU,10,0,0,,16
+87875,Sky Valley,Ended,2024-07-20,,YouTube,US,10,0,0,"Comedy, Romance",13
+87877,Yorkshire By the Sea,Running,2024-08-05,,Channel 4,GB,60,0,0,,4
+87879,Dexter: Resurrection,Running,2025-07-11,,Paramount+,US,10,9.7000,10,"Crime, Drama, Mystery",10
+87881,Mums on Strike,Running,2023-11-06,,5STAR,GB,10,0,0,,8
+87883,What's the Big Deal: Britain's Best Buys?,Running,2025-04-04,,Channel 4,GB,60,0,0,,4
+87885,Find My Country House,Running,2024-06-15,,FYI,US,30,0,0,,26
+87887,Cinderella at 2 AM,Ended,2024-08-24,,Coupang Play,KR,60,9.0000,1,"Comedy, Romance",10
+87889,Live+Local,To Be Determined,2022-07-07,,Pure Flix,US,10,0,0,Comedy,6
+87891,Taken Together: Who Killed Lyric and Elizabeth?,Running,2024-08-08,,Max,US,10,0,0,Crime,3
+87893,Love is Like a Poison,Ended,2024-09-16,,TBS,JP,30,0,0,Romance,12
+87895,Dance Moms: A New Era,Running,2024-08-07,,Hulu,US,10,0,0,"Drama, Family, Music",10
+87897,The Greatest,In Development,,,Prime Video,US,10,0,0,,0
+87901,Sportsday,Running,2024-01-01,,BBC News (UK),GB,30,0,0,,210
+87903,Ángela,Ended,2024-07-14,,ATRESplayer PREMIUM,ES,10,0,0,"Drama, Thriller",6
+87907,Territory,Ended,2024-10-24,,Netflix,US,10,0,0,"Drama, Western",6
+87913,Deha,Ended,2024-09-22,,Show TV,TR,135,10.0000,4,,31
+87915,Comfort Food,Ended,2024-07-17,,Tencent QQ,CN,10,0,0,"Comedy, Food",6
+87917,The Neighbors,Ended,2024-08-08,,iQIYI,US,10,0,0,"Crime, Drama",20
+87921,Ghosts,To Be Determined,2025-04-09,,Disney+,FR,10,0,0,"Comedy, Supernatural",6
+87925,Jian Lai,Running,2024-08-15,,Tencent QQ,CN,10,0,0,"Action, Adventure, Anime",26
+87927,Sons of Thunder: Redemption,To Be Determined,2022-01-13,,Pure Flix,US,10,0,0,Drama,6
+87929,Saved By Grace,To Be Determined,2022-11-01,,Pure Flix,US,10,0,0,"Drama, Supernatural",5
+87931,Ангел мести,Running,2024-07-26,,Kino1TV,RU,10,0,0,"Drama, Mystery, Romance",12
+87933,Wojenne dziewczyny,Running,2017-03-05,,TVP1,PL,10,0,0,"Drama, War",65
+87937,Love Is Blind: México,To Be Determined,2024-08-01,,Netflix,US,10,0,0,Romance,11
+87939,Milkshake! Music Explorers,Ended,2024-08-12,,5,GB,5,0,0,"Music, Children",5
+87941,Unpredictable,In Development,,,Tencent QQ,CN,10,0,0,"Crime, Mystery",0
+87943,Their Wonderful Time,Ended,2024-09-03,,Tencent QQ,CN,10,0,0,Romance,26
+87945,Fleadh24,Running,2024-08-04,,TG4,IE,10,0,0,,5
+87947,Zhan Shen: Fanchen Shenyu,Running,2024-07-31,,Tencent QQ,CN,10,0,0,"Action, Adventure, Fantasy",15
+87949,Horror's Greatest,To Be Determined,2024-08-27,,Shudder,US,10,0,0,Horror,10
+87951,Kanzen Muzai,Running,2024-07-07,,WOWOW,JP,60,0,0,,5
+87953,Город тайн,Running,2024-08-05,,ivi,RU,10,0,0,"Crime, Mystery, Thriller",16
+87955,Jay Blades: A Country House Through Time,In Development,,,Channel 5,GB,10,0,0,History,0
+87957,Defying Death,Running,2024-08-07,,Tubi,US,10,0,0,"Action, Nature",1
+87959,MTV Dark Scroll,Running,2024-08-16,,MTV,IN,60,0,0,"Horror, Supernatural",9
+87961,Destination Divas,Running,2024-08-03,,Travel Channel,US,30,0,0,"Travel, Food",2
+87963,Muquiranas Brasil,Running,2024-07-18,,Max,US,10,0,0,,8
+87965,Legends of Avantris,Running,2018-09-28,,YouTube,US,10,0,0,"Comedy, Action, Adventure",86
+87967,WW2: Women on the Frontline,Running,,,Channel 4,GB,47,0,0,,0
+87969,Rugbaí na mBan,Running,2024-08-10,,TG4,IE,10,0,0,,8
+87971,Friday Night Live with Ben Leo,Running,2024-08-09,,GB News,GB,60,0,0,,4
+87973,Corridors of Power: Should America Police the World?,Running,2024-08-06,,BBC iPlayer,GB,10,0,0,,8
+87975,Americast,Running,2020-10-17,,BBC News (Europe),GB,30,0,0,,21
+87977,"Cry Witch: Take My Land, Take My Life",Running,2024-08-10,,BBC News (Europe),GB,30,0,0,,1
+87979,BBC News at 7am,Running,2024-01-01,,BBC News (Europe),GB,30,0,0,,245
+87981,BBC News at 8am,Running,2024-01-01,,BBC News (Europe),GB,30,0,0,,245
+87983,Shinjuku Yasen Byoin,Running,2024-07-03,,Fuji TV,JP,54,0,0,,11
+87985,BBC News at 11am,Running,2024-01-01,,BBC News (Europe),GB,30,0,0,,246
+89468,Hotel Paradise,Running,2020-02-24,,TVN,PL,10,0,0,,493
+89469,Dare You to Death,In Development,,,GMM25,TH,10,0,0,"Crime, Mystery, Romance",0
+89470,Burnout Syndrome,In Development,2025-11-26,,GMM25,TH,60,0,0,"Drama, Romance",10
+89471,"I Love ""A Lot Of"" You",Ended,2025-05-17,,GMM25,TH,60,0,0,"Drama, Romance",12
+89472,Whale Store xoxo,Ended,2025-06-25,,GMM25,TH,60,0,0,"Comedy, Romance",12
+89473,"Welcome to Japan, Ms. Elf!",Ended,2025-01-10,,AT-X,JP,27,0,0,"Anime, Food",12
+89474,Only Friends: Dream On,In Development,,,GMM25,TH,10,0,0,"Drama, Romance",0
+89475,My Romance Scammer,In Development,,,GMM25,TH,10,0,0,"Comedy, Romance",0
+89476,Melody of Secrets,In Development,,,GMM25,TH,10,0,0,"Mystery, Thriller, Romance",0
+89477,Love You Teacher,In Development,,,GMM25,TH,10,0,0,"Comedy, Children, Romance",0
+89478,MU-TE-LUV,Running,2025-08-25,,GMM25,TH,60,0,0,"Drama, Romance",28
+89479,Cat for Cash,In Development,,,GMM25,TH,10,0,0,"Comedy, Romance, Supernatural",0
+89480,Girl Rules,In Development,,,GMM25,TH,10,0,0,"Drama, Romance",0
+89481,Boys in Love,Ended,2025-04-20,,GMM25,TH,60,6.0000,1,"Comedy, Romance",12
+89482,My Magic Prophecy,Ended,2025-07-27,,GMM25,TH,60,10.0000,1,"Crime, Medical, Romance",12
+89483,A Dog and a Plane,In Development,,,GMM25,TH,10,0,0,"Comedy, Romance",0
+89484,Me and Thee,Running,2025-11-15,,GMM25,TH,60,0,0,"Comedy, Crime, Romance",10
+89485,Memoir of Rati,Ended,2025-06-20,,GMM25,TH,60,0,0,"Drama, History, Romance",12
+89486,Ticket to Heaven,In Development,,,GMM25,TH,10,0,0,"Drama, Romance",0
+89487,Ranchland Listings,Running,2024-12-27,,Paramount+,US,10,0,0,,1
+89488,Il Capo Perfetto,In Development,,,Netflix,US,10,0,0,,0
+89489,Vóta 2024,Ended,2024-11-30,,TG4,IE,10,0,0,,4
+89490,Virgin Media News Special,Running,2024-11-30,,Virgin Media One,IE,10,0,0,,10
+89491,Silent River,In Development,,,Prime Video,US,10,0,0,"Crime, Drama, Thriller",0
+89492,Wu Ni,Running,2024-11-07,,WeTV,US,10,0,0,"Action, Adventure, Fantasy",30
+89493,Tokimeki Bakudan,Ended,2024-12-01,,TV Aichi,JP,30,0,0,"Comedy, Thriller, Romance",6
+89494,"Kerviel : Un Trader, 50 Milliards",Running,2024-11-29,,Max,US,10,0,0,Crime,4
+89495,Harlan Coben's I Will Find You,In Development,,,Netflix,US,10,0,0,"Crime, Drama, Thriller",0
+89496,Pulisic,Running,2024-12-09,,Paramount+,US,10,0,0,Sports,9
+89497,Eyes on You,In Development,2024-12-11,,YouTube,US,10,0,0,"Drama, Romance, Espionage",1
+89498,La Vie sa Bhruiséil,To Be Determined,2024-12-09,,RTÉ ONE,IE,30,0,0,,3
+89499,RTÉ Sport Awards,To Be Determined,2024-12-15,,RTÉ ONE,IE,125,0,0,Sports,1
+89500,The Family Next Door,Ended,2025-08-10,,ABC iview,AU,10,0,0,Drama,6
+89501,MaiThink X – Die Show,Running,2021-10-24,,ZDFneo,DE,10,0,0,Comedy,56
+89502,Das große Promi-Büßen,Running,2022-07-07,,ProSieben,DE,10,0,0,,29
+89503,Star Wars: Fun with Nubs,Running,2024-06-14,,YouTube,US,10,0,0,,20
+89504,Dostoevskij,Ended,2024-11-27,,Sky Atlantic,IT,10,0,0,"Crime, Drama, Thriller",6
+89505,Full Sweat,In Development,,,Seven Network,AU,10,0,0,Sports,0
+89506,Vision Australia's Carols by Candlelight,Running,1979-12-24,,Nine Network,AU,10,0,0,,46
+89507,Cinderella Game,Ended,2024-12-02,,KBS2,KR,10,0,0,"Drama, Mystery, Romance",101
+89508,Работяги,Running,2024-12-02,,Пятница,RU,10,0,0,,10
+89509,The Summer Hikaru Died,To Be Determined,2025-07-05,,NTV,JP,30,0,0,"Anime, Horror",12
+89510,The Reason We Fall in Love,Ended,2024-10-12,,TV Asahi,JP,24,0,0,,10
+89511,Gino & Fred: Emission Impossible,Running,2024-12-16,,ITV1,GB,70,0,0,"Adventure, Travel",2
+89512,Finding Mr. Christmas,Running,2024-10-31,,Hallmark+,US,10,0,0,,14
+89513,Пустые города,Running,2024-12-04,,НТВ,RU,10,0,0,Mystery,16
+89514,Power Play with Vassy Kapelos,Running,,,CTV News Channel,CA,60,0,0,,0
+89515,DC Heroes United,Running,2024-11-20,,Tubi,US,10,0,0,Action,7
+89516,Jonathan Ross Haunted Homecoming,Running,2024-12-20,,Really,GB,60,0,0,,2
+89517,Game of Throws: Inside Darts,In Development,,,Sky Documentaries,GB,60,0,0,Sports,0
+89518,Hello Old Friend,Ended,2024-12-03,,Youku,CN,10,0,0,Romance,24
+89519,The Way Home,Ended,2024-12-24,,Youku,CN,10,0,0,Drama,16
+89520,La Familia - House of Reality,Running,2024-05-15,,RTL+,DE,10,0,0,,333
+89521,Adam Richman Eats Football,To Be Determined,2024-12-02,,Food Network,GB,30,0,0,Food,10
+89522,Land of the Iberian Lynx,Running,2024-12-02,,National Geographic Wild,GB,60,0,0,Nature,2
+89523,Guy Martin: Proper Jobs,Running,2025-01-26,,U,GB,10,0,0,,4
+89524,Special Ops: To Catch a Criminal,Running,2025-01-05,,U&Dave,GB,60,0,0,Crime,13
+89525,Magic Maker: Isekai Mahou no Tsukurikata,Running,2025-01-08,,TV Tokyo,JP,24,0,0,"Action, Fantasy, Anime",12
+89526,Tu Di Ge Ge Shi Da Lao,To Be Determined,2024-10-28,,Youku,CN,10,0,0,"Action, Adventure, Fantasy",40
+89527,Чёрные начинают – белые выигрывают,Running,2024-12-07,,ТВ Центр,RU,10,0,0,Mystery,8
+89528,Ночная смена,Ended,2024-12-06,,ТВ Центр,RU,10,0,0,"Drama, Romance",4
+89529,Rented in Finland,Ended,2024-12-06,,tvN,KR,90,10.0000,1,Travel,10
+89530,Gąska,Running,2024-11-29,,Prime Video,US,23,3.0000,1,,8
+89531,Nutcracker: Backstage with English National Ballet,Running,2024-12-09,,Sky Arts,GB,60,0,0,,2
+89532,Milkshake! Magic of Science,Running,2024-12-09,,Channel 5,GB,5,0,0,,5
+89533,Milkshake! Croc Watch,Ended,2024-12-09,,5,GB,5,0,0,"Children, Nature",5
+89534,Экстрим,Ended,2024-12-02,,СТС,RU,30,0,0,Comedy,8
+89535,Muster Dogs: Where Are They Now?,Running,2024-12-01,,ABC iview,AU,10,0,0,,4
+89536,Fanning at Whelans,To Be Determined,2020-12-17,,Virgin Media Two,IE,60,0,0,,40
+89537,On the Rise: JuJu Watkins,Running,2024-11-23,,Peacock,US,10,0,0,Sports,6
+89538,Őszinte leszek - Talkshow Osváth Zsolttal,Running,2024-10-24,,VIASAT3,HU,45,0,0,,8
+89539,Nobody Asked,To Be Determined,2024-11-29,,Dropout,US,10,0,0,,5
+89540,Late Night Berlin,Running,2018-03-12,,ProSieben,DE,10,0,0,Comedy,64
+89541,Burning Frost Into Day,In Development,,,Youku,CN,10,0,0,Romance,0
+89542,Medalist,Running,2025-01-04,,TV Asahi,JP,10,0,0,"Drama, Sports, Anime",13
+89543,I'm Getting Married to a Girl I Hate in My Class,Running,2025-01-03,,Tokyo MX,JP,30,9.0000,1,"Comedy, Anime, Romance",12
+89544,Motel California,Ended,2025-01-10,,MBC,KR,80,0,0,"Drama, Romance",12
+89545,The Queen Who Crowns,Ended,2025-01-06,,tvN,KR,80,0,0,"Drama, History",12
+89546,"Thanks, Class Three",Ended,2024-12-23,,Youku,US,10,0,0,"Romance, Food",24
+89547,Jing Bian,In Development,,,iQIYI,US,10,0,0,"Drama, Espionage",0
+89621,Fighter,Running,2025-03-26,,TV 2 Play,NO,10,0,0,,3
+89623,First lady,Running,2024-10-22,,SVT Play,SE,10,0,0,,1
+89624,Iris,Running,2024-11-25,,Canal+,FR,26,0,0,Comedy,6
+89625,Namib,Ended,2024-12-23,,ENA,KR,75,0,0,"Drama, Music, Romance",12
+89627,Escape,Running,2021-02-09,,W9,FR,45,0,0,"Drama, Thriller",4
+89628,Uncle,In Development,,,Tencent QQ,CN,10,0,0,Family,0
+89629,Task,Ended,2025-09-07,,HBO,US,60,7.0000,1,"Crime, Drama",7
+89630,Gifted,In Development,,,BBC iPlayer,GB,30,0,0,,0
+89632,Lucky,In Development,,,Apple TV+,US,10,0,0,,0
+89634,Damaged,Running,2024-10-29,,OUTtv,CA,10,0,0,,6
+89635,HP,Running,2018-12-06,,OCS Max,FR,22,0,0,"Comedy, Medical",20
+89636,Velvet,In Development,,,Telemundo,US,10,0,0,"Drama, Family, Romance",0
+89637,Hein,Ended,2024-11-10,,NPO 3,NL,25,0,0,"Comedy, Family, Supernatural",8
+89638,KOKO,Ended,2024-10-26,,RTL+,HU,10,0,0,Sports,4
+89639,Маяк,To Be Determined,,,Okko,RU,10,0,0,,0
+89640,UTK,Running,2016-01-30,,YouTube,US,15,0,0,"Action, Science-Fiction, Supernatural",6
+89641,Crá,Running,2024-11-11,,TG4 Player,IE,10,0,0,"Crime, Drama, Mystery",6
+89642,Asia,Ended,2024-11-03,,BBC iPlayer,GB,10,0,0,Nature,7
+89643,Malone,Running,,,TF1,FR,10,0,0,,0
+89644,Vital Signs,In Development,,,ABC,US,10,0,0,"Drama, Medical",0
+89645,Greek Life,Running,2024-06-17,,Now That's Tv,US,10,0,0,,15
+89646,Crafty Christmas,To Be Determined,2024-12-21,,RTÉ2,IE,10,0,0,,4
+89648,Laid,Ended,2024-12-19,,Peacock,US,10,0,0,"Comedy, Romance",8
+89649,Good Doctor,Ended,2024-10-11,,True ID,TH,10,0,0,"Drama, Medical, Romance",20
+89650,Broadmoor: For the Criminally Insane,Running,2024-10-21,,Channel 5,GB,10,0,0,Crime,4
+89651,Шеф,Running,2024-11-18,,Пятница,RU,30,0,0,Comedy,8
+89652,Кордон,Running,2024-11-25,,ТВ-3,RU,65,0,0,"Drama, Mystery",48
+89653,Underbelly,In Development,,,Crave,CA,10,0,0,"Crime, Drama",0
+89655,Good Luck,Ended,2024-12-24,,Tencent QQ,CN,10,0,0,Drama,30
+90266,Murder: Suspect No 1,Running,2025-02-03,,Channel 5,GB,10,0,0,,5
+92411,Big Fat Quiz: Best Bits,To Be Determined,2025-04-04,,Channel 4,GB,65,0,0,Comedy,4
+92412,America's Biggest Dog Show,Running,2025-04-12,,Channel 4,GB,120,0,0,,1
+92413,Il metodo Fenoglio - L'estate fredda,To Be Determined,2023-11-27,,Rai 1,IT,60,0,0,"Crime, Drama, Mystery",8
+92414,Barristers: Fighting For Justice,To Be Determined,2025-04-08,,Channel 4+,GB,10,0,0,,3
+92415,Love My Face,To Be Determined,2025-04-10,,Channel 4+,GB,10,0,0,,4
+92416,The Man Who Murdered His Family,Running,2025-04-07,,BBC iPlayer,GB,10,0,0,Crime,3
+92417,Blippi's Job Show,To Be Determined,2025-04-07,,Netflix,US,10,0,0,Children,20
+92418,Murha Hangossa,Running,2024-05-29,,Ruutu,FI,10,0,0,,10
+92419,Suomi on amerikkalainen,Running,,,Yle Areena,FI,10,0,0,,0
+92420,Poikaräppäri,Running,,,Yle Areena,FI,10,0,0,,0
+92421,Asunnottomat,To Be Determined,2024-12-01,,Yle Areena,FI,10,0,0,,5
+92422,Haitulan matkassa,Running,,,Yle Areena,FI,10,0,0,,0
+92423,Sijoittajat,Running,,,Yle Areena,FI,10,0,0,,0
+92424,Inlåsta,Running,,,Yle Areena,FI,10,0,0,,0
+92425,Alharich,Ended,2024-09-17,,Yle Areena,FI,10,0,0,,6
+92426,Ella ja Helmi IRL: Paras Kesä Ikinä,Running,,,Ruutu,FI,10,0,0,,0
+92427,Mielivaellus,Running,,,Yle Areena,FI,10,0,0,,0
+92428,Kesätyökriitikot,Running,,,Yle Areena,FI,10,0,0,,0
+92429,Ukrainan puolustajat,Running,,,Yle Areena,FI,10,0,0,,0
+92430,Sanaleikki,Running,,,Yle Areena,FI,10,0,0,,0
+92431,Lejondrömmen,Running,,,Yle Areena,FI,10,0,0,,0
+92432,Yksin isäksi,Running,,,Yle Areena,FI,10,0,0,,0
+92433,Aleksi: Ctrl+Alt+Dad,Ended,2024-07-29,,Yle Areena,FI,10,0,0,,6
+92434,Supernormaalia,Running,,,Yle Areena,FI,10,0,0,,0
+92435,Teatterikorkea - Näyttämölle valitut,Running,,,Yle Areena,FI,10,0,0,,0
+92436,Jyrkin ja Neposen tunneloikkia,Running,,,Yle Areena,FI,10,0,0,,0
+92437,Time Team Podcast,Running,2024-11-22,,YouTube,US,10,0,0,"Mystery, History, Nature",21
+92438,These Sacred Vows,In Development,,,RTÉ ONE,IE,60,0,0,"Comedy, Drama",0
+92439,Robson Green: World's Most Amazing Walks,Running,2025-10-27,,U&Yesterday,GB,60,0,0,"Adventure, Travel",8
+92440,The People vs Michael Jackson,Running,2025-04-13,,Nine Network,AU,60,0,0,,2
+92441,The Dark Money Game,Running,2025-04-15,,HBO,US,120,0,0,,2
+92442,Cutthroat Kitchen: Knives Out,Running,2025-05-13,,Food Network,US,60,0,0,Food,9
+92443,Miss Xia Stop that Play Acting,Ended,2025-04-08,,Youku,CN,10,0,0,"Drama, Romance",17
+92444,Second Shot at Love,Ended,2025-05-12,,tvN,KR,80,0,0,"Comedy, Romance",12
+92445,Twins HinaHima,Running,,,Tokyo MX,JP,10,0,0,"Fantasy, Anime",0
+92446,Dragons' Den Greece,Running,2023-03-24,,ΑΝΤ1,GR,10,0,0,,7
+92447,Sconfort zone,Running,2025-03-20,,Prime Video,US,10,0,0,,6
+92448,La caza del solitario,Ended,2025-03-10,,Movistar Plus+,ES,10,0,0,,3
+92449,Too Late to Love,Ended,2025-04-18,,iQIYI,US,10,0,0,"Drama, Romance",22
+92450,Быть цыганом,Running,2025-04-08,,Okko,RU,10,0,0,,5
+92451,You're Killing Me,In Development,,,Acorn TV,US,10,0,0,"Crime, Drama",0
+92452,Berlin Blues,To Be Determined,2024-03-24,,Yes,IL,35,0,0,"Comedy, Drama",6
+92453,Adresse Basel,Ended,2025-04-18,,NRK TV,NO,10,0,0,Music,5
+92454,Next Gen NYC,Running,2025-06-03,,Bravo,US,60,0,0,,12
+92455,Çırak,To Be Determined,2024-11-27,,tabii,US,10,0,0,"Crime, Action, Thriller",10
+92456,Hell of a Night,Ended,2024-06-13,,Viu,US,10,0,0,"Thriller, Horror, Supernatural",8
+92457,Canada Shore,In Development,,,Paramount+,US,10,0,0,,0
+92458,Diafani Agapi,To Be Determined,2024-09-29,,Alpha,GR,60,0,0,"Crime, Thriller, Supernatural",24
+92459,Влад решает,Running,2025-04-07,,ЧЕ!,RU,60,0,0,,32
+92460,Snow Patrol NZ,Running,2025-04-08,,TVNZ 1,NZ,44,0,0,,8
+92461,Ciężarówką przez Australię,To Be Determined,2024-02-27,,Discovery,PL,60,0,0,,9
+92462,Sex Symbols,Running,,,À Punt,ES,10,0,0,,0
+92463,Good Heavens! I'm a Goose Not a Swan,Ended,2025-01-22,,Channel 3,TH,10,0,0,"Comedy, Drama, Fantasy",20
+92464,Москва слезам не верит. Всё только начинается,Running,2025-09-04,,Wink,RU,10,0,0,"Drama, Romance",8
+92465,Everyday HOST CLUB,Running,2025-04-04,,TV Tokyo,JP,10,0,0,Anime,21
+92466,Расклад на убийство,Ended,2025-04-13,,ТВ-3,RU,60,0,0,"Drama, Mystery, Thriller",4
+92467,The Great Lin Qian Jin,Ended,2025-05-25,,Tencent QQ,CN,10,0,0,Romance,24
+92468,Wan Gu Zui Qiang Zong,In Development,,,Tencent QQ,CN,10,0,0,,0
+92469,Искусство соблазна,Running,2025-04-18,,Иви,RU,10,0,0,"Comedy, Drama, Romance",10
+92470,Framed,Ended,2024-05-02,,Astro GO,MY,10,0,0,"Thriller, Science-Fiction",8
+92471,Homeroom,Ended,2025-03-28,,True4U,TH,10,0,0,,16
+92472,Oh My Lonely Deity,Ended,2025-04-09,,Mango TV,CN,10,0,0,"Drama, Romance",18
+92473,Tastefully Yours,Ended,2025-05-12,,ENA,KR,74,8.0000,1,"Comedy, Romance, Food",10
+92474,Easter Vigil,Running,2025-04-19,,RTÉ ONE,IE,95,0,0,,1
+92475,Späti,Running,2025-04-08,,ZDFneo,DE,25,0,0,Comedy,8
+92476,Гладиаторы,To Be Determined,2025-05-11,,НТВ,RU,90,0,0,"Family, Sports",13
+92477,Her Perfect Replacement,Ended,2025-04-18,,Tencent QQ,CN,10,0,0,"Drama, Romance",60
+92478,Adventurer Carly,Ended,2023-10-20,,Tencent QQ,CN,10,0,0,"Adventure, Children",52
+92479,Pirate Academy,Running,2024-01-06,,Canal J,FR,10,0,0,"Adventure, Children",52
+92480,Проверка Москва 24,Running,2025-04-07,,Москва 24,RU,10,0,0,,9
+92481,Вопрос спорный,Running,2025-03-31,,Москва 24,RU,40,0,0,,20
+92482,He Kills It,Ended,2025-04-22,,Tencent QQ,CN,10,0,0,"Drama, Romance",24
+92483,My Wife's Reverberation,Ended,2025-04-18,,Dǒuyīn,CN,10,0,0,"Drama, Thriller, Romance",53
+92484,Become Millionaire,Ended,2025-04-12,,Kuaishou,CN,10,0,0,Romance,25
+92485,Gordon Ramsay's Secret Service,To Be Determined,2025-05-21,,FOX,US,60,0,0,Food,15
+92486,Drag Brunch Saved My Life,To Be Determined,2025-05-02,,Crave,CA,10,0,0,,8
+92487,Saturday Night Live UK,In Development,,,Sky Max,GB,10,0,0,,0
+92488,Milkshake! Make a Change,Running,2025-04-22,,5,GB,5,0,0,,1
+93261,"Miss Universe Latina, el reality",Running,2025-06-03,,Telemundo,US,120,0,0,,10
+93263,Drag Race Philippines: Slaysian Royale,Running,2025-07-16,,WOW Presents Plus,US,10,0,0,,10
+93265,Fu Taitai De Majia You Yidian,Ended,2025-06-24,,iQIYI,US,10,0,0,"Drama, Romance",94
+93267,Long Gu Fen Xiang,In Development,,,Tencent QQ,CN,10,0,0,"Adventure, Fantasy, Romance",0
+93269,Jugando con fuego: España,Running,2025-06-13,,Netflix,US,10,0,0,Romance,8
+93271,Новый Ревизорро,Running,2025-06-17,,Пятница,RU,70,0,0,,7
+93273,Shen Mi Shu Zen Hui Zhe Yang,Ended,2025-07-28,,iQIYI,US,10,0,0,Romance,80
+93275,Stealing Heart,Ended,2025-07-24,,Tencent QQ,CN,10,0,0,Romance,24
+93277,One Night in Idaho: The College Murders,Ended,2025-07-11,,Prime Video,US,10,0,0,Crime,4
+93279,Скрытые мотивы,Ended,2025-06-08,,Kino1TV,RU,10,0,0,"Drama, Mystery, Romance",16
+93281,"Bon Appétit, Your Majesty",Ended,2025-08-23,,tvN,KR,80,9.0000,2,"Drama, History, Food",12
+93283,20 Stjerners Sommerferie,To Be Determined,2025-06-30,,NRK TV,NO,10,0,0,,20
+93285,Qingchuan's Veil of Vengeance,Ended,2025-06-16,,Bilibili,CN,10,0,0,"Drama, Romance",18
+93287,Rewrite My Fate,Ended,2025-06-14,,Mango TV,CN,10,0,0,"Fantasy, Romance",24
+93289,Exchange Souls,In Development,,,Mango TV,CN,10,0,0,Romance,0
+93291,The Most Eastern Love,Ended,2025-06-25,,iQIYI,US,10,0,0,Romance,24
+93293,The Secret of Skinwalker Ranch: Behind the Gates,Running,2024-05-07,,History,US,30,0,0,"Mystery, Thriller, Supernatural",26
+93295,FeierAbend,Running,,,ORF 2,AT,10,0,0,,0
+93297,Ke Jin Wanjia,Running,2025-06-10,,Youku,CN,10,0,0,"Action, Fantasy",26
+93299,Gautes dokumentarprogram,To Be Determined,2025-08-07,,NRK TV,NO,10,0,0,,6
+93301,Shenguo Zhi Shang,Running,2025-06-14,,iQIYI,US,10,0,0,"Action, Fantasy",17
+93303,Had I Not Seen the Sun,Ended,2025-11-13,,Netflix,US,10,0,0,Drama,10
+93305,Love Blossoms with the Wind,Ended,2025-06-18,,Tencent QQ,CN,10,0,0,Romance,18
+93307,Paik's Les Misérables,Running,2024-11-30,,ENA,KR,85,0,0,,12
+93309,Остаться друзьями,Running,2025-06-30,,ТНТ,RU,30,0,0,,17
+93311,Celebrity Puzzling,Running,2025-06-23,,5,GB,55,0,0,,8
+93313,Waiting for You,Ended,2025-06-24,,iQIYI,US,10,0,0,Romance,22
+93315,The Reaper Princess Saves the Day,Ended,2025-06-20,,Tencent QQ,CN,10,0,0,"Family, Fantasy",60
+93317,hundkatzemaus,Running,,,VOX,DE,55,0,0,,0
+93319,Halva Malmö består av killar som dumpat mig,Running,2025-09-11,,Netflix,US,10,0,0,"Comedy, Drama, Romance",7
+93321,Cat's Eye,Running,2025-09-26,,Disney+,US,10,0,0,"Comedy, Action, Anime",12
+93323,Wo Jiao Yu Lan Chuan,In Development,,,Tencent QQ,CN,10,0,0,Drama,0
+93325,Tales of Five Immortals,Ended,2025-10-23,,Tencent QQ,CN,10,0,0,Drama,23
+93327,Lie Detector: Truth or Deception,Running,2025-07-10,,A&E,US,60,0,0,Crime,7
+93329,Deadly Kin,Running,2022-01-01,,Sky Go,DE,10,0,0,,10
+93331,Hyell's club,Running,2024-01-05,,YouTube,US,10,0,0,,63
+93333,California Avenue,In Development,,,BBC iPlayer,GB,10,0,0,"Drama, History",0
+93335,Тёмная лошадка,Running,2025-06-16,,НТВ,RU,10,0,0,"Crime, Mystery",12
+93337,Game of Shadows,In Development,,,iQIYI,US,10,0,0,"Crime, Action",0
+93339,"Captivated, by You",Running,2025-08-21,,AT-X,US,30,0,0,,5
+93341,Ab in die Ruine!,To Be Determined,2011-04-23,,VOX,DE,90,0,0,,93
+93343,Hong Seok-cheon's Jewelry Box,Running,2023-11-14,,YouTube,US,10,0,0,Comedy,66
+93345,I'm the Most Beautiful Count,Ended,2025-08-01,,One31,US,60,0,0,"History, Romance",13
+93347,Private Tutor to the Duke's Daughter,Running,2025-06-28,,Tokyo MX,US,24,0,0,Anime,12
+93349,See You Tomorrow at the Food Court,Running,2025-07-07,,AT-X,JP,30,0,0,Anime,6
+93351,Kamitsubaki City Under Construction,Running,2025-07-03,,TBS,JP,30,0,0,Anime,12
+93353,Roasted: Verdens Sjoveste Ferie,Running,2024-05-17,,Prime Video,US,10,0,0,Comedy,12
+93355,Roast On the Coast - Norge,Running,2025-05-09,,Prime Video,US,10,0,0,,6
+93357,Top End Bub,To Be Determined,2025-09-12,,Prime Video,US,10,0,0,"Comedy, Romance",8
+93359,Kill Lupercal,Running,2025-05-28,,Warhammer+,US,10,0,0,,3
+93361,Три сигмы,Running,2025-04-28,,YouTube,US,10,0,0,Science-Fiction,7
+93363,Felix Recenserar,Running,2011-10-25,,YouTube,US,10,0,0,,14
+93365,A Journey to Glow,In Development,,,iQIYI,US,10,0,0,Drama,0
+93367,Eternal Joy With You,Ended,2025-10-27,,Tencent QQ,CN,10,0,0,"Drama, Romance",24
+93369,Sweet Secrets,Ended,2025-10-11,,Tencent QQ,CN,10,0,0,"Drama, Romance",24
+93371,Returned Master,Ended,2025-07-16,,Tencent QQ,CN,10,0,0,Drama,24
+93373,Vengeance of the Mountain God,Ended,2025-11-04,,Tencent QQ,CN,10,0,0,"Drama, Mystery, Adventure",24
+93375,Dating Game,Ended,2025-07-14,,Workpoint TV,TH,60,0,0,,12
+93377,Ban Xing,In Development,,,Tencent QQ,CN,10,0,0,"Drama, Romance",0
+93379,Xian Ren Zhi Shang,In Development,,,Tencent QQ,CN,10,0,0,"Drama, Fantasy",0
+93381,Disguised Family,In Development,,,Tencent QQ,CN,10,0,0,"Drama, Action, Romance",0
+93383,Happy Endings with Bruno,To Be Determined,2025-07-05,,WOW Presents Plus,US,10,0,0,,6
+93385,Lock Her,Ended,2025-08-14,,Tencent QQ,CN,10,0,0,"Drama, Romance",24
+93387,Dr Ann's Secret Lives,Running,2025-07-15,,ABC iview,AU,10,0,0,Nature,6
+93389,The Truth is Half White,Ended,2025-06-25,,iQIYI,US,10,0,0,"Crime, Drama, Mystery",25
+93391,First Copy,Running,2025-06-20,,Amazon MX Player,IN,10,0,0,"Drama, Thriller",20
+93393,Comedy Clash,Running,,,ARD Mediathek,DE,10,0,0,,0
+93395,Love Phobia,Running,2025-06-27,,U+ Mobile TV,KR,10,0,0,,1
+93397,Destination francophonie,Running,2016-09-04,,TV5 Monde,FR,10,0,0,,25
+93399,Aşk ve Gurur,Ended,2025-04-07,,Show TV,TR,50,0,0,Drama,120
+93401,Bears' Lair,Running,2022-09-11,,APTN,CA,30,0,0,,18
+93403,Busu ni Hanataba wo.,Running,2025-07-04,,Tokyo MX,JP,30,0,0,"Comedy, Anime, Romance",13
+93405,Непокоренные,Running,2025-05-09,,Premier,RU,10,0,0,"History, War",11
+93407,Murder on the Doorstep: The Killer Clown,Ended,2025-06-25,,Sky Crime,GB,60,0,0,,3
+93409,CNN's The Fourth in America,Running,2020-07-04,,CNN,US,420,0,0,,6
+93411,Женский 100500,Running,2025-05-18,,ЧЕ!,RU,30,0,0,,12
+93413,Zhang Shang Zhu,Ended,2025-06-25,,iQIYI,US,10,0,0,Romance,84
+93415,NHK Newsline,Running,2022-03-10,,NHK World,JP,10,0,0,,2
+93417,Raiders of the Wu Gorge,In Development,,,Tencent QQ,CN,10,0,0,"Action, Adventure",0
+93419,Cuo Shi,In Development,,,Tencent QQ,CN,10,0,0,"Drama, Romance",0
+93922,Zero Day Attack,Ended,2025-08-02,,PTS,TW,45,0,0,"Drama, Thriller, War",10
+93923,All the Sinners Bleed,In Development,,,Netflix,US,10,0,0,,0
+93924,Murder 360,To Be Determined,2025-08-05,,Paramount+,US,10,0,0,Crime,10
+93925,Reborn in the 90s: Remarry and Walk the Path of Blossoms,Ended,2025-08-05,,iQIYI,US,10,0,0,Romance,62
+93926,Substitute for Love,Ended,2025-08-07,,iQIYI,US,10,0,0,Romance,24
+93927,Dictator: The Hitler Interviews,In Development,,,Channel 4,GB,60,0,0,History,0
+93928,Let the Devil In,Running,2025-08-31,,MGM+,US,10,0,0,Mystery,4
+93929,The Chrisleys: Back to Reality,Running,2025-09-01,,Lifetime,US,60,0,0,,8
+93930,Killer Class,In Development,,,ABC,US,10,0,0,,0
+93931,Date My Friend,Running,2025-08-03,,tvN,KR,10,0,0,Romance,10
+93932,Shaun the Sheep Mossy Bottom Mayhem,To Be Determined,2025-07-21,,BBC iPlayer,GB,10,0,0,,8
+93933,Mørch og makta,Running,2025-08-04,,NRK TV,NO,10,0,0,,9
+93934,Music Story: Losing Control,Running,2025-04-23,,YouTube,US,10,0,0,,6
+93935,Piggy Builders,Running,2025-07-28,,BBC iPlayer,GB,10,0,0,Children,26
+93936,Xiang Xue Ying Gong Que,Ended,2025-08-09,,iQIYI,US,10,0,0,"Drama, Romance",61
+93937,The Return of the Queen,Ended,2025-09-16,,iQIYI,US,10,0,0,"Drama, Romance",24
+93938,Runaway,Running,2025-11-04,,Channel 3,US,60,0,0,,8
+93939,Hidden Love,Ended,2025-08-15,,iQIYI,US,10,0,0,"Drama, Romance",23
+93940,"Осторожно, люди!",Running,2025-09-01,,СТС,RU,30,0,0,Comedy,13
+93941,Wan Jian Wangzuo,Running,2025-08-04,,Tencent QQ,CN,10,0,0,"Action, Adventure, Fantasy",40
+93942,Xiangzhe Xingchen De Changzheng,Running,2025-08-01,,Tencent QQ,CN,10,0,0,Drama,16
+93943,The New Chronicles of Extraordinary Beings Preface,Running,2025-07-09,,Bilibili,CN,10,0,0,Anime,7
+93944,Dear X,Running,2025-11-06,,TVING,KR,10,0,0,"Drama, Thriller",12
+93945,Stuck with me,In Development,,,YouTube,US,10,0,0,,0
+93946,Ted Bundy: Dialogue With the Devil,Ended,2025-08-07,,Hulu,US,10,0,0,Crime,6
+93947,Chan Ye,Ended,2025-09-10,,iQIYI,US,10,0,0,Romance,71
+93948,The Traitors Ireland Uncloaked,To Be Determined,2025-08-31,,RTÉ ONE,IE,10,0,0,,12
+93949,Predestined Love,In Development,,,Mango TV,CN,10,0,0,Romance,0
+93950,Believe Me,In Development,,,ITV1,GB,10,0,0,"Crime, Drama",0
+93951,First Lady,Ended,2025-09-24,,MBN,KR,70,0,0,"Drama, Romance",12
+93952,Magnolia Table: At the Farm,Running,2025-09-07,,Magnolia Network,US,30,0,0,Food,6
+93953,"Ballroom, danser pour exister",Running,,,France tv slash,FR,10,0,0,,0
+93954,Bitchin Rides Road To The Ridler,Running,2025-07-09,,MotorTrend,US,10,0,0,,8
+93955,Surface,Ended,2025-08-05,,RTL-TVI,BE,10,0,0,"Crime, Mystery, Thriller",6
+93956,Digimon Beatbreak,Running,2025-10-05,,Fuji TV,JP,24,0,0,Anime,12
+93957,"Dr. Seuss's Red Fish, Blue Fish",To Be Determined,2025-09-08,,Netflix,US,10,0,0,,17
+93958,Can Bağı,Running,2025-08-07,,Bi Kanal,RU,10,0,0,"Drama, Romance",125
+93959,Lost in Kyoto,Ended,2025-07-31,,YouTube,US,10,0,0,,4
+93960,Insight with Haslinda Amin,Running,2024-10-21,,Bloomberg TV,US,60,0,0,,230
+93961,Salakaar,To Be Determined,2025-08-08,,JioHotstar,IN,10,0,0,"Action, Thriller",5
+93962,The Box,In Development,,,ITV1,GB,10,0,0,,0
+93963,Корпорация добра,Running,2025-08-07,,Rutube,RU,10,0,0,,9
+93964,Quebranto,To Be Determined,2025-08-15,,Disney+,US,10,0,0,"Crime, Drama",6
+93965,Cars: Lightning Racers,In Development,,,Disney Junior,US,10,0,0,Children,0
+93966,Marvel's Avengers: Mightiest Friends,In Development,,,Disney Junior,US,10,0,0,Children,0
+93967,Marvel's Spidey and Iron Man: Avengers Team-Up!,Running,2025-10-16,,Disney Junior,US,30,0,0,,1
+93968,The Valley After Show,Running,2025-04-15,,YouTube,US,10,0,0,,15
+93969,Mickey & Minnie's Holiday Songs: Halloween,Running,2025-09-29,,Disney Junior,US,10,0,0,"Music, Children",3
+93970,Mickey & Minnie's Holiday Songs: Christmas,In Development,,,Disney Junior,US,10,0,0,,0
+93971,Sofia the First: Royal Magic,In Development,,,Disney Junior,US,10,0,0,,0
+93972,B-Friend,Ended,2025-05-31,,MCOT HD,TH,60,0,0,"Drama, Romance",12
+93973,The Dark History of the Reincarnated Villainess,Running,2025-10-08,,TV Tokyo,JP,24,0,0,"Comedy, Fantasy, Anime",12
+93974,"Dad is a hero, Mom is a spirit, I'm a reincarnator",Running,2025-10-05,,Tokyo MX,JP,24,0,0,"Adventure, Fantasy, Anime",12
+93975,He Li Hou Ta Gao Pan Bu Qi,Ended,2025-09-30,,iQIYI,US,10,0,0,"Drama, Romance",85
+93976,Ling Tian Du Zun,Running,2025-07-02,,iQIYI,US,10,0,0,"Adventure, Fantasy, Anime",44
+93977,WNBA Tip-Off ,Running,2025-06-07,,CBS,US,30,0,0,Sports,4
+93978,The Yakuza Boss's Beloved,Ended,2025-07-22,,MBS,JP,10,10.0000,1,"Drama, Romance",9
+93979,"Motek, Bool Ba'Hemtza",Running,2021-03-07,,Kan 11,IL,10,0,0,"Drama, Romance",23
+93980,Joc de cartes,Running,2017-04-20,,TV3,ES,10,0,0,,163
+93981,Seltzer: Den norske fattigdommen,To Be Determined,2025-08-06,,NRK TV,NO,10,0,0,,4
+93982,Genius Girlfriend,In Development,,,iQIYI,US,10,0,0,Romance,0
+93983,The Bus Driver: Britain's Cocaine King,Running,2025-08-10,,discovery+,US,10,0,0,Crime,2
+93984,Wake Up America Early,Running,2025-08-05,,Newsmax,US,60,0,0,,86
+93985,Zhe Ge Jiang Hu Bu Yi Ban,Ended,2025-08-14,,Youku,CN,10,0,0,Romance,28
+93986,Under the Cover,Ended,2025-08-13,,Youku,CN,10,0,0,"Drama, Action",29
+93987,Joseline's Cabaret California,Running,2025-08-03,,Zeus,US,10,0,0,,16
+93988,Y Cyfweliad,In Development,,,S4C,GB,10,0,0,,0
+93989,The Assembly,Running,2025-11-06,,CBC Gem,CA,10,0,0,,6
+93990,The Orient Express: A Golden Era of Travel,Running,2025-09-03,,More4,GB,60,0,0,Travel,4
+93991,Final Draft,To Be Determined,2025-08-12,,Netflix,US,10,0,0,Sports,8
+93992,The Big Pound Shop Swap,Running,2025-08-12,,Channel 4,GB,60,0,0,,3
+93993,The Princess Diaries,Running,2025-08-10,,ITVX,GB,10,0,0,,4
+93994,Confessions of a Steroid Gang,Running,2025-08-12,,BBC iPlayer,GB,10,0,0,Crime,3
+93995,Restarted Love,Ended,2025-08-22,,Tencent QQ,CN,10,0,0,Drama,15
+93996,The Miracles,In Development,,,Tencent QQ,CN,10,0,0,Drama,0
+93997,С новым счастьем!,Running,2025-03-28,,ТВ Центр,RU,10,0,0,"Drama, Mystery, Romance",2
+93998,Катя и Эф. Куда-Угодно-Дверь,Running,2018-05-31,,КиноПоиск,RU,10,0,0,"Adventure, Children",119
+93999,Irreplaceable,In Development,,,Youku,CN,10,0,0,Romance,0
