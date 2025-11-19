@@ -1,87 +1,476 @@
-id,name,status,network,country,rating,genres,total_episodes
-14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
-6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
-22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
-24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
-33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
-8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
-23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
-9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
-25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
-13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
-35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
-21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
-22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
-31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
-33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
-10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
-9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
-540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
-1797,Your Show of Shows,Canceled/Ended,NBC,US,10.0000,"Comedy, Sketch/Improv",136
-26278,Zona's Awesome Fishing Show,Running,Outdoor Channel,US,0,Sports,31
-14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
-6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
-24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
-33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
-8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
-23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
-9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
-25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
-13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
-35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
-22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
-31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
-33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
-10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
-23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
-9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
-9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
-540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
-25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
-13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
-14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
-21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
-6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
-22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
-24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
-33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
-8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
-23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
-9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
-25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
-13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
-35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
-21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
-22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
-31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
-33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
-10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
-9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
-540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
-1797,Your Show of Shows,Canceled/Ended,NBC,US,10.0000,"Comedy, Sketch/Improv",136
-26278,Zona's Awesome Fishing Show,Running,Outdoor Channel,US,0,Sports,31
-14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
-6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
-24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
-33266,TVGuide Academy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Fashion/Make-up",3
-8692,Victoria's Secret Fashion Show,Running,Prime Video,US,0,"Music, Celebrities, Talent, Lifestyle, Fashion/Make-up",60
-23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
-9746,"Yes, It's The Cathode-Ray Tube Show!",Canceled/Ended,itv,GB,0,"Comedy, Sketch/Improv",6
-25971,Your OWN Show: Oprah's Search for the Next TV Star,Ended,OPRAH WINFREY NETWORK,US,0,Family,9
-13723,Your Show Time,Canceled/Ended,NBC,US,0,Anthology,26
-35181,Tim & Eric's Go Pro Show,Ended,,US,0,"Comedy, Sketch/Improv",6
-21982,TNT Show,Canceled/Ended,Channel 4,GB,0,"Celebrities, Lifestyle",12
-22774,TROS TV Show,Returning Series,TROS,NL,10.0000,"Celebrities, Interview",41
-31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
-33229,TVGuide Grammy Awards Pre-Show,New Series,Pop TV,US,0,"Family, Celebrities, Interview, Talent, Lifestyle, Fashion/Make-up",3
-10641,VM Show Vol. 2,Canceled/Ended,Barcelona TV,ES,0,Comedy,15
-9754,What Are You Doing After The Show?,Canceled/Ended,itv,GB,0,Sketch/Improv,0
-540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
-1797,Your Show of Shows,Canceled/Ended,NBC,US,10.0000,"Comedy, Sketch/Improv",136
-26278,Zona's Awesome Fishing Show,Running,Outdoor Channel,US,0,Sports,31
-14686,"Tim and Eric Awesome Show, Great Job!",Ended,Adult Swim,US,8.0000,Comedy,51
-6307,Tom and Jerry Kids Show,Canceled/Ended,FOX,US,0,"Animation General, Children",13
-24582,"Trust Me, I'm A Game Show Host",Canceled/Ended,tbs,US,4.0000,"Comedy, Family",10
-31432,TV Guide Magazine's Top 25 Best 'Oprah Show' Moments,Ended,OPRAH WINFREY NETWORK,US,0,"Comedy, Drama, Family",6
-23531,Westminster Kennel Club Dog Show,Running,Fox Sports 1,US,0,"Family, Animals/Pets, Talent",97
-540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
+id,name,status,start_date,end_date,network,country,runtime,rating,rating_count,genres,total_episodes
+56941,Akashic Records of Bastard Magic Instructor,Ended,2017-04-04,,AT-X,JP,25,9.5714,7,"Action, Fantasy, Anime",12
+56946,Inspired with Anna Olson,Ended,2016-09-04,,Food Network,CA,30,0,0,Food,10
+56951,sin Nanatsu no Taizai,Ended,2017-04-14,,AT-X,JP,25,10.0000,1,"Anime, Supernatural",12
+56952,Grimoire of Zero,Ended,2017-04-10,,AT-X,JP,25,10.0000,2,"Fantasy, Anime",12
+56968,Twiz & Tuck,Ended,2017-03-27,,Vice TV,US,30,0,0,"Adventure, Travel",6
+56976,The Royal Tutor,Ended,2017-04-04,,TV Tokyo,JP,25,9.5455,11,"Comedy, Fantasy, Anime",12
+56977,The Snack World,Ended,2017-04-13,,TV Tokyo,JP,25,10.0000,1,"Adventure, Children, Fantasy, Anime",50
+56978,The Silver Guardian,Ended,2017-04-01,,Tokyo MX,JP,15,9.6000,15,"Adventure, Fantasy, Anime",21
+56979,Yu-Gi-Oh! VRAINS,Ended,2017-05-10,,TV Tokyo,JP,30,8.6667,3,"Action, Adventure, Fantasy, Anime",124
+56981,Акушер,Running,2023-02-13,,НТВ,RU,60,0,0,"Mystery, Medical",44
+56986,The Next Revolution with Steve Hilton,Ended,2017-06-04,,Fox News Channel,US,60,0,0,,17
+56988,Weird America,Running,2017-03-18,,Travel Channel,US,30,0,0,,1
+56989,Emerging Sports TV,Ended,2017-03-16,,CBS Sports Network,US,60,0,0,,1
+56994,How the 90s Changed the World,In Development,,,History,US,60,0,0,History,0
+56997,The Past Life,Ended,2017-03-15,,One HD 31,TH,90,0,0,"Drama, Romance",21
+56999,Tanked: Tank Madness,Running,2017-03-17,,Animal Planet,US,60,0,0,,15
+57000,Price og blomsterberg,Ended,2011-12-13,,DR1,DK,28,0,0,,16
+57001,Золотая Орда,Ended,2018-03-12,,Первый канал,RU,52,0,0,"Drama, Adventure, Romance",16
+57002,The After Party,Ended,2017-03-18,,Nickelodeon,US,30,10.0000,1,"Comedy, Family",6
+57005,Stargazing Live,Ended,2017-04-04,,ABC,AU,60,0,0,,6
+57006,Confess,Ended,2017-04-03,,go90,US,25,0,0,"Drama, Romance",7
+57011,Holding Back the Years,Ended,2017-03-27,,BBC One,GB,45,0,0,,20
+57012,Martin Kemp's Detective,Ended,2017-03-18,,Quest Red,GB,60,0,0,Crime,10
+57018,The Cupids Series: Kammathep Hunsa,Ended,2017-03-05,,Channel 3,TH,110,0,0,"Comedy, Romance",8
+57019,The Battle at the Dawn,Ended,2017-03-03,,Dragon TV,CN,45,0,0,"Drama, History, War",31
+57020,Saturday Night Live: Weekend Update,Ended,2008-10-09,,NBC,US,30,0,0,Comedy,12
+57031,Te Radar's Chequered Past,Ended,2017-02-18,,TVNZ 1,NZ,20,0,0,History,8
+57033,The Choo Choo Bob Show,To Be Determined,2015-01-04,,Qubo,US,12,0,0,Children,36
+57035,Выжить любой ценой,Ended,2017-03-27,,НТВ,RU,50,0,0,Action,12
+57041,The Package,Ended,2017-10-13,,jTBC,KR,60,10.0000,1,"Drama, Travel",12
+57045,Suspicious Partner,Ended,2025-04-30,,MBS,KR,30,7.0000,1,"Comedy, Thriller, Romance",40
+57046,Fight for My Way,Ended,2017-05-22,,KBS2,KR,70,9.5000,4,"Drama, Romance",20
+57048,Zindagi Ki Mehek,Ended,2016-09-19,,Zee TV,IN,22,9.3333,3,"Romance, Food",510
+57050,Joanna Lumley's India,To Be Determined,2017-07-05,,ITV1,GB,60,0,0,Travel,3
+57051,Turkey with Simon Reeve,Ended,2017-03-26,,BBC Two,GB,60,0,0,Travel,2
+57055,Åsted Norge,Running,2016-01-25,,TV 2 Direkte,NO,60,0,0,"Crime, Mystery",247
+57059,Stian Blipp Show,Ended,2017-03-09,,TV 2 Direkte,NO,60,0,0,"Comedy, Music",20
+57064,Circle,Ended,2017-05-22,,tvN,KR,60,0,0,"Mystery, Science-Fiction",12
+57067,Al McGlashan's Fish'n with Mates,Ended,2015-10-11,,7mate,AU,30,0,0,Nature,59
+57069,Zac & Mia,Ended,2017-11-07,,Hulu,US,12,10.0000,1,"Drama, Romance",24
+57070,OSL 24-7,Ended,2017-03-06,,Viasat 4,NO,30,0,0,,48
+57074,One Night with My Ex,Ended,2017-03-29,,Channel 5,GB,65,0,0,,12
+57078,"Annyit ésszel, mint erővel",Ended,2017-03-20,,TV2,HU,55,0,0,,26
+57079,Spectacular Spain with Alex Polizzi,To Be Determined,2017-03-31,,Channel 5,GB,60,0,0,Travel,6
+57080,Nancy O'Dell Remembers,Ended,2017-04-03,,REELZ,US,60,0,0,,4
+57084,"Ja, vi elsker camping",Ended,2017-03-07,,discovery+,NO,10,0,0,Travel,60
+57085,Piment fort,Ended,2016-01-11,,TVA,CA,25,0,0,,104
+57086,The Manns,Ended,2017-04-04,,TV One,US,60,0,0,,10
+57087,The Commanders,In Development,,,History,US,60,0,0,"Drama, History",0
+57097,Charité,Running,2017-03-21,,Das Erste,DE,45,0,0,"Drama, Medical, War",24
+57103,Inside...,Running,2017-03-28,,5,GB,60,0,0,History,34
+57104,Superhuman,Ended,2017-06-12,,FOX,US,60,0,0,,8
+57107,Tillsammans Med Strömstedts,To Be Determined,2017-03-09,,TV4,SE,60,0,0,,28
+57109,101 Awards,Ended,2017-03-26,,NFL Network,US,60,0,0,Sports,1
+57110,Helvedes Hus,Ended,2016-02-23,,TV3,DK,45,0,0,,10
+57112,En have i gave,To Be Determined,2017-02-20,,TV2,DK,60,0,0,,24
+57114,Leilas supermat,Ended,,,TV4,SE,10,0,0,Food,0
+57118,The Cupids Series: Kamathep Ork Suek,Ended,2017-03-25,,Channel 3,TH,110,0,0,"Comedy, Romance",8
+57123,Alaskan Bush People: Alaskan Grit,Running,2017-03-27,,Animal Planet,US,60,0,0,"Drama, Adventure",24
+57125,Primitive Technology,Running,,,YouTube,US,10,0,0,,0
+57128,Senere med Tørnquist,Ended,2017-02-03,,TV 2 Direkte,NO,45,0,0,,14
+57132,Second Chance Summer: Tuscany,Ended,2017-04-05,,BBC Two,GB,60,0,0,,6
+57134,Dead Reckoning,Ended,2020-06-04,,Investigation Discovery,US,60,0,0,Crime,6
+57135,Save Money: Good Food,Ended,2017-04-04,,ITV,GB,30,0,0,Food,15
+57137,The Masked Lover,Ended,2017-03-26,,SET TV,TW,90,0,0,"Drama, Romance",19
+57140,Fixer Upper: Behind the Design,Ended,2017-03-28,,HGTV,US,60,0,0,DIY,16
+57144,American Ripper,Ended,2017-07-11,,History,US,60,9.6250,8,Crime,8
+57152,Showtime,Ended,2013-11-28,,MBC Every1,KR,50,0,0,,68
+57155,LEIF & BILLY,Running,2017-03-27,,SVT Play,SE,10,10.0000,1,Comedy,50
+57156,Superoppusserne,Ended,2016-03-07,,TV3,NO,60,0,0,,60
+57157,Fixer Upper Mystery,Ended,2017-01-15,,Hallmark Movies & Mysteries,US,120,10.0000,1,"Drama, Mystery",6
+57166,Dave Chappelle,Running,2000-07-26,,Netflix,US,10,0,0,Comedy,19
+57170,"My Life is to Kill, My Love is for You",Ended,2017-03-27,,One HD 31,TH,90,10.0000,1,"Drama, Action, Romance",18
+57172,Oslo S,Ended,2016-03-28,,MAX,NO,30,0,0,,48
+57173,Kid Chef Nation,In Development,2017-04-03,,Food Network,US,60,0,0,Food,1
+57175,Свидетельство о рождении,Ended,2017-04-03,,Россия 1,RU,50,0,0,Drama,8
+57186,Danmarks modigste,Ended,2017-03-13,,TV3,DK,45,0,0,,2
+57192,Секретный миллионер,Ended,2017-03-27,,Пятница,RU,45,0,0,,39
+57193,A Konyhafőnök VIP,Ended,2017-03-27,,RTL,HU,150,0,0,Food,205
+57194,Історія одного злочину,Ended,2017-03-28,,Україна,UA,48,0,0,"Crime, Mystery",209
+57198,The Healer,Ended,2017-11-06,,TLC,US,60,0,0,,6
+57199,Don't Ask Me Ask Britain,Ended,2017-04-18,,ITV,GB,60,0,0,Comedy,6
+57205,The Handmade Project,In Development,,,NBC,US,60,10.0000,1,,0
+57215,Behind Closed Doors,Running,2015-11-07,,REELZ,US,120,0,0,,29
+57229,NFL Mock Draft Live,Running,2016-03-30,,NFL Network,US,60,0,0,Sports,24
+57262,Оптимисты,Ended,2017-04-24,,Россия 1,RU,51,0,0,Drama,21
+57310,Code: M Code Name Mirage,Ended,2017-04-07,,TV Tokyo,JP,30,0,0,"Crime, Mystery, Action",25
+57345,Cbeebies Easter Ballet,Ended,2013-04-01,,CBeebies,GB,50,0,0,,9
+57425,Mind Over Marathon,Ended,2017-04-20,,BBC One,GB,60,0,0,,2
+57449,Awr Fawr,Ended,2017-04-24,,S4C,GB,60,0,0,,30
+57461,Жених для дурочки,Ended,2017-04-30,,Россия 1,RU,47,0,0,"Drama, Romance",4
+57489,Delco Proper,In Development,,,Comedy Central,US,60,0,0,Comedy,0
+57566,Dal Ati,Ended,2014-10-12,,S4C,GB,60,0,0,,23
+57577,Wales on TV,Ended,2017-04-25,,ITV Wales,GB,30,0,0,,5
+57581,Hack My Life: Inside Hacks,Ended,2017-04-25,,truTV,US,30,0,0,,20
+57583,Pwy Geith y Gig?,Ended,2016-04-13,,S4C,GB,25,0,0,Music,16
+57584,Cegin Bryn,To Be Determined,2012-03-07,,S4C,GB,35,0,0,Food,31
+57589,Brendan O'Connor's Cutting Edge,To Be Determined,2016-05-18,,RTÉ ONE,IE,65,0,0,,31
+57592,Ireland's Most Shocking Crimes,Ended,2017-02-13,,Virgin Media One,IE,60,0,0,Crime,5
+57595,Французская кулинария,Ended,2017-05-01,,Россия 1,RU,45,0,0,"Comedy, Romance",4
+57599,Ani ni Aisaresugite Komattemasu,Ended,2017-04-12,,NTV,JP,30,10.0000,4,"Comedy, Romance",5
+57602,Keeping Up With ME,Ended,2017-04-30,,ABC ME,AU,25,0,0,,6
+57607,Frankenstein no Koi,Ended,2017-04-23,,NTV,JP,45,0,0,"Drama, Romance, Science-Fiction",10
+57614,My Market Kitchen,Running,2016-08-22,,Network 10,AU,30,0,0,Food,179
+57630,Little Talk Live: Aftershow,Ended,2017-04-11,,Lifetime,US,30,0,0,,7
+57638,The Rundown with Robin Thede,Ended,2017-10-12,,BET,US,30,10.0000,1,Comedy,24
+57647,Face Value,Ended,2017-09-27,,BET,US,30,0,0,,12
+57651,Death Row Chronicles,Ended,2018-02-20,,BET,US,60,0,0,Music,6
+57659,Truth & Iliza,Ended,2017-05-02,,Freeform,US,30,0,0,Comedy,6
+57661,Weekends with Yankee,Running,2017-04-01,,PBS,US,30,0,0,,104
+57663,The Cupids Series: Loob Korn Kammathep,Ended,2017-04-30,,Channel 3,TH,110,0,0,"Comedy, Romance",8
+57680,The Awesome Show,In Development,,,NBC,US,60,0,0,,0
+57684,Invite Only Cabo,Ended,2017-05-14,,Bravo,US,60,10.0000,1,"Drama, Travel, Romance",8
+57694,Ffeil,Ended,2017-05-08,,S4C,GB,5,0,0,,20
+57697,Y Ditectif,Ended,2016-05-10,,S4C,GB,30,0,0,,13
+57699,The Wales Report,Ended,2012-10-21,,BBC One Wales,GB,45,0,0,,12
+57706,Living with Volcanoes,Ended,2017-05-02,,ABC ME,AU,45,0,0,,2
+57709,Nine News Special,Running,2017-05-09,,Nine Network,AU,10,0,0,,2
+57717,Motorcycles: Superbike World Championship,Running,2017-05-07,,SBS,AU,60,0,0,,6
+57727,Zoo Juniors,Ended,2011-11-07,,Love Nature,CA,30,0,0,Nature,83
+57736,Let's Eat Dinner Together,Ended,2016-10-19,,jTBC,KR,60,0,0,,162
+57749,Missions,Ended,2017-06-01,,OCS City,FR,26,0,0,"Drama, Science-Fiction",30
+57756,Mexico: Earth's Festival of Life,Ended,2017-05-07,,BBC Two,GB,60,0,0,Nature,3
+57775,Pawb A'i Farn,Running,2015-01-29,,S4C,GB,120,0,0,,4
+57785,Survivor Hungary,To Be Determined,2003-09-20,,RTL,HU,90,0,0,,169
+57786,Year Million,Ended,2017-05-15,,National Geographic Channel,US,60,0,0,"Drama, Science-Fiction",6
+57789,Ask the Doctor,Ended,2017-05-16,,ABC,AU,30,0,0,Medical,24
+57791,Капитанша,Ended,2017-05-15,,Россия 1,UA,50,0,0,"Drama, Adventure",32
+57803,Nazi Fugitives,Ended,2017-05-09,,AHC,US,60,0,0,,8
+57813,The Purge,Ended,2018-09-04,,USA Network,US,60,8.3000,10,"Action, Thriller, Horror",20
+57816,America's Secret Space Heroes,Ended,2017-05-14,,Smithsonian Channel,US,60,0,0,"Drama, History, Science-Fiction",6
+57853,River Monsters: Enemy Territory,Running,2017-05-14,,Animal Planet,US,60,0,0,"Action, Adventure, Nature",4
+57930,RTÉ Racing,Running,2017-05-27,,RTÉ2,IE,10,0,0,,38
+57937,Look East Special,Ended,2017-05-30,,BBC One East,GB,45,0,0,,1
+57976,Outside Tracks,Ended,2017-05-22,,Outdoor Channel,US,30,0,0,"Action, Adventure",1
+57985,Debris,Ended,2021-03-01,,NBC,US,59,8.1667,6,"Drama, Science-Fiction",13
+57988,Little Dog,Ended,2018-03-01,,CBC,CA,30,10.0000,1,Comedy,15
+58034,Play by Play,Ended,2017-06-20,,go90,US,22,0,0,Comedy,8
+58362,Gone: The Forgotten Women of Ohio,Ended,2017-07-22,,Paramount Network,US,60,0,0,"Crime, Drama, Mystery",8
+58374,GregLaurie.TV,Running,2017-06-26,,TBN,US,30,0,0,,7
+58459,Dennis and Gnasher Unleashed!,Ended,2017-11-06,,CBBC,GB,10,0,0,Children,103
+58554,Bedre skilt end aldrig,Ended,2016-02-29,,TV2,DK,30,0,0,"Comedy, Drama, Family",8
+58620,Date Night,Ended,2018-02-13,,Nine Network,US,30,0,0,Romance,10
+58628,The iDOLM@STER SideM,Ended,2017-10-07,,Tokyo MX,JP,25,10.0000,1,"Comedy, Drama, Music, Anime",13
+58634,Coach Trip: Road to Zante,Ended,2017-07-24,,E4,GB,30,0,0,Travel,40
+58681,People You May Know,Ended,2017-07-31,,jTBC,KR,15,0,0,Drama,10
+58695,El Jardín de Bronce,Ended,2017-06-25,,HBO Latin America,BR,60,0,0,"Crime, Drama, Horror",24
+58698,I Am Your King: The Series,Ended,2017-08-27,,LINE TV,TH,30,10.0000,3,"Drama, Romance",22
+58705,Famalam,To Be Determined,2018-04-09,,BBC Three,GB,30,8.0000,1,Comedy,13
+58711,Teach My Pet to Do That,Ended,2017-08-11,,ITV,GB,30,0,0,,8
+58718,A Life Time Love,Ended,2017-06-12,,Dragon TV,CN,35,0,0,,54
+58721,"Small Town, Big Mayor",Ended,2017-08-03,,UP TV,US,30,0,0,,13
+58724,Bet Hur,Ended,2017-06-19,,TVB,HK,60,0,0,,34
+58726,I Am the Night,Ended,2019-01-28,,TNT,US,60,6.5000,2,"Drama, Mystery",6
+58733,The First Half of My Life,Ended,2017-07-04,,Dragon Television,CN,60,0,0,"Drama, Romance",42
+58741,Art Theifs,In Development,,,TBS,US,30,0,0,Comedy,0
+58742,Poundhole,In Development,,,TBS,US,60,0,0,Music,0
+58746,Joel & Nish vs the World,Ended,2017-09-18,,Comedy Central,GB,60,0,0,"Comedy, Travel",12
+58872,American Beauty Star,Ended,2017-09-21,,Lifetime,US,60,0,0,Drama,23
+58920,The Fifth Season,In Development,,,TNT,US,60,0,0,"Drama, Fantasy, Science-Fiction",0
+58927,From Russia to Iran: Crossing the Wild Frontier,Ended,2017-08-20,,Channel 4,GB,60,10.0000,1,"Adventure, Travel",4
+58993,The Disappearance of Maura Murray,Ended,2017-09-23,,Oxygen,US,60,0,0,"Crime, Mystery",6
+59002,Guilty Party,Ended,2021-10-14,,Paramount+,US,10,8.5000,2,"Comedy, Drama, Mystery",18
+59020,Gucci Mane & Keyshia Ka'oir: The Mane Event,Ended,2017-10-17,,BET,US,60,0,0,,10
+59074,Séfek séfe,Running,2017-08-28,,TV2,HU,155,0,0,,150
+59141,Деревяшки,Ended,2017-06-01,,МУЛЬТ,US,5,0,0,,104
+59145,BuzzFeed Unsolved: Supernatural,Ended,2016-04-29,,YouTube,US,10,10.0000,2,Supernatural,57
+59146,El incidente,Ended,2017-09-05,,Antena 3,ES,75,0,0,"Drama, Thriller, Science-Fiction",5
+59153,Срок давности,Ended,2022-03-12,,Россия 1,RU,46,0,0,Mystery,4
+59182,Bargain Mansions,Running,2016-06-15,,Magnolia Network,US,60,10.0000,1,DIY,74
+59185,DailyMailTV,Ended,2017-09-18,,Syndication,US,60,0,0,,5
+59187,Street Justice: The Bronx,Ended,2017-09-19,,Investigation Discovery,US,60,10.0000,1,Crime,6
+59192,Sengoku Night Blood,Ended,2017-10-03,,Tokyo MX,JP,25,10.0000,3,"Action, Anime, Romance, Supernatural",12
+59195,Хочу быть счастливой,Ended,2017-09-16,,Россия 1,RU,45,0,0,"Drama, Romance",4
+59286,Porridge,Ended,2016-08-28,,BBC One,GB,30,6.0000,1,"Comedy, Crime",6
+59337,Отличница,Ended,2017-09-25,,Первый канал,RU,50,0,0,Mystery,8
+59340,Fråga Lund,Running,2016-08-25,,SVT Play,SE,60,0,0,,41
+59357,Black,Ended,2017-10-14,,OCN,KR,80,9.3333,3,"Crime, Thriller, Romance",18
+59358,Butterfly,Ended,2018-10-14,,ITV1,GB,60,8.0000,1,"Drama, Family",3
+59387,Paixão,Ended,2017-09-18,,SIC,PT,45,0,0,Drama,214
+59513,Headshot,In Development,,,FOX,US,60,0,0,Drama,0
+59526,Strange Conditions,In Development,,,FOX,US,60,0,0,"Drama, Medical",0
+59655,The Landlord: Inside the Housing Executive,Ended,2017-10-02,,BBC One,GB,10,0,0,,3
+59696,Zambezi,Ended,,,National Geographic Channel,US,55,0,0,Nature,0
+59789,Hard Knocks,In Development,,,FOX,US,60,0,0,"Crime, Drama",0
+59798,Love at First Kiss,Ended,2017-10-15,,TV4 Play,SE,10,0,0,Romance,30
+59881,Smaker från Sápmi,Ended,,,SVT1,SE,28,0,0,,0
+59941,Otto har fått nok,Ended,2017-10-04,,TV 2,NO,30,0,0,Comedy,20
+59987,Tribes and Empires: Storm of the Prophecy,Ended,2017-11-21,,iQIYI,CN,45,0,0,"Drama, Fantasy, Romance",75
+60090,Julenatt hos Prøysen,Ended,2017-11-25,,TV 2,NO,60,0,0,,5
+60095,Top Chef Jr.,Ended,2017-10-13,,Universal Kids,US,60,0,0,"Children, Food",29
+60115,Big Field,Ended,2016-06-20,,BBC Three,GB,5,0,0,Comedy,25
+60118,Best in Food,Ended,2018-03-11,,Travel Channel,US,30,0,0,Food,13
+60119,Christmas Comedy Shorts,Ended,2015-12-25,,Sky Arts,GB,10,0,0,Comedy,15
+60120,Chopped: Gold Medal Games,Ended,2018-01-02,,Food Network,US,60,0,0,Food,5
+60133,Double Play,In Development,,,KBS2,KR,10,0,0,"Mystery, Action, Thriller",0
+60155,Jul på Centralen,Ended,,,SVT1,SE,14,0,0,,0
+60157,"Eat, Sleep, BBQ",Ended,2017-12-12,,Food Network,US,30,7.3333,3,Food,6
+60159,Ex on the Beach: Body SOS,To Be Determined,2018-01-17,,MTV,GB,60,0,0,,8
+60167,25-sai no Joshikousei,Ended,2018-01-07,,Tokyo MX,JP,5,0,0,"Anime, Romance, Adult",12
+60171,Moderna tider,Ended,2017-12-13,,SVT1,SE,10,0,0,,11
+60174,Transformation Street,Ended,2018-01-11,,ITV,GB,60,0,0,,3
+60193,Housemates,Ended,2016-05-27,,ABC Comedy,AU,15,0,0,,8
+60198,Miriam's Big American Adventure,Ended,2018-01-03,,BBC One,GB,60,0,0,,3
+60204,Misty,Ended,2018-02-02,,jTBC,KR,60,0,0,"Drama, Thriller, Legal",16
+60213,Undercurrent: Real Murder Investigation,Ended,2019-01-30,,Seven Network,AU,70,0,0,"Crime, Mystery",6
+60221,Hannah Gadsby's Nakedy Nudes,Ended,2018-02-27,,ABC,AU,30,0,0,History,2
+60227,The Trade,Ended,2018-02-02,,Showtime on Demand,US,60,0,0,,9
+60234,Back in Time for Dinner,Ended,2018-05-29,,ABC,AU,60,0,0,"History, Food",7
+60242,The First Wives Club,In Development,,,Seven Network,AU,10,0,0,,0
+60259,Thomas speelt het hard,Ended,2017-11-08,,Canvas,BE,45,0,0,,6
+60262,Van algemeen nut,Ended,2018-01-04,,één,BE,10,0,0,,16
+60274,Het collectief geheugen,In Development,,,één,BE,10,0,0,,0
+60280,Impossible Railways,To Be Determined,2018-01-23,,Yesterday,GB,60,0,0,Travel,12
+60287,Transformers: Titans Return,Running,2017-11-14,,go90,US,11,0,0,"Action, Science-Fiction",7
+60544,Flatpack Empire,Ended,2018-02-06,,BBC Two,GB,60,0,0,,3
+60551,Nigel Slater's Middle East,Ended,2018-02-02,,BBC Two,GB,60,0,0,"Travel, Food",3
+60581,The Kitazawas: We Mind Our Own Business,Ended,2018-01-13,,NTV,JP,60,10.0000,1,"Comedy, Drama",10
+60584,Breaking Mysterious,Ended,2017-10-17,,H2,CA,60,10.0000,1,"Mystery, History",6
+60587,What's Up TV,Ended,2018-01-27,,Sky Showcase,GB,30,0,0,,7
+60591,Master in the House,Running,2017-12-31,,SBS,KR,75,10.0000,6,,440
+61059,Digimon Adventure Tri.,Ended,2015-11-21,,Crunchyroll,US,25,10.0000,2,"Action, Adventure, Anime",26
+61060,RAW Talk,Running,2016-10-30,,WWE Network,US,10,0,0,Sports,249
+61061,Pacific Heat,Ended,2016-11-27,,The Comedy Channel,AU,30,0,0,"Comedy, Crime",13
+61063,Tailgate Battle,Ended,2016-11-04,,Food Network,US,30,0,0,Food,1
+61374,Project Inferno,Ended,2017-10-11,,YouTube,US,5,0,0,,16
+61464,Robozuna,Ended,2018-10-20,,CITV,US,25,0,0,"Action, Children, Science-Fiction",22
+61484,North Coast 500 - Le Anne Lundon,Ended,2017-05-16,,BBC Alba,GB,30,0,0,Travel,4
+61486,Men with Sword,Ended,2016-08-14,,Sohu TV,CN,40,0,0,"Drama, Action, History",60
+61500,Shinjuku Seven,Ended,2017-10-13,,TV Tokyo,JP,40,0,0,"Drama, Mystery",11
+47780,Отдел С.С.С.Р.,Canceled/Ended,Jun/18/2012,,Россия-1,BY,44,0,0,"Crime, Adventure",0
+62468,En tout cas,Ended,2018-01-08,,TVA,CA,30,0,0,Comedy,10
+62514,Rocky Mountain Animal Rescue,Ended,2018-03-03,,National Geographic WILD,US,60,0,0,Nature,6
+62608,Beter Ga Je Beginnen Te ..,Ended,2017-03-01,,NPO Start,NL,10,0,0,,18
+62687,Elizabeth is Missing,In Development,,,BBC One,GB,60,0,0,"Drama, Mystery",0
+62723,Mega Man: Fully Charged,Ended,2018-08-05,,Cartoon Network,US,15,0,0,"Adventure, Children, Science-Fiction",52
+62832,Sommerhytta,Running,2017-01-02,,TV 2 Play,NO,10,0,0,,344
+62839,Give It a Year,Ended,2018-04-16,,ITV,GB,30,0,0,,12
+62843,Lostorage conflated WIXOSS,Ended,2018-04-06,,Tokyo MX,JP,23,0,0,"Drama, Thriller, Anime",12
+62846,Alias Grace,Ended,2017-09-25,,CBC,CA,60,8.7500,4,"Crime, Drama, Thriller",6
+62934,All Star Flip,Running,2018-04-12,,HGTV,US,30,0,0,,1
+63042,Arranged,In Development,,,Pop,US,10,0,0,Comedy,0
+63055,Less Than Zero,In Development,,,Hulu,US,10,0,0,Drama,0
+63069,Come and Hug Me,Ended,2018-05-16,,MBC,KR,35,10.0000,5,"Drama, Mystery, Romance",32
+63125,Secret of the Three Kingdoms,Ended,2018-03-27,,Tencent QQ,CN,45,0,0,"Drama, History",54
+63221,Biltokig,To Be Determined,2021-06-08,,SVT1,SE,29,0,0,,3
+63275,Muhyo & Roji's Bureau of Supernatural Investigation,Ended,2018-08-03,,Animax,JP,30,0,0,"Action, Anime, Supernatural",24
+63390,Fanimals,Ended,,,TVNZ 1,NZ,10,0,0,,0
+63548,Mario Tennis Aces,Ended,2018-06-25,,Disney XD,US,15,0,0,"Action, Adventure, Sports",8
+63609,Who Is America?,Ended,2018-07-15,,Showtime,US,30,0,0,Comedy,7
+63633,Mission Ignition,To Be Determined,2019-03-30,,Channel 4,GB,60,0,0,,4
+63637,Foxy Ladies,Ended,2018-02-05,,Amazon Prime,US,25,0,0,,12
+63699,Win Your Wishlist,Running,,,Channel 5,GB,60,0,0,,0
+63729,iKON's Heart Racing in Hawaii,Ended,2018-07-04,,Olleh TV,KR,15,0,0,,10
+63733,Giver: Revenge's Giver,Ended,2018-07-13,,TV Tokyo,JP,40,0,0,"Drama, Thriller",12
+63883,Orangutan Jungle School,Running,2018-08-15,,Stan,GB,60,10.0000,1,Nature,25
+64077,I fatti vostri,Running,2012-02-23,,Rai 2,IT,10,0,0,,1
+64121,Сухарь,Ended,2018-09-15,,Россия 1,RU,45,0,0,Drama,4
+64168,Business as Usual,In Development,,,NBC,US,30,0,0,Comedy,0
+64470,Feria: La luz más oscura,Ended,2022-01-28,,Netflix,BR,10,0,0,"Thriller, Fantasy",68
+64634,Motor-Cycle: The Series,In Development,,,LINE TV,TH,60,0,0,"Drama, Romance",0
+64647,Tæt På Sandheden,Running,2017-09-17,,DR2,DK,30,0,0,,156
+64648,Team Scheire,Ended,2018-10-29,,VRT CANVAS,BE,50,0,0,,10
+64894,America's Mississippi,Ended,2018-12-05,,Smithsonian Channel,US,60,0,0,Nature,3
+64898,Grizzly Bear Cubs and Me,Ended,2018-12-18,,BBC Two,GB,60,0,0,Nature,2
+64902,Deadtown,In Development,,,Amazon Prime Video,US,10,0,0,"Drama, Action, Fantasy",0
+64907,Nailed It! Holiday!,Ended,2018-12-07,,Netflix,US,10,0,0,Food,13
+64913,Женский Квартал,Ended,2018-10-06,,1+1,UA,90,0,0,"Comedy, Family",36
+64915,Собчак без правил,Ended,2018-10-24,,Дождь,RU,45,0,0,,8
+64916,Selena: The Series,Ended,2020-12-04,,Netflix,US,10,0,0,"Drama, Family, Music",18
+64922,The King of Blaze,Ended,2018-11-26,,Hunan TV,CN,45,8.0000,1,"Drama, Fantasy, Romance",65
+64929,4 весілля,Ended,,,TET,UA,10,0,0,,0
+64935,Drága örökösök,Ended,2019-01-01,,RTL,HU,44,8.0000,1,Comedy,505
+64940,Meso,Ended,2017-10-28,,RTS1,RS,45,0,0,"Crime, Drama, Thriller",9
+64958,Би Коз,Running,2018-11-02,,Дождь,RU,50,0,0,,143
+64959,Sport Reporter,Ended,2017-08-26,,Canal+,FR,10,0,0,,100
+64961,Konak kod Hilmije,Ended,2018-05-07,,TOP,RS,30,0,0,,24
+64967,Kemurikusa,Ended,2019-01-09,,Prime Video,US,30,10.0000,1,"Action, Anime, Science-Fiction",12
+64978,ThunderCats Roar,Ended,2020-02-22,,Cartoon Network,US,15,0,0,"Comedy, Action, Children",52
+64980,7 Days Out,Ended,2018-12-21,,Netflix,US,47,0,0,Drama,6
+65329,Moonlight Mystique,Ended,2025-01-07,,iQIYI,US,10,10.0000,1,Romance,40
+65372,On Tour with Asperger's Are Us,Ended,2019-04-30,,HBO,US,60,0,0,,6
+65388,Marvel's Howard the Duck,In Development,,,Hulu,US,10,0,0,,0
+65398,Merry Happy Whatever,Ended,2019-11-28,,Netflix,US,30,7.0000,2,"Comedy, Family",8
+65399,Presidents at War,Ended,2019-02-17,,History,US,120,0,0,"History, War",2
+65400,La sala,Ended,2019-02-01,,HBO,US,50,0,0,,8
+65402,Brave New World,Ended,2020-07-15,,Peacock,US,10,9.8000,5,"Drama, Science-Fiction",9
+65433,Around the World by Train with Tony Robinson,Ended,2019-02-25,,Channel 5,GB,60,0,0,"Adventure, Travel",12
+65556,Kappa Crypto,Ended,2018-12-15,,Snapchat,US,10,0,0,Comedy,8
+65581,Made in Heaven,Ended,2019-03-08,,Prime Video,US,10,0,0,"Drama, Romance",16
+65630,Shadow,To Be Determined,2019-03-08,,Netflix,US,10,10.0000,1,"Crime, Action, Adventure",8
+65640,All the Light We Cannot See,Ended,2023-11-02,,Netflix,US,10,0,0,"Drama, Romance, War",4
+65673,Золота Жар-птиця,Ended,1996-03-16,,M2,UA,140,0,0,,10
+65699,Dead Pixels,Ended,2019-03-28,,Channel 4,GB,10,9.0000,1,"Comedy, Fantasy",12
+65744,YooHoo to the Rescue,Ended,2019-03-15,,Netflix,US,13,0,0,"Adventure, Children",52
+65834,Collector's Call,Running,2019-04-07,,Me-TV,US,10,10.0000,1,,150
+65862,Scotland's Home of the Year,Running,2019-04-10,,BBC One Scotland,GB,10,0,0,,49
+65892,Earthkeepers,In Development,,,Disney+,US,10,0,0,Nature,0
+66015,Секта,Ended,2019-05-23,,Premier,RU,10,0,0,"Drama, Thriller",8
+66017,Planet Child,To Be Determined,2019-05-01,,ITV,GB,60,0,0,,3
+66068,Albedo,In Development,,,Vudu,US,10,0,0,"Drama, Science-Fiction",0
+66074,mixed-ish,Ended,2019-09-24,,ABC,US,30,8.0000,2,"Comedy, Family",36
+66107,Saving Britain's Hedgehogs,Ended,2019-05-08,,Channel 5,GB,60,0,0,Nature,2
+66168,AB6IX Brand New Boys,Ended,2019-04-18,,Mnet,KR,60,0,0,Music,8
+66174,Star Trek: Picard,Ended,2020-01-23,,Paramount+,US,10,8.8235,34,"Drama, Action, Science-Fiction",30
+66394,El caso Alcàsser,Ended,2019-06-14,,Netflix,US,10,0,0,Crime,5
+66396,The Third Day,Ended,2020-09-14,,HBO,US,60,9.5000,2,"Drama, Mystery",7
+66400,Necrópolis,Ended,2019-03-23,,Netflix,US,10,0,0,"Comedy, Crime",8
+66586,The Cuphead Show!,Ended,2022-02-18,,Netflix,US,10,9.0000,3,"Comedy, Children",36
+66626,The Society,Ended,2019-05-10,,Netflix,US,10,9.6000,10,"Drama, Mystery, Science-Fiction",10
+66655,Twelve Forever,Ended,2019-07-29,,Netflix,US,13,0,0,"Comedy, Action, Adventure",25
+66676,5 from Hell,In Development,,,Viaplay,US,45,0,0,"Crime, Drama",0
+66845,Контакт,Ended,2019-08-12,,ICTV,UA,49,0,0,"Crime, Drama, Supernatural",12
+66866,Comicstaan,To Be Determined,2018-07-13,,Prime Video,US,10,0,0,Comedy,25
+66946,The Bridgewater Triangle,In Development,,,FX,US,10,0,0,,0
+66984,Jamie's Meat-Free Meals,Ended,2019-09-02,,Channel 4,GB,30,0,0,Food,8
+67014,The Andrew Neil Show,Ended,2022-05-08,,Channel 4,GB,45,0,0,,78
+67042,Fett und Fett,Ended,2019-10-14,,ZDF,DE,10,0,0,,11
+67154,The Dead Girls Detective Agency,Ended,2018-10-22,,Snapchat,US,10,0,0,,35
+67197,The X Factor: Celebrity,Ended,2019-10-12,,ITV1,GB,10,0,0,Music,8
+67220,The Hunt for Eagle 56,Ended,2019-09-22,,Smithsonian Channel,US,60,0,0,"History, War",3
+67300,Le Band et Sébastien,Ended,2018-01-24,,ICI Tou.tv,CA,6,0,0,,8
+67396,Révolution,Running,2018-09-23,,TVA,CA,65,0,0,,69
+67495,Folk med Ångest,Ended,2021-12-29,,Netflix,US,10,0,0,"Comedy, Drama, Mystery",6
+67496,Wild Metropolis,Running,2019-10-02,,PBS,US,60,0,0,Nature,3
+67506,Underground Marvels,To Be Determined,2019-10-17,,Science,US,60,10.0000,1,History,20
+67575,Secrets of Sulphur Springs,Ended,2021-01-15,,Disney+,US,30,10.0000,7,"Mystery, Family, Supernatural",27
+67752,Almost Paradise,In Development,,,FOX,US,10,10.0000,6,Comedy,20
+67765,Want a Taste?,Running,,,SBS,KR,30,0,0,Drama,0
+67771,Home Town Takeover,Running,2021-05-02,,HGTV,US,60,0,0,DIY,20
+67785,Else om: barn,Ended,2019-11-13,,discovery+,NO,10,0,0,"Family, Children",6
+67795,Wireless,Running,2022-07-10,,BBC One,US,10,0,0,Music,12
+67802,El vecino,Ended,2019-12-31,,Netflix,US,10,6.0000,1,"Comedy, Science-Fiction",18
+67804,Monsieur Flap,Running,2017-09-13,,France tv slash,FR,4,0,0,Comedy,27
+67810,The Last Drive-In with Joe Bob Briggs,Running,2018-07-13,,Shudder,US,10,0,0,"Comedy, Fantasy, Horror",212
+67814,Hamish & Andy's 'Perfect Holiday',Ended,2019-11-17,,Nine Network,AU,75,0,0,Comedy,3
+67837,Britain in Color,Ended,2019-11-17,,Smithsonian Channel,US,60,0,0,History,3
+67850,Canal Boat Diaries,Running,2019-11-18,,U&Yesterday,GB,60,0,0,Travel,37
+67869,DNA,To Be Determined,2019-09-09,,TV2,FR,45,0,0,"Crime, Drama, Mystery",14
+67879,Kvelden før kvelden,Running,2002-12-23,,NRK1,NO,10,0,0,,24
+67884,Informer 3838,Ended,2020-04-20,,Nine Network,AU,120,10.0000,1,"Crime, Drama",2
+67887,New Gold Mountain,Ended,2021-10-13,,SBS,AU,60,0,0,Drama,4
+67891,H3L,Running,2019-11-11,,Videoland,NL,10,0,0,"Drama, Family",122
+67893,The Alien Guide to Earth,Ended,2019-08-04,,Syfy,AU,5,0,0,,10
+67898,Рабочий эксперимент,Ended,2019-11-24,,Пятница,RU,45,0,0,,2
+67907,Buy It Now for Christmas,Ended,2019-11-28,,Channel 4,GB,60,0,0,,4
+67912,Darwin's Game,Ended,2020-01-03,,Tokyo MX,JP,30,9.9231,26,"Action, Anime, Science-Fiction",11
+67921,Paramedics on Scene,Running,2019-09-29,,BBC Scotland,GB,60,0,0,Medical,53
+67937,Garth Brooks: The Road I'm On,Ended,2019-12-02,,A&E,US,60,0,0,,2
+67978,Astronomy Club: The Sketch Show,Ended,2019-12-06,,Netflix,US,10,0,0,Comedy,6
+67991,Helluva Boss,Running,2019-11-25,,Prime Video,US,10,9.7632,38,"Comedy, Fantasy, Horror",20
+68012,Objectif Top Chef,Running,2014-11-10,,M6,FR,60,0,0,Food,220
+68093,Nee Sanaeha,Ended,2019-12-16,,One HD 31,TH,60,0,0,"Drama, Romance",24
+68116,Programa da Maisa,Running,2019-03-16,,SBT,BR,70,0,0,,66
+68122,Зелёный фургон,Ended,2020-01-03,,Первый канал,RU,49,0,0,"Crime, Mystery",16
+68218,Monty Don's American Gardens,Ended,2020-01-10,,BBC Two,GB,60,0,0,,3
+68364,Kåss til kvelds,Ended,2020-02-29,,NRK TV,NO,10,0,0,Comedy,72
+68414,Анекдот шоу,Running,,,РЕН ТВ,RU,47,0,0,Comedy,0
+68426,Мой герой,Running,2015-09-01,,ТВ Центр,RU,40,0,0,,717
+68478,WaPo Berlin,Running,2020-01-28,,Das Erste,DE,45,0,0,"Crime, Thriller",40
+68585,A Piece of Your Mind,Ended,2020-03-23,,tvN,KR,80,10.0000,1,"Drama, Romance",16
+68587,Громада,Ended,2019-11-11,,НЛО TV,UA,26,0,0,Comedy,60
+68832,Bug Diaries,Ended,2019-04-12,,Prime Video,US,10,0,0,"Comedy, Adventure, Children",12
+69085,Candle in the Tomb: The Lost Caverns,Ended,2020-04-01,,Tencent QQ,CN,45,0,0,"Action, Adventure",18
+69309,The House of Wellness,Running,2017-08-27,,Seven Network,AU,60,0,0,,117
+69330,Reasons to Be Cheerful with Matt Lucas,Ended,2020-04-26,,Channel 4,GB,30,0,0,Comedy,6
+69333,Argonavis from BanG Dream!,Ended,2020-04-10,,MBS,JP,25,10.0000,1,"Music, Anime",13
+69343,Legend of Awakening,Ended,2020-04-23,,iQIYi,CN,45,0,0,"Drama, Fantasy",48
+69444,Binneas - Na Trads,Running,2014-05-17,,BBC Alba,GB,10,0,0,Music,35
+69608,Scott's Vacation House Rules,Running,2020-04-26,,Home Network,CA,60,0,0,DIY,65
+69665,It's Okay to Not Be Okay,Ended,2020-06-20,,tvN,KR,90,9.6500,20,"Drama, Fantasy, Romance",16
+69673,Адмиралы района,Running,2020-05-18,,НТВ,RU,60,0,0,"Drama, Mystery, Action",36
+69697,Harlan Coben's Stay Close,Ended,2021-12-31,,Netflix,US,10,7.6667,3,"Drama, Mystery, Thriller",8
+69701,Смерть в объективе,To Be Determined,2020-05-02,,ТВ Центр,RU,45,0,0,"Drama, Mystery",24
+69818,Great Paintings of the World with Andrew Marr,Running,2020-06-06,,Channel 5,GB,60,0,0,History,7
+69872,Forged in Fire: Beat the Judges,Ended,2020-06-03,,History,US,60,0,0,,7
+70010,We K-Pop,Running,2019-07-12,,KBS World,KR,60,0,0,,22
+70048,Love a Lifetime,Ended,2020-06-18,,Youku,CN,45,0,0,"Drama, History, Romance",45
+70060,Runes,Ended,2022-10-17,,Canal+,US,10,10.0000,1,"Adventure, Children, Fantasy",32
+70303,Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan,Running,2020-07-25,,Bilibili,CN,10,9.6471,17,"Action, Adventure, Fantasy, Anime",235
+71501,Pikwik Pack,Ended,2020-11-07,,Disney Junior,US,12,0,0,Children,40
+71588,Rocket Around the Xmas Tree,To Be Determined,2020-12-03,,Discovery Channel,US,60,0,0,,3
+71799,Москва Раевского,Running,2019-12-31,,Москва 24,RU,30,0,0,,74
+72003,A Perfect Planet,Ended,2021-01-03,,BBC iPlayer,GB,10,10.0000,1,Nature,5
+72069,Paul Sinha's TV Showdown,Running,2021-01-09,,ITV,GB,10,0,0,,12
+72603,Нагиев на каникулах,Ended,2021-02-16,,Okko,RU,20,0,0,Comedy,10
+72691,Buang Bai Bun,Ended,2022-03-02,,Channel 8,TH,60,0,0,"Drama, Family, Romance",44
+72781,Dragon Goes House-Hunting,Ended,2021-04-04,,Tokyo MX,JP,24,0,0,"Comedy, Adventure, Fantasy, Anime",12
+72783,Hidden Love,Ended,2023-06-20,,Youku,TH,10,0,0,"Comedy, Romance",25
+72787,Авантюра на двоих,Ended,2021-03-15,,СТБ,UA,48,0,0,"Drama, Romance",8
+72789,Тонечка Морозова,Running,2021-03-08,,ТВ Центр,RU,45,0,0,Mystery,12
+72801,Aerial Greece,Ended,2021-03-07,,Smithsonian Channel,US,60,0,0,"History, Travel, Nature",5
+72805,Виктория,Ended,2021-03-13,,Россия 1,RU,46,0,0,Drama,4
+72811,My Unorthodox Life,To Be Determined,2021-07-14,,Netflix,US,10,8.0000,1,,18
+72820,Fires,Ended,2021-09-26,,ABC,AU,50,0,0,Drama,6
+72835,Hiç,Running,2021-02-19,,BluTV,TR,24,0,0,Drama,8
+72840,Kikai Sentai Zenkaiger,Ended,2021-03-07,,TV Asahi,JP,30,0,0,,49
+72849,Losing is the New Winning,Running,2021-01-22,,WOW Presents,US,10,0,0,,25
+72860,ТЫ_Топ-модель на ТНТ,Ended,2021-03-21,,ТНТ,RU,90,0,0,,12
+72874,Why Not Us: North Carolina Central University Men's Basketball,Running,2021-02-12,,ESPN+,US,10,0,0,,40
+72875,Distopia,Running,2021-02-16,,meWATCH,SG,46,0,0,Science-Fiction,4
+72901,Poker Face,Ended,2023-01-26,,Peacock,US,10,8.6000,5,"Crime, Drama, Mystery",22
+72910,Doom at Your Service,Ended,2021-05-10,,tvN,KR,90,9.3500,20,"Drama, Fantasy, Romance",16
+72917,The Zone of Silence,In Development,,,Peacock,US,10,0,0,,0
+72919,6 X confiné.e.s,Ended,2021-03-15,,Canal+,FR,30,0,0,,6
+72935,Youth of May,Ended,2021-05-03,,KBS2,KR,70,9.6667,3,"Drama, Romance",12
+72938,The Last Unknown,To Be Determined,2021-03-18,,discovery+,US,10,0,0,,4
+72940,"Don't Toy with Me, Miss Nagatoro",Running,2021-04-11,,Tokyo MX,JP,25,9.6875,16,Anime,24
+72945,9 Voyages,In Development,,,HBO,US,10,0,0,"Adventure, Fantasy",0
+72947,"10,000 Ships",In Development,,,HBO,US,10,0,0,"Adventure, Fantasy",0
+72952,Better Call Saul Presents: Slippin' Jimmy,Ended,2022-05-23,,AMC+,US,9,9.0000,1,Comedy,6
+72953,Felix Sandman: Med känslorna utanpå,Running,2021-03-19,,discovery+,US,10,0,0,,1
+72955,Los Espabilados,Ended,2021-01-29,,Movistar+,ES,10,0,0,"Comedy, Drama, Adventure",7
+72964,Битва за тело,Running,2021-03-13,,Ю,RU,10,0,0,,11
+72968,Doing the Most with Phoebe Robinson,To Be Determined,2021-04-09,,Comedy Central,US,30,0,0,,10
+72969,Frontkjempere,Ended,2021-04-06,,NRK TV,NO,10,0,0,War,4
+72974,Une vie d'écart,Running,2020-10-07,,Canal+,FR,50,0,0,,4
+73016,8 Zeugen,Ended,2021-03-25,,RTL+,DE,10,0,0,,8
+73017,Zhe Ge Shi Jie Bu Kan Lian,Ended,2021-01-11,,Jiangsu TV,CN,45,0,0,"Comedy, Drama, Romance",45
+73033,A Time for Mercy,In Development,,,HBO,US,10,0,0,,0
+73088,Конец невинности,Ended,2021-04-05,,Первый канал,RU,50,0,0,"Drama, Romance",32
+73581,Next Level Chef,Ended,2023-01-11,,ITV1,US,60,7.0000,1,Food,13
+73622,Middlemost Post,Ended,2021-07-09,,Nickelodeon,US,15,0,0,"Comedy, Children",62
+73724,Your Face Sounds Familiar,Running,2015-03-14,,Kapamilya Channel,PH,60,0,0,,28
+73758,The Prime Day Show,To Be Determined,2018-07-11,,Amazon Prime Video,US,10,0,0,,5
+73764,Crouchy's Year-Late Euros: Live,Ended,2021-06-11,,BBC One,GB,45,0,0,,11
+74138,My Mate Match,Ended,2021-10-09,,LINE TV,US,40,0,0,"Comedy, Drama, Romance",6
+74216,Olympic Highlights with Kevin Hart and Snoop Dogg,To Be Determined,2021-07-23,,Peacock,US,30,0,0,"Comedy, Sports",9
+74218,"F*** you very, very much",Running,2021-08-01,,Streamz,BE,10,0,0,Comedy,16
+74226,Hidden Taste of Gujarat,To Be Determined,2021-07-09,,MX Player,IN,10,0,0,"Travel, Food",5
+74257,Scarlett's Lab,Ended,2021-08-06,,YouTube,US,8,0,0,"Comedy, Children, Science-Fiction",4
+74288,Unmuted,Running,2020-12-02,,Sky Arts,GB,30,0,0,,9
+74291,San Ti,Running,2022-12-10,,Bilibili,CN,10,0,0,"Drama, Mystery, Science-Fiction",15
+74319,High-class,Ended,2021-09-06,,tvN,KR,90,0,0,"Drama, Mystery, Romance",16
+74325,Reboot,Ended,2022-09-20,,Hulu,US,10,0,0,Comedy,8
+74382,Review Met Sederginne,Running,2021-08-07,,Videoland,NL,10,0,0,Comedy,8
+74517,Metal Shop Masters,To Be Determined,2021-09-10,,Netflix,US,10,0,0,,6
+74761,L'aventure des manuscrits,Running,2021-08-29,,ARTE,FR,30,0,0,,4
+74891,Топтун,Ended,2021-10-04,,Україна,UA,46,0,0,"Crime, Mystery",40
+75052,Battle of Alcatraz,Running,2021-08-31,,SBS,AU,60,0,0,,2
+75123,Strappare Lungo i Bordi,Ended,2021-11-17,,Netflix,US,10,0,0,"Comedy, Drama",6
+75130,Robson Green: Coastal Fishing,Running,2021-10-16,,Channel 5,GB,60,0,0,,4
+75131,Dom Delivers,Running,2021-10-18,,BBC One,GB,45,0,0,,10
+75133,One Team: The Power of Sports,Running,2021-01-02,,NBC,US,30,0,0,,52
+75136,Triple Digit Flip,To Be Determined,2021-10-02,,A&E,US,60,0,0,,20
+75140,Operation Hidden Treasures,Running,2021-10-10,,Discovery Channel,US,30,0,0,,1
+75142,Shikizakura,Ended,2021-10-10,,Chūkyō TV,JP,24,0,0,,12
+75150,As We See It,Ended,2022-01-21,,Prime Video,US,10,10.0000,1,Comedy,8
+75158,Bling,Running,2021-10-11,,ITV,GB,60,0,0,,20
+75165,Diana,Ended,2021-10-10,,CNN,US,60,0,0,History,6
+75166,Bye Bye,Running,1968-12-31,,ICI Radio-Canada Télé,CA,60,0,0,,7
+75168,识夜描银,Running,2021-09-29,,Bilibili,CN,20,0,0,,3
+75174,Bangkok Zero,Ended,2021-10-01,,PPTV,TH,45,0,0,"Crime, Thriller",8
+75178,LEGO Masters Norge,Running,2021-10-15,,TV 2,NO,10,0,0,,2
+75182,Articulate,Ended,2015-01-08,,PBS,US,30,0,0,,178
+75190,Bed Friend,Ended,2023-02-18,,One31,US,60,9.8571,7,"Comedy, Drama, Romance",10
+75195,Shining Like You,Ended,2021-10-11,,Tencent QQ,CN,40,0,0,,24
+75197,ORELSAN : Montre jamais ça à personne,Ended,2021-10-14,,Prime Video,US,10,0,0,,10
+75202,La Frontera,To Be Determined,2025-06-13,,Prime Video,US,10,0,0,"Drama, Action, Thriller",8
+75203,Into the Mother Lands,Running,2020-10-04,,twitch,US,180,0,0,,12
+75205,Сергий против нечисти,Running,2022-01-05,,KION,RU,10,0,0,"Comedy, Mystery, Fantasy",12
+75212,Snapped: Behind Bars,Running,2021-02-14,,Oxygen True Crime,US,60,0,0,,16
+75217,Jane Goodall's Chimp Sanctuary,In Development,,,Eden,GB,60,0,0,,5
+75220,Моя маленькая странность,Running,2021-09-06,,Ю,RU,90,0,0,,10
+75226,Celebrity Ghost Trip,Running,2021-10-24,,E4,GB,65,0,0,,5
+75228,"History of the World, Part II",Ended,2023-03-06,,Hulu,US,10,0,0,Comedy,8
+75233,Elvira,To Be Determined,2022-11-13,,Viaplay,US,10,0,0,"Crime, Drama",8
+75235,Суперлига,Ended,2021-10-31,,СТС,RU,90,0,0,,10
+75238,Mysterious Creatures with Forrest Galante,To Be Determined,2021-10-17,,Animal Planet,US,60,0,0,,6
+75246,Peace of Mind with Taraji,Ended,2020-12-14,,Facebook Watch,US,10,0,0,,24
+75247,Love in Twilight,Ended,2021-11-01,,One31,TH,50,0,0,"Drama, Fantasy, Romance",14
+75252,Bright As the Moon,Ended,2021-10-04,,Youku,CN,45,0,0,,40
+75348,Moebius: The Veil,Ended,2021-10-29,,MBC,KR,70,0,0,"Crime, Thriller, Espionage",2
+75400,Historias para no dormir,To Be Determined,2021-11-01,,Prime Video,US,10,0,0,"Horror, Supernatural",8
+75669,И снова здравствуйте!,Running,2022-02-02,,Иви,RU,10,0,0,"Comedy, Crime, Mystery",30
