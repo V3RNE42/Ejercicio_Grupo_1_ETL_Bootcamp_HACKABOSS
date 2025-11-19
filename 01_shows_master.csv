@@ -1,160 +1,1107 @@
-id,name,status,network,country,rating,genres,total_episodes
-1,Fernwood 2Night,Ended,Syndication,US,0,Comedy,65
-2,America 2Night,Ended,Syndication,US,0,Comedy,65
-3,"Mary Hartman, Mary Hartman",Ended,Syndication,US,0,Comedy,325
-4,Sara (1985),Canceled/Ended,NBC,US,0,Comedy,13
-5,Buffalo Bill,Canceled/Ended,NBC,US,0,Comedy,26
-6,The Rousters,Canceled/Ended,NBC,US,0,Adventure,13
-7,Paper Dolls,To Be Determined,Paramount+,US,7.0000,"Drama, Music",12
-8,"Marcus Welby, M.D.",Ended,ABC,US,0,"Drama, Medical",172
-9,Too Close for Comfort,Ended,Syndication,US,7.0000,"Comedy, Family",129
-10,Bob & Carol & Ted & Alice,Canceled/Ended,ABC,US,10.0000,Comedy,7
-11,USA High,Canceled/Ended,USA Network,US,10.0000,Comedy,95
-12,The Colbys,Ended,ABC,US,0,Drama,49
-13,The Betty White Show,Canceled/Ended,CBS,US,0,Comedy,14
-14,The Andy Williams Show (1958),Canceled/Ended,NBC,US,0,"Family, Music",7
-15,The Courtship of Eddie's Father,Canceled/Ended,ABC,US,0,"Comedy, Romance/Dating, Family",73
-16,Forever Fernwood,Ended,Syndication,US,0,Comedy,8
-17,Seven Brides for Seven Brothers,Canceled/Ended,CBS,US,0,"Drama, Music",22
-18,Fallen Angels,Canceled/Ended,SHOWTIME,US,0,"Crime, Drama, Mystery",12
-19,Another Day,Canceled/Ended,CBS,US,0,Comedy,4
-20,The Defenders (1961),Canceled/Ended,CBS,US,0,Drama,132
-21,"Trapper John, M.D.",Canceled/Ended,CBS,US,0,"Drama, Medical",151
-22,Dr. Kildare,Canceled/Ended,NBC,US,0,"Drama, Medical",191
-23,Empire (1962),Canceled/Ended,NBC,US,0,"Drama, Western",32
-24,Fifteen,Canceled/Ended,nickelodeon,US,0,"Soaps, Drama, Teens",143
-25,Swans Crossing,Canceled/Ended,Syndicated,US,0,"Soaps, Teens",65
-26,Santa Barbara,Canceled/Ended,NBC,US,0,"Soaps, Drama",2137
-27,NYPD,Canceled/Ended,ABC,US,0,"Crime, Drama",49
-28,Social Studies,Running,FX,US,0,Comedy,6
-29,Winnetka Road,Canceled/Ended,NBC,US,0,Drama,5
-30,Cupid,Ended,ABC,US,0,"Comedy, Drama, Romance",14
-31,Pokémon,Running,TV Tokyo,AJ,9.6000,"Adventure, Fantasy, Anime",1418
-32,Second Chance (1987),Canceled/Ended,FOX,US,0,Comedy,21
-33,Home Free,Canceled/Ended,ABC,US,0,Comedy,11
-34,The Trouble with Larry,Canceled/Ended,CBS,US,0,Comedy,3
-35,Day by Day,Canceled/Ended,NBC,US,0,Comedy,33
-36,It's a Living,Canceled/Ended,Syndicated,US,6.6667,Comedy,120
-37,Phyllis,Canceled/Ended,CBS,US,0,Comedy,48
-38,Julia,Canceled/Ended,NBC,US,0,Comedy,86
-39,Bachelor Father,Canceled/Ended,ABC,US,0,"Comedy, Family",157
-40,Nasty Boys,Canceled/Ended,NBC,US,0,Drama,14
-41,Working it Out,Canceled/Ended,NBC,US,0,Comedy,12
-42,I'm Dickens... He's Fenster,Ended,ABC,US,6.0000,Comedy,32
-43,December Bride,Canceled/Ended,CBS,US,0,Comedy,157
-44,Pete and Gladys,Canceled/Ended,CBS,US,0,Comedy,72
-45,House Calls,Canceled/Ended,CBS,US,0,"Comedy, Romance/Dating",57
-46,Apple Pie,Canceled/Ended,ABC,US,0,Comedy,2
-47,Blansky's Beauties,Canceled/Ended,ABC,US,0,Comedy,13
-48,True Colors,To Be Determined,Peacock,US,0,Comedy,45
-49,Fish (US),Canceled/Ended,ABC,US,0,Comedy,35
-50,Burke's Law (1994),Canceled/Ended,CBS,US,0,"Crime, Drama",27
-51,Three's a Crowd (1984),Canceled/Ended,ABC,US,6.0000,Comedy,22
-52,Babes,Canceled/Ended,FOX,US,0,Comedy,22
-53,Going Places,Canceled/Ended,ABC,US,0,Comedy,19
-54,Amen,Canceled/Ended,NBC,US,0,Comedy,110
-55,That's My Mama,Canceled/Ended,ABC,US,0,Comedy,39
-56,Undressed,Canceled/Ended,MTV,US,0,"Soaps, Comedy, Drama, Teens",223
-57,Ready or Not,Ended,BBC One,CA,0,Comedy,9
-58,Katts and Dog,Canceled/Ended,CTV,CA,0,"Crime, Action, Adventure, Animals/Pets",1
-59,"Zoe, Duncan, Jack & Jane",Canceled/Ended,WB,US,0,Comedy,26
-60,Throb,Canceled/Ended,Syndicated,US,0,"Comedy, Music",48
-61,CatDog,Ended,Nickelodeon,US,0,"Comedy, Children",131
-62,Head Start,Ended,ABC,AU,0,"Comedy, Drama, Adventure",40
-63,Grace & Favour,Ended,BBC One,GB,0,Comedy,12
-64,Keeping Up Appearances,Ended,BBC One,GB,6.5000,Comedy,40
-65,Bagdad Cafe,Canceled/Ended,CBS,US,0,Comedy,15
-66,Dot Comedy,Canceled/Ended,ABC,US,0,"Comedy, Sketch/Improv",1
-67,Black Tie Affair,Canceled/Ended,NBC,US,0,Comedy,5
-68,My World and Welcome to It,Canceled/Ended,NBC,US,0,Comedy,26
-69,Who Wants to Be a Millionaire,To Be Determined,ABC,US,0,,2825
-70,Emerald Point N.A.S.,Canceled/Ended,CBS,US,0,"Drama, Military/War",22
-71,James at 15,Canceled/Ended,NBC,US,0,"Drama, Teens",20
-72,The United States Steel Hour,Canceled/Ended,CBS,US,0,Anthology,259
-73,The Beachcombers,Ended,CBC,CA,0,"Comedy, Drama, Adventure",321
-74,The Good Guys (1968),Canceled/Ended,CBS,US,0,Comedy,42
-75,Tales of the Unexpected,Canceled/Ended,itv,GB,0,"Thriller, Horror/Supernatural, Anthology",112
-76,The Kids from Room 402,Ended,FOX,US,0,Animation General,2
-77,Jesse Hawkes,Canceled/Ended,CBS,US,0,Adventure,6
-78,Lock-Up,Canceled/Ended,Syndicated,US,5.5000,"Crime, Drama",78
-79,Thieftakers,Canceled/Ended,itv,GB,0,,25
-80,Chip 'N Dale Rescue Rangers,Ended,Disney Channel,US,0,"Adventure, Children",65
-504,Two Faces West,Canceled/Ended,Syndicated,US,0,Western,38
-505,About Face,Canceled/Ended,itv,GB,0,Comedy,12
-506,Hootenanny,Canceled/Ended,ABC,US,0,"Family, Music, Celebrities, Talent",63
-507,Mike and Angelo,Canceled/Ended,itv,GB,0,"Comedy, Sci-Fi, Children",123
-508,Beyond Chance (2006),Canceled/Ended,CMT,CA,0,"Drama, Family",0
-509,The Young Lawyers,Canceled/Ended,ABC,US,0,Drama,23
-510,The Interns,Canceled/Ended,CBS,US,0,"Drama, Medical",24
-511,Division 4,Canceled/Ended,Nine Network,AU,0,"Crime, Drama",259
-512,A Kind of Loving,Canceled/Ended,itv,GB,0,Drama,10
-513,Roger Roger,Canceled/Ended,BBC one,GB,0,Comedy,17
-514,Union Pacific,Canceled/Ended,Syndicated,US,0,Western,32
-515,Dangerous Assignment,Canceled/Ended,Syndicated,US,0,Adventure,39
-516,Don't Eat the Neighbours,Canceled/Ended,Citv,GB,0,"Comedy, Children",26
-517,The Dream Team,Canceled/Ended,Syndicated,US,0,,5
-518,Extreme Dinosaurs,Canceled/Ended,Syndicated,US,0,Animation General,52
-519,It's Only TV But I Like It,Canceled/Ended,BBC one,GB,0,Comedy,32
-520,The Magician (1999),Canceled/Ended,FOX,US,0,Animation General,26
-521,The Micro Ventures,Canceled/Ended,,,0,,4
-522,The Monroes (1995),Canceled/Ended,ABC,US,9.0000,"Soaps, Drama",5
-523,Wichita Town,Canceled/Ended,NBC,US,0,Western,26
-524,The Wrangler,Canceled/Ended,NBC,US,0,"Drama, Western",6
-525,Nightingales (UK),Canceled/Ended,Channel 4,GB,0,Comedy,13
-526,Office Gossip,Canceled/Ended,BBC one,GB,0,Comedy,6
-527,P.R.,Canceled/Ended,CBC,CA,0,,10
-528,Preston Front,Canceled/Ended,,GB,0,Comedy,19
-529,Valley of the Dinosaurs,Canceled/Ended,CBS,US,0,Animation General,16
-530,Scotland Yard,Canceled/Ended,itv,GB,0,"Drama, Mystery",0
-531,Tandarra,Canceled/Ended,Seven,AU,0,"History, Adventure",13
-532,Totally Hoops,Canceled/Ended,DiSNEY CHANNEL,US,0,"Children, Sports",16
-533,Circus of the Stars,Canceled/Ended,CBS,US,0,Celebrities,18
-534,Changing Rooms (UK),Canceled/Ended,BBC one,GB,0,Family,3
-535,Egoli: Place Of Gold,Returning Series,M-Net,ZA,0,"Soaps, Drama",29
-536,Jane,Canceled/Ended,BBC TWO,GB,0,"Comedy, Sketch/Improv",10
-537,Revelations (UK),Canceled/Ended,Channel 5,GB,0,,26
-538,McCready and Daughter,Canceled/Ended,BBC one,GB,0,,6
-539,Harold and the Purple Crayon,Canceled/Ended,HBO Family,US,0,Animation General,0
-540,Your All American College Show,Canceled/Ended,Syndicated,US,0,"Music, Talent",7
-541,Tiswas,Ended,ITV,GB,0,"Comedy, Children",302
-542,Moon and Son,Canceled/Ended,BBC one,GB,0,,0
-543,On Common Ground,Canceled/Ended,PBS,US,0,"Politics, Educational",0
-544,The Experiment,Canceled/Ended,BBC TWO,GB,0,,5
-545,TNA Pay-Per-View,Returning Series,Pay-Per-View,US,0,Action,220
-546,A.J.'s Time Travelers,Canceled/Ended,Syndicated,US,0,Animation General,4
-547,Bug Juice: My Adventures at Camp,Ended,Disney Channel,US,0,"Adventure, Family",19
-548,Tall Tales and Legends,Canceled/Ended,SHOWTIME,US,0,"Fantasy, Celebrities",7
-549,Under the Umbrella Tree,Canceled/Ended,CBC,CA,0,Children,7
-550,The Morecambe & Wise Show,Ended,BBC Two,GB,0,Comedy,175
-552,Washingtoon,Canceled/Ended,SHOWTIME,US,0,"Comedy, Adult Cartoons",5
-553,Brass Eye,Ended,Channel 4,GB,0,Comedy,7
-554,Big Train,Ended,BBC Two,GB,0,Comedy,12
-555,The Railway Children (1968),Canceled/Ended,BBC one,GB,0,Drama,0
-556,Close to Home,Ended,CBS,US,0,Drama,44
-557,Shipmates (US),Canceled/Ended,Syndicated,US,0,,0
-558,The Savages,Canceled/Ended,BBC one,GB,0,Comedy,6
-559,The Eddie Cantor Comedy Theatre,Canceled/Ended,Syndicated,US,0,"Comedy, Anthology",1
-560,The Magic Basket,Canceled/Ended,PBS,US,0,,0
-561,Kath and Kim,Ended,Seven Network,AU,9.5000,Comedy,32
-562,Hero Corp,Ended,France 4,FR,0,"Drama, Action, Fantasy",93
-563,Victoria Wood,Canceled/Ended,BBC one,GB,0,Comedy,6
-564,WWE Confidential,Canceled/Ended,SPIKE,US,0,"Drama, Action, Family",85
-565,Campus Cops,Canceled/Ended,USA Network,US,0,"Comedy, Crime",12
-566,That Peter Kay Thing,Canceled/Ended,Channel 4,GB,0,,6
-567,The Tomorrow People (1992),Canceled/Ended,itv,GB,0,"Sci-Fi, Children",25
-568,Out of Tune,Canceled/Ended,BBC one,GB,0,"Comedy, Children",0
-569,Harry Enfield's Brand Spanking New Show,Canceled/Ended,sky 1,GB,0,,12
-570,Daisy Daisy,Canceled/Ended,Channel 4,GB,0,,6
-571,RI:SE,Canceled/Ended,Channel 4,GB,0,Family,410
-572,WWE The Bottom Line,Canceled/Ended,Syndicated,US,0,"Drama, Action, Family, Sports",61
-573,WWE After Burn,Returning Series,Syndicated,US,0,"Drama, Action, Family",600
-574,Modern Love,Pilot Rejected,We tv,US,0,"Romance/Dating, Family",0
-575,Supply and Demand,Canceled/Ended,itv,GB,0,,0
-576,Mister Roberts,Canceled/Ended,NBC,US,0,"Comedy, Military/War",30
-577,The Last Resort (US),Canceled/Ended,ABC Family,US,0,,20
-578,The Martha Raye Show,Canceled/Ended,NBC,US,0,Music,0
-579,Late World with Zach,Canceled/Ended,VH1,US,0,,0
-580,Crank Yankers,Canceled/Ended,MTV2,US,1.0000,"Comedy, Puppets",70
-581,Varsity Blues,In Development,CMT,US,0,"Drama, Action",0
-582,Ready Steady Go,Running,YouTube,GB,10.0000,Music,177
-583,Short Cuts,Canceled/Ended,Seven,AU,0,"Drama, Teens",26
+id,name,status,start_date,end_date,network,country,runtime,rating,rating_count,genres,total_episodes
+18986,Boks,Canceled/Ended,Apr/09/2006,Oct/21/2006,Tien,NL,50,0,0,"Crime, Drama, Action",13
+18987,Cash & Treasures,Canceled/Ended,Dec/05/2006,Feb/20/2008,travel CHANNEL,US,30,0,0,"Family, Educational, Discovery/Science, Travel",31
+18988,Bug Attack,Canceled/Ended,Jul/31/2003,2005,NATIONAL GEOGRAPHIC CHANNEL,GB,50,0,0,"Family, Current Events, Educational, Discovery/Science",1
+18993,Gimme My Reality Show,Canceled/Ended,Oct/11/2008,Nov/01/2008,NAT GEO WILD,US,60,4.0000,2,"Comedy, Family, Celebrities",4
+19060,Musical Merry-Go-Round,Canceled/Ended,Jul/25/1947,Mar/1949,NBC,US,20,0,0,"Family, Music, Celebrities, Talent",1
+19100,Discovery Project Earth,Canceled/Ended,Aug/22/2008,Sep/19/2008,Discovery Channel,US,60,0,0,"Family, Educational, Discovery/Science",8
+19127,Music Hall (1952),Canceled/Ended,Jul/01/1952,Sep/25/1952,CBS,US,15,0,0,"Family, Music, Celebrities, Talent",26
+19139,Rebelde Way,Canceled/Ended,May/26/2002,2003,Azul TV,AR,43,0,0,"Soaps, Comedy, Drama, Romance/Dating, Family, Music, Teens",239
+19184,Prisionera,Canceled/Ended,Mar/10/2004,Dec/06/2004,TELEMUNDO,US,60,0,0,"Soaps, Crime, Drama, Romance/Dating, Mystery",180
+19495,"Leugen Regeert, De",Canceled/Ended,Sep/06/2000,Apr/24/2009,VARA,NL,35,0,0,"Politics, Current Events, Debate",163
+19500,Vem kan slå Filip och Fredrik,Returning Series,Sep/09/2008,,Kanal 5,SE,120,0,0,,36
+19502,Blauw bloed,Returning Series,Sep/04/2004,,EO,NL,35,0,0,"Politics, Current Events, Religion",277
+19510,Yvon in de Buurt,New Series,Sep/18/2008,,KRO,NL,30,0,0,"Family, Lifestyle",5
+19515,Radar,Returning Series,Sep/16/2002,,TROS,NL,35,0,0,"Crime, Current Events",308
+19522,The Dark Side of Fame With Piers Morgan,Canceled/Ended,Sep/08/2008,Oct/27/2008,BBC one,GB,45,0,0,"Celebrities, Lifestyle",8
+19534,Nature Shock,Returning Series,Jan/08/2008,,Channel 5,GB,60,0,0,Animals/Pets,27
+19539,Sjálfstætt Fólk,Returning Series,2003,,Stöð 2,IS,10,0,0,"Interview, Educational",0
+19553,Útsvar,Returning Series,Sep/14/2007,,Sjónvarpið,IS,50,0,0,Family,5
+19573,Ga-Rei -Zero-,Canceled/Ended,Oct/05/2008,Dec/21/2008,Chiba TV,JP,30,0,0,"Action, Horror/Supernatural, Anime",12
+19575,Aaron Stone,Ended,2009-02-13,,Disney XD,US,25,10.0000,1,"Action, Adventure, Children",35
+19577,Andere Tijden,Running,2000-03-12,,NPO 2,NL,40,0,0,History,867
+19591,Eat the Clock,Pilot Rejected,2008,,food network,US,30,0,0,"Family, Educational, Cooking/Food, Travel",1
+19745,Dogs 101,Ended,Oct/11/2008,Aug/13/2011,Animal Planet,US,60,0,0,Animals/Pets,30
+19746,Beauty & de Nerd,Ended,2006-10-30,,VTM,NL,60,0,0,Romance/Dating,27
+19843,Download: The True Story of the Internet,Canceled/Ended,Mar/03/2008,Mar/04/2008,Science,US,45,0,0,"Current Events, Educational, Discovery/Science, Tech/Gaming",2
+19863,Grave Justice,Canceled/Ended,Oct/31/2008,,truTV,US,30,0,0,,1
+20021,NCRV Natuurlijk - NL onder water,Canceled/Ended,Sep/23/2008,,NCRV,NL,25,0,0,"Educational, Discovery/Science, How To/Do It Yourself",6
+20172,Opening Soon: By Design,Canceled/Ended,2005,2008,HGTV,CA,60,0,0,"Family, Educational, Talent, How To/Do It Yourself, Design/Decorating",0
+20173,Chef School,Returning Series,Jan/01/2008,,Food Network,CA,30,0,0,"Soaps, Family, Talent, Cooking/Food, How To/Do It Yourself",27
+20175,When Spicy Meets Sweet,Canceled/Ended,Apr/18/2008,Aug/15/2008,MTV,US,5,0,0,"Romance/Dating, Family",18
+20182,Afkicken,Returning Series,Jun/04/2007,,BNN,NL,25,0,0,"Drama, Teens",22
+20188,Pure Design,Returning Series,Sep/30/2008,,HGTV,CA,30,0,0,"Family, How To/Do It Yourself, Design/Decorating",1
+20241,Shop Like a Star,Ended,Jan/12/2008,,Esquire NETWORK,US,30,0,0,"Family, Celebrities, How To/Do It Yourself, Fashion/Make-up",1
+20257,Wild Rose,Ended,2025-03-06,,Tencent QQ,CA,10,0,0,Romance,24
+20475,Relative Madness,Canceled/Ended,May/08/2008,Jun/12/2008,SOAPNET,US,60,0,0,"Romance/Dating, Family, Celebrities, Educational",6
+20479,DAS je goed recht,Returning Series,Feb/17/2008,,SBS 6,NL,50,0,0,"Crime, Finance, Current Events",32
+20536,Lost Tapes,Ended,Jan/06/2009,Nov/09/2010,Animal Planet,US,30,0,0,"Drama, Mystery, Sci-Fi, Thriller, Horror/Supernatural, Fantasy, Animals/Pets, Educational, Discovery/Science, Outdoors/Wildlife, Debate",28
+20613,Born American,Canceled/Ended,2003,2004,Cooking Channel,US,30,0,0,"History, Family, Educational",26
+20661,Super Tools,Canceled/Ended,Mar/19/2006,Apr/2006,HISTORY,US,240,0,0,"Family, Educational, Discovery/Science, How To/Do It Yourself",0
+20722,Travel Scams & Rip-Offs Revealed,Canceled/Ended,Sep/29/2002,Oct/13/2002,travel CHANNEL,US,60,0,0,"Family, Educational, Travel",3
+20934,Ayakashi,Canceled/Ended,Dec/03/2007,Feb/2008,AT-X,JP,25,0,0,"Drama, Action, Sci-Fi, Anime",12
+20990,Hung,Ended,2009-06-28,,HBO,US,30,5.0000,3,"Comedy, Drama",30
+21166,Darklands,Ended,2019-10-07,,Virgin Media One,AU,60,0,0,"Crime, Drama, Action",9
+21220,Simek voor de verandering,New Series,Mar/31/2009,,EO,NL,25,0,0,Religion,8
+21229,Style Her Famous,Canceled/Ended,Sep/04/2006,Jul/30/2009,Esquire NETWORK,US,30,0,0,,27
+21297,Hjelp Jeg Er Med i Et Japansk Gameshow,Canceled/Ended,Feb/08/2009,,TVNorge,NO,60,0,0,Family,0
+21301,400 jaar New York,In Development,2009,,AVRO,NL,50,0,0,History,4
+21310,Lifegivers,New Series,Apr/13/2009,,BBC one,GB,45,0,0,Medical,5
+21316,40 Naughtiest Celebrity Scandals,Canceled/Ended,Apr/09/2009,Apr/2009,VH1,US,60,0,0,Celebrities,0
+21356,En god nummer to,New Series,Mar/02/2009,,TV2,NO,30,0,0,Comedy,8
+21404,Junior Jubilee,Canceled/Ended,Mar/1956,,ABC,US,30,0,0,"Family, Music, Teens, Celebrities, Talent",1
+21432,The Bobbie Gentry Show,Canceled/Ended,Jun/05/1974,Jun/26/1974,CBS,US,60,0,0,"Family, Music, Talent",4
+21565,The Golden Moment: An Olympic Love Story,Canceled/Ended,May/25/1980,May/26/1980,NBC,US,240,0,0,Sports,0
+21597,Community,Ended,2009-09-17,,Yahoo! View,US,30,8.4000,20,Comedy,110
+21745,Ik ben Willem,Canceled/Ended,Oct/06/2002,Apr/17/2005,VPRO,NL,15,0,0,"Drama, Adventure, Children",16
+21778,Waiting to Die,Pilot Rejected,2009,,CBS,US,30,0,0,"Comedy, Family",0
+21846,Class Action,Pilot Rejected,2009,,TNT DRAMA,US,60,0,0,"Drama, Family",0
+21900,Property Snakes and Ladders,New Series,Jun/09/2009,,Channel 4,GB,60,0,0,"How To/Do It Yourself, Housing/Building, Buy, Sell & Trade",12
+21985,Rock!,New Series,Jun/13/2009,,VPRO,NL,50,0,0,"History, Music",7
+22055,Uhhh... Vergeet Je Tandenborstel Niet!,Canceled/Ended,Aug/08/1995,Mar/03/1999,Veronica,NL,60,0,0,Comedy,52
+22056,Prísne tajné,Canceled/Ended,Sep/10/2008,Dec/17/2008,nova,CZ,30,0,0,"Family, Celebrities, Interview",15
+22065,"Kunt u mij de weg naar Hamelen vertellen, mijnheer?",Ended,1972-01-22,,NPO 1,NL,45,0,0,"Adventure, Family",45
+22071,BN’ers in het Park,New Series,Jul/11/2009,,RTL 4,NL,30,0,0,Comedy,7
+22073,Kid vs Kat,Ended,2008-10-25,,YTV,CA,30,0,0,Children,52
+22076,You Have Been Watching,Ended,2009-07-07,,Channel 4,GB,35,0,0,Comedy,16
+22089,Nicholas Nickleby,Canceled/Ended,Mar/27/1977,May/01/1977,BBC one,GB,60,0,0,Drama,6
+22091,Mystery of Edwin Drood,Canceled/Ended,Sep/28/1960,Nov/16/1960,itv,GB,30,0,0,"Drama, Mystery",8
+22099,The National Lottery: Millionaire Manor,Canceled/Ended,Dec/03/2005,Mar/2006,BBC one,GB,45,8.0000,1,,14
+22105,Only Connect,Running,2008-09-15,,BBC Two,GB,30,0,0,"Family, Lifestyle",488
+22113,The National Lottery Amazing Luck Stories,Canceled/Ended,Oct/21/1998,Oct/11/2000,BBC one,GB,40,0,0,"Family, Lifestyle",30
+22117,Twins by Surprise,Canceled/Ended,Jun/14/2009,Jun/28/2009,TLC,US,60,0,0,"Family, Educational, How To/Do It Yourself",3
+22118,The National Lottery Euro Millions Draw,Canceled/Ended,Feb/08/2008,May/07/2010,BBC one,GB,5,0,0,Family,118
+22122,2012 Het Jaar Nul,New Series,Oct/10/2009,,AVRO,NL,25,0,0,"Drama, Children",12
+22123,As Seen on TV,Canceled/Ended,Jul/17/2009,Sep/03/2009,BBC one,GB,30,0,0,Celebrities,8
+22260,The Wanted,Canceled/Ended,Jul/20/2009,Jul/27/2009,NBC,US,60,6.0000,2,"Family, Interview, Educational",2
+22312,Mind of a Model,Canceled/Ended,Jul/16/2008,Aug/2008,RIPE TV,US,60,0,0,"Family, How To/Do It Yourself, Fashion/Make-up",0
+22359,The National Lottery UK 2000,Canceled/Ended,Jan/26/2000,Mar/2000,BBC one,GB,10,0,0,Lifestyle,21
+22372,"Slimste, De (2009)",Canceled/Ended,Sep/28/2009,Nov/19/2009,RTL 4,NL,50,0,0,"Family, Celebrities, Tech/Gaming",32
+22373,Classic Goldie,New Series,Jul/31/2009,,BBC TWO,GB,60,0,0,"Music, Celebrities",2
+22374,How The Other Half Live,New Series,Jul/31/2009,,Channel 4,GB,60,10.0000,1,"Family, Lifestyle",10
+22376,Grimefighters,Ended,Jul/22/2009,2011,sky MOVIES FAMILY,GB,30,0,0,,48
+22398,Eurocasting,Canceled/Ended,2004,2004,Andorra TV,AD,60,0,0,"Family, Music, Celebrities, Talent",0
+22416,Launch My Line,Canceled/Ended,Dec/02/2009,Feb/03/2010,Bravo,US,60,5.0000,2,Fashion/Make-up,9
+22461,Terry and the Pirates,Canceled/Ended,1952,1953,Syndicated,US,30,0,0,"Action, Adventure",0
+22480,Tour de Provence,Canceled/Ended,Aug/15/2009,,RTV Noord-Holland,NL,180,0,0,"Adventure, Celebrities, Tech/Gaming",12
+22523,House of Jazmin,Canceled/Ended,Aug/18/2009,Sep/05/2009,MTV,US,30,0,0,"Comedy, Family",4
+22579,Gran Hermano,Running,2000-04-23,,Telecinco,ES,120,0,0,Family,139
+22628,The Fuzz (2009),Pilot Rejected,2009,,Comedy Central,US,30,0,0,"Comedy, Crime, Family, Teens, Sketch/Improv",0
+22659,Sci Trek,Returning Series,Feb/04/2008,,Discovery CHANNEL,GB,60,0,0,"Educational, Discovery/Science",1
+22667,Entertainmentstudios.com,Returning Series,2006,,Syndicated,US,30,0,0,"Celebrities, Interview",0
+22741,Buurt op stelten,Canceled/Ended,Jan/08/2006,Feb/26/2008,Tien,NL,50,0,0,"Family, Music",8
+22810,Crash (UK),Canceled/Ended,Sep/09/2009,May/28/2010,BBC one Wales,GB,30,0,0,"Drama, Medical",12
+22813,Seiken no Blacksmith,Ended,2009-10-03,,AT-X,JP,25,10.0000,1,"Action, Adventure, Fantasy, Anime",12
+22816,Ross Noble's Australian Trip,Ended,2009-09-28,,Channel 5,GB,60,0,0,"Comedy, Travel",6
+22818,Music Idol,Canceled/Ended,Feb/26/2007,,bTV,BG,60,0,0,"Music, Talent",0
+22837,The New Adventures of Black Beauty (1992),Canceled/Ended,1992,,RURAL TV,AU,24,0,0,"Adventure, Children",0
+22910,Restaurant in Our Living Room,New Series,Sep/24/2009,,channel one,GB,10,0,0,Cooking/Food,9
+22913,Life on Top,Ended,2009-10-03,,Cinemax,US,30,0,0,"Drama, Romance, Adult",26
+22919,Dishing the Dirt,Canceled/Ended,Oct/13/2009,Nov/03/2009,itv,GB,60,0,0,Cooking/Food,4
+22934,Hungry Beast,Ended,2009-09-30,,ABC,AU,30,0,0,Comedy,32
+22951,Coxy's Big Break,New Series,Apr/17/2004,,Seven,AU,30,0,0,"Adventure, Family, Travel",1
+23141,¿Quién quiere ser millonario? (PA),New Series,Jul/13/2009,,Canal 13,PA,60,0,0,Family,1
+23216,Christianity: A History,Canceled/Ended,Jan/11/2009,Mar/01/2009,Channel 4,GB,60,0,0,Religion,8
+23458,Haven,Ended,2010-07-09,,Syfy,US,60,8.1250,8,"Crime, Drama, Supernatural",78
+23492,Living in Your Car,Ended,2010-05-07,,HBO Canada,CA,30,0,0,"Comedy, Drama",21
+23546,Alphaville,Pilot Rejected,2010,,SHOWTIME,US,60,0,0,"Drama, Family",0
+23696,Trot Lovers,Ended,Jun/23/2014,Aug/12/2014,KBS2,KR,66,0,0,"Romance/Dating, Music",16
+23737,Let's Talk About,Ended,2015-10-30,,FOXTEL Now,US,10,4.0000,2,"Romance/Dating, Family, Music, Celebrities, Talent, Lifestyle",20
+23888,Model City,Canceled/Ended,Feb/18/2010,Apr/01/2010,Centric,US,30,0,0,"Family, Talent, Fitness",7
+23890,"Leukste Jaren, De",New Series,Jan/16/2010,,KRO,NL,50,0,0,"History, Music, Celebrities, Tech/Gaming",5
+23916,Courtside with Seth Davis,Returning Series,Jan/11/2010,,CBS SPORTS NETWORK,US,60,0,0,"Family, Sports, Talent",4
+24107,Noonbory and the Super Seven,Canceled/Ended,Sep/19/2009,Sep/18/2010,CBS,US,30,0,0,Animation General,0
+24229,Wrestlicious TakeDown,New Series,Mar/01/2010,,MAVTV,US,60,0,0,"Comedy, Action, Family, Sports, Talent, Fitness",13
+24239,Hoarding: Buried Alive,Ended,2009-05-09,,TLC,US,60,6.5000,2,"Medical, Interview, Discovery/Science",118
+24454,Nonkel Jef,Canceled/Ended,Jan/02/1995,Feb/04/2007,VTM,BE,30,0,0,Comedy,17
+24609,Engrenages,Ended,2005-12-13,,Canal+,FR,60,0,0,"Crime, Drama",86
+24802,Ezel,Ended,Sep/28/2009,,ATV,TR,100,8.0000,3,"Crime, Drama, Thriller",71
+24928,"Billy Connolly's World Tour of England, Ireland and Wales",Canceled/Ended,Mar/04/2002,2002,BBC one,GB,25,0,0,"Comedy, Travel",0
+24951,Exposed (US),Pilot Rejected,2010,,truTV,US,60,0,0,Family,0
+25262,Nightline Prime,Returning Series,Aug/19/2010,,ABC,US,60,0,0,"Interview, Discovery/Science",45
+25384,Scrooged,New Series,Aug/31/2010,,EO,NL,25,0,0,Lifestyle,9
+25410,Extreme Duudsonit,Canceled/Ended,Jan/25/2001,Dec/23/2004,,FI,30,0,0,"Comedy, Action",32
+25574,Friday Night Games,Canceled/Ended,Feb/17/2006,Apr/21/2006,ten,AU,70,0,0,,0
+25718,Soy tu fan,New Series,Apr/28/2010,,Once TV México,MX,60,0,0,Drama,24
+25720,Fakes,Canceled/Ended,Oct/06/2010,Oct/13/2010,ABC,AU,60,0,0,Crime,2
+25721,Geologic Journey,Canceled/Ended,2007,2007,Science,CA,60,0,0,Discovery/Science,5
+25722,Birds Britannia,Canceled/Ended,Nov/03/2010,Nov/24/2010,BBC FOUR,GB,60,0,0,Outdoors/Wildlife,4
+25729,Wolven,Ended,Dec/04/2012,,één,BE,50,0,0,"Crime, Drama, Action",13
+25730,Ushi en Van Dijk,Canceled/Ended,Mar/09/1999,2002,SBS 6,NL,25,0,0,"Sketch/Improv, Celebrities, Interview",1
+25734,Back On the Job,New Series,Nov/01/2010,,itv4,GB,60,0,0,"Celebrities, Lifestyle",4
+25737,Johnny Kingdom's Year with the Birds,New Series,Nov/03/2010,,BBC FOUR,GB,30,10.0000,1,Outdoors/Wildlife,3
+25739,David Attenborough's First Life,Canceled/Ended,Nov/05/2010,,BBC TWO,GB,60,0,0,"History, Discovery/Science",2
+25742,Edwardian Farm,Canceled/Ended,Nov/10/2010,Jan/19/2011,BBC TWO,GB,60,0,0,"History, Family, Lifestyle",12
+25766,The Zoo,Ended,2010-11-09,,ITV,GB,60,0,0,Outdoors/Wildlife,11
+25775,Running Russell Simmons,Canceled/Ended,Nov/02/2010,Dec/07/2010,oxygen,US,60,0,0,Music,6
+25778,Sábado Gigante,Returning Series,Apr/12/1986,,univision,US,180,0,0,Music,0
+25820,What's Eating You,Canceled/Ended,Oct/13/2010,Nov/17/2010,E!,US,60,0,0,"Cooking/Food, Lifestyle",6
+25845,Diplomatavadász,Canceled/Ended,Aug/19/2010,Oct/29/2010,Duna TV,HU,40,0,0,"Comedy, Drama, Romance/Dating",0
+25846,At Home with the Georgians,Canceled/Ended,Dec/02/2010,Dec/16/2010,BBC TWO,GB,60,0,0,"History, Family, Lifestyle",3
+26081,Dark Realm,Canceled/Ended,May/26/2001,Dec/15/2001,Syndicated,CA,60,10.0000,1,"Drama, Sci-Fi, Horror/Supernatural, Anthology",13
+26104,Say Yes to the Dress: The Big Day,Ended,2011-10-14,,TLC,US,60,0,0,"Drama, DIY",16
+26161,Grande Ourse,Canceled/Ended,2004,2006,Télé,CA,45,0,0,"Drama, Horror/Supernatural",20
+26234,19-2,Ended,Feb/02/2011,Apr/01/2015,Radio-Canada,CA,60,0,0,"Crime, Drama",30
+26237,Precure Max Heart,Canceled/Ended,Feb/06/2005,Jan/29/2006,TV Asahi,JP,28,0,0,"Comedy, Action, Super Heroes, Adventure, Anime",0
+26446,Drenge,Ended,2022-08-14,,Viaplay,DK,10,0,0,Drama,7
+26448,Mrs. Brown's Boys,To Be Determined,2011-01-01,,RTÉ ONE,GB,10,10.0000,2,Comedy,39
+26454,Bar Karma,Ended,2011-02-11,,Current TV,US,30,0,0,"Drama, Mystery, Science-Fiction",12
+26456,Shooting Star Rockman,Canceled/Ended,Oct/07/2006,Mar/29/2008,,JP,10,0,0,"Comedy, Action, Sci-Fi, Adventure, Children, Fantasy, Anime",2
+26457,Mega Man Star Force,Canceled/Ended,Jul/23/2007,Dec/10/2007,Cartoon Network,JP,25,0,0,"Comedy, Action, Sci-Fi, Adventure, Children, Anime",0
+26462,World War 1 in Colour,Ended,2003-09-01,,Channel 5,GB,50,6.5000,2,War,6
+26591,Bert,Canceled/Ended,Oct/01/1994,Dec/17/1994,SVT1,SE,30,0,0,"Comedy, Teens",12
+26642,The Nine Lives of Chloe King,Ended,2011-06-14,,Freeform,US,60,1.0000,1,"Drama, Action, Supernatural",10
+26759,Leonardo,TBD/On The Bubble,Apr/11/2011,Dec/06/2012,Cbbc,GB,30,0,0,"History, Adventure, Children",26
+26760,Britain's Next Big Thing,Canceled/Ended,Apr/12/2011,May/24/2011,BBC TWO,GB,60,0,0,"Finance, Discovery/Science, Lifestyle",7
+26774,Problem Solverz,Returning Series,Apr/04/2011,,Cartoon Network,US,15,0,0,"Comedy, Teens, Animation General, Children",18
+26995,Don Francisco presenta,Returning Series,2002,,univision,US,60,0,0,"Comedy, Family, Music, Celebrities, Talent",1
+26997,Carol Duvall's Holiday Workshop,Canceled/Ended,Dec/2001,Jan/2002,HGTV,US,60,0,0,"How To/Do It Yourself, Design/Decorating, Arts & Crafts",0
+27002,Prince William & Catherine: A Royal Love Story,Ended,Apr/09/2011,May/12/2011,OPRAH WINFREY NETWORK,US,90,0,0,"Family, Celebrities, Lifestyle",2
+27006,In Development,New Series,Apr/17/2011,,FX MOVIE CHANNEL,US,30,0,0,"Family, Celebrities, Interview, Talent, Lifestyle",2
+27008,Decked Out,Ended,2011-04-07,,DIY Network,CA,30,0,0,DIY,38
+27013,Sarah's Summer House,Ended,May/07/2011,Jun/2011,HGTV,US,30,0,0,"Family, Educational, How To/Do It Yourself, Design/Decorating",6
+27015,Swamp Brothers,Canceled/Ended,May/10/2011,,Discovery Channel,US,30,6.5000,2,"Family, Educational, Lifestyle",16
+27021,I Owe You My Life,In Development,2011,,OPRAH WINFREY NETWORK,US,60,0,0,Family,0
+27023,My Mom and Me,In Development,2011,,OPRAH WINFREY NETWORK,US,60,0,0,"Family, Lifestyle",0
+27029,Platinum Hit,Canceled/Ended,May/30/2011,Aug/05/2011,Bravo,US,60,4.0000,2,"Family, Music, Talent",10
+27036,Top Chef Canada,Running,2011-04-11,,Flavour Network,CA,60,0,0,Food,115
+27037,Pretty Rhythm: Aurora Dream,Canceled/Ended,Apr/09/2011,Mar/31/2012,TV Tokyo,JP,25,0,0,"Comedy, Anime",51
+27040,Children's Craniofacial Surgery,New Series,May/02/2011,,BBC TWO,GB,60,0,0,"Medical, Family, Children",3
+27044,Шахта,Canceled/Ended,Nov/28/2010,Jan/14/2011,Первый канал,RU,48,0,0,"Mystery, Action, Sci-Fi, Fantasy",16
+27046,Nederlandse Hollywood vrouwen,New Series,Apr/24/2011,,Net 5,NL,50,0,0,"Finance, Travel, Fashion/Make-up",6
+27047,André Rieu op Bloemeneiland Mainau,New Series,Apr/25/2011,,TROS,NL,90,0,0,Music,1
+27053,Raa Raa the Noisy Lion,Ended,2011-05-09,,CBeebies,GB,10,0,0,Children,78
+27059,The Finder,Ended,2012-01-12,,FOX,US,60,7.0000,4,"Comedy, Crime, Drama",13
+27064,Dom kallar oss artister,Returning Series,Oct/28/2008,,SVT1,SE,30,0,0,"Music, Celebrities, Interview",2
+27065,Antikrundan,Running,1989-08-26,,SVT Play,SE,10,0,0,"History, Educational, Lifestyle, Design/Decorating, Buy, Sell & Trade, Arts & Crafts",204
+27066,Världens händelser,New Series,Mar/30/2011,,SVT2,SE,60,0,0,"History, Interview, Politics",9
+27072,The Strange World of Planet X,Canceled/Ended,Sep/15/1956,Oct/27/1956,ABC,GB,30,0,0,"Drama, Sci-Fi",6
+27199,Al Murray's Compete for the Meat,Canceled/Ended,May/19/2011,Jul/07/2011,Dave,GB,60,0,0,Comedy,8
+27270,Alternatywy 4,Ended,1986-09-30,,TVP1,PL,60,0,0,Comedy,9
+27523,Rhett & Link: Commercial Kings,Canceled/Ended,Jun/24/2011,,IFC,US,30,4.0000,2,"Family, Talent",10
+27540,The Voice Sverige,Returning Series,Jan/04/2012,,TV4,SE,60,0,0,"Family, Music, Celebrities, Talent",1
+27550,Bucket & Skinner's Epic Adventures,Canceled,Jul/01/2011,May/01/2013,nickelodeon,US,30,6.0000,3,"Comedy, Family, Teens",26
+27593,Beautiful Minds,Returning Series,Apr/07/2010,,BBC FOUR,GB,60,0,0,Discovery/Science,6
+27594,BBS: The Documentary,Canceled/Ended,May/21/2005,2008,,US,40,0,0,Discovery/Science,0
+27613,Portugal Tem Talento,New Series,Jan/30/2011,,SIC,PT,90,0,0,"Family, Talent",1
+27674,Survivor Africa,Canceled/Ended,Sep/03/2006,Nov/19/2006,M-Net,ZA,60,0,0,"Adventure, Family, Travel",0
+27864,Beaver Falls,Ended,2011-07-27,,E4,GB,60,0,0,"Comedy, Drama",12
+27931,India's Got More Talent,Returning Series,Jul/11/2009,,Colors,IN,60,10.0000,1,Family,1
+27937,AMERICA In Primetime,Canceled/Ended,Oct/30/2011,Nov/20/2011,PBS,US,60,4.0000,2,"Family, Educational",4
+28002,60 jaar Oranje op tv,Returning Series,Aug/09/2011,,NOS,NL,50,0,0,History,5
+28009,Epic Win,New Series,Aug/20/2011,,BBC one,GB,45,0,0,Discovery/Science,6
+28020,Thicker Than Water: The Marinos,Canceled/Ended,Aug/21/2011,Aug/21/2011,Bravo,US,60,0,0,"Family, Lifestyle",1
+28035,El Factor Xs,Canceled/Ended,2006,2011,RCN Televisión,CO,60,0,0,"Family, Music, Talent",1
+28087,Drake's Passage,New Series,Aug/15/2011,,FOX SPORTS 2,US,60,0,0,"Family, Sports, Travel, Automobiles/Vehicles",6
+28143,Killer Instinct (2011),Canceled,Sep/17/2011,Dec/10/2011,cloo,US,60,6.5000,2,"Crime, Drama, Mystery, Action, History, Family, Educational",13
+28177,Krabbé Staat Op Straat,New Series,Oct/25/2011,,RTL 4,NL,50,0,0,"Housing/Building, Design/Decorating",7
+28188,World's Most Dangerous Roads,Running,2011-09-04,,U,GB,10,0,0,Travel,36
+28193,PBS News,Running,1975-10-20,,PBS,US,60,0,0,"Interview, Current Events",2611
+28195,Rocket City Rednecks,Returning Series,Sep/28/2011,,National Geographic Channel,US,30,0,0,"Family, Educational, Discovery/Science",36
+28204,Inside Man (US),Returning Series,Jun/23/2013,,CNN,US,60,0,0,"Drama, Family, Educational",16
+28211,Каменская,Canceled/Ended,1999,,Россия-1,RU,104,0,0,"Crime, Drama, Mystery",31
+28217,Made In America (2011),New Series,Oct/04/2011,,travel CHANNEL,US,30,0,0,"Family, Educational, How To/Do It Yourself, Travel",13
+28224,Canada Sings,Ended,2011-08-03,,Global,CA,60,0,0,Music,12
+28228,Bridal Mile,New Series,2013,,TLC,US,30,0,0,"Romance/Dating, Family, Lifestyle",3
+28230,Underbelly: Razor,New Series,Aug/21/2011,,Nine Network,AU,45,0,0,"Drama, History",0
+28236,RTL Woonmagazine,New Series,Aug/27/2011,,RTL 4,NL,30,0,0,"How To/Do It Yourself, Housing/Building, Design/Decorating",8
+28240,Best of British,New Series,Sep/14/2011,,Channel 4,GB,60,4.0000,2,"Family, Sports, Lifestyle, Fitness",4
+28249,9/11 De dag die de wereld veranderde,New Series,Sep/05/2011,,VPRO,NL,60,0,0,Drama,3
+28252,X-Cherso,Canceled/Ended,Sep/06/2011,,RTL 5,NL,50,0,0,"Comedy, Talent, Lifestyle",2
+28258,Geen Probleem,Ended,Sep/08/2011,,VPRO,NL,35,0,0,"Comedy, Drama",6
+28260,"Wandeling, De",Returning Series,2003,,KRO,NL,30,0,0,"Interview, Travel",14
+28272,The Nerdist,Ended,2011-09-24,,BBC America,US,60,0,0,"Comedy, Family, Celebrities, Interview",18
+28276,Физика или химия,Canceled/Ended,Aug/29/2011,Sep/29/2011,CTC,RU,48,0,0,"Soaps, Drama, Teens",20
+28278,CIA Confidential,Canceled/Ended,Aug/30/2011,Sep/03/2011,National Geographic Channel,US,60,0,0,"Crime, History, Politics, Current Events, Educational",4
+28282,Outback Wrangler,Ended,2011-10-05,,National Geographic WILD,US,30,0,0,Nature,28
+28284,Gabriel Iglesias Presents Stand Up Revolution,Ended,2011-10-06,,Comedy Central,US,30,0,0,Comedy,19
+28291,Africa's Deadliest,Ended,2011-10-25,,National Geographic Wild,US,60,0,0,Nature,32
+28298,The Game of Life (2011),New Series,Sep/03/2011,,Discovery Family,US,30,0,0,"Comedy, Action, Family",32
+28301,SEC Storied,Running,2011-09-07,,ESPN,US,60,0,0,"History, Sports",102
+28309,Philly 4th of July Jam,Returning Series,Jul/04/2013,,VH1,US,180,0,0,,2
+28314,Exotische Liefde,Returning Series,Aug/31/2011,,VT4,BE,50,0,0,Romance/Dating,18
+28320,Slide,Canceled/Ended,Aug/16/2011,,FOX8,AU,42,4.0000,2,"Drama, Teens",10
+28326,Big Easy Justice,Canceled/Ended,Apr/10/2012,Aug/14/2012,SPIKE,US,30,0,0,"Crime, Drama, Family, Talent",10
+28333,Kitchen Crash,To Be Determined,2021-01-06,,Food Network,US,60,0,0,Food,131
+28342,Regimental Stories,New Series,Sep/20/2011,,BBC FOUR,GB,30,0,0,"Military/War, Lifestyle",5
+28343,Junior MasterChef (NL),New Series,Nov/28/2011,,Net 5,NL,50,0,0,"Family, Children, Cooking/Food",10
+28344,Fresh Meat,Ended,2011-09-21,,Channel 4,GB,50,10.0000,1,"Comedy, Drama",32
+28349,Mixed Britannia,Canceled/Ended,Oct/06/2011,Oct/20/2011,BBC TWO,GB,60,0,0,Lifestyle,3
+28362,Shonan Junai Gumi (Young GTO),Canceled/Ended,Jan/21/1994,Jan/24/1997,,JP,52,0,0,"Comedy, Action, Teens, Anime",5
+28367,Halloween Wars,Running,2011-10-02,,Food Network,US,60,8.0000,4,Food,85
+28369,Future Diary,Canceled/Ended,Oct/09/2011,Apr/15/2012,TVK,JP,25,10.0000,1,"Adventure, Anime",25
+28377,Debat op 2,New Series,Sep/10/2011,,NCRV,NL,50,0,0,,13
+28381,Steps Reunion,New Series,Sep/28/2011,,sky LIVING,GB,60,0,0,"Music, Celebrities",4
+28390,Muñeca Brava,Ended,1998-11-16,,Telefe,AR,30,0,0,"Comedy, Drama, Romance",270
+28396,Audibles,Returning Series,2010,,ESPN,US,60,0,0,"Action, Family, Celebrities, Interview, Sports, Debate",13
+28405,Star King (스타킹),Returning Series,Jan/13/2007,,SBS,KR,75,0,0,"Family, Music, Children, Celebrities, Talent, Dance",233
+28413,There's No Taste Like Home,Ended,Sep/26/2011,Nov/04/2011,sky MOVIES FAMILY,GB,60,0,0,Cooking/Food,30
+28417,Let's Go Dream Team (출발 드림팀),Returning Series,Jan/17/1999,,KBS2,KR,70,0,0,"Celebrities, Sports",296
+28425,De vloek van Osama,New Series,Sep/05/2011,Oct/03/2011,Canvas,BE,55,0,0,"History, Military/War, Interview, Politics, Current Events, Religion",5
+28431,Le Chevalier de Maison-Rouge,Canceled/Ended,Mar/02/1963,Mar/23/1963,ORTF,FR,80,0,0,"Drama, History",0
+28443,H2 (2005),Canceled/Ended,Jan/13/2005,Mar/30/2005,TBS,JP,45,0,0,"Comedy, Romance/Dating, Sports",11
+28496,Mai gaaru,Canceled/Ended,Oct/09/2009,Dec/11/2009,TV Asahi,JP,60,0,0,"Drama, Family",0
+28518,Простые истины,Canceled/Ended,Sep/06/1999,2003,Россия-1,RU,25,0,0,"Drama, Family, Teens",144
+28537,Hart tegen Hard,Ended,2011-10-03,,Net5,NL,60,0,0,"Crime, Drama, Romance",12
+28561,Yume wo Kanaeru Zo,Canceled/Ended,Oct/02/2008,Dec/25/2008,NTV,JP,30,0,0,Comedy,13
+28575,The Amazing Race: China Rush,Returning Series,Aug/08/2010,,International Channel Shanghai,CN,60,0,0,"Adventure, Family, Travel",12
+28585,Depth Chart,New Series,Oct/05/2011,,ESPN,US,60,0,0,"Action, Family, Celebrities, Sports, Talent",4
+28622,Ottawa Senators hockey game,Returning Series,Oct/07/2011,,CBC,CA,150,0,0,Sports,0
+28626,Scouted,Canceled/Ended,Nov/28/2011,Jan/16/2012,E!,US,60,0,0,"Drama, Family, Talent, Lifestyle, Fashion/Make-up, Fitness",8
+28629,Weed Wars,Ended,2011-12-01,,Discovery Channel,US,60,0,0,"Drama, Family, Lifestyle",4
+28635,Profesionáli,Returning Series,Sep/01/2008,,TV JOJ,SK,45,0,0,"Comedy, Action, Family",0
+28640,My First Renovation,Canceled/Ended,Oct/02/2011,2011,HGTV,US,30,0,0,"Family, Educational, How To/Do It Yourself, Housing/Building",5
+28641,Ancient Life,Ended,Oct/09/2011,Dec/23/2011,3net,US,60,0,0,"History, Adventure, Family, Anthology, Educational, Travel",6
+28644,Harvest,TBD/On The Bubble,Oct/13/2011,,HISTORY,US,60,0,0,"Drama, Action, Adventure, Family, Travel",4
+28646,Подиум,Ended,2018-10-18,,Пятница,RU,50,0,0,"Talent, Design/Decorating, Fashion/Make-up",17
+28647,Hacktion,Returning Series,Oct/05/2011,,m1 HD,HU,50,0,0,"Crime, Drama, Action",30
+28648,World Cities 3D,New Series,Oct/30/2011,,3net,US,60,0,0,"History, Adventure, Family, Educational, Discovery/Science, Travel",1
+28649,Scary Tales,Canceled/Ended,Oct/30/2011,Dec/10/2011,3net,US,60,10.0000,1,"Drama, Mystery, Action, Horror/Supernatural, Family",4
+28655,Two of a Kind,Canceled/Ended,Oct/12/1961,Oct/01/1968,itv LONDON,GB,30,0,0,"Comedy, Sketch/Improv",1
+28656,Derren Brown: The Experiments,Canceled/Ended,Oct/21/2011,Nov/11/2011,Channel 4,GB,60,0,0,"Horror/Supernatural, Lifestyle",4
+28658,Jamie's Great Britain,Ended,2011-10-25,,Channel 4,GB,45,0,0,"Travel, Food",6
+28665,Тайный знак,In Development,,,ТВ-3,RU,10,0,0,"Mystery, Science-Fiction",24
+28671,Source Code,In Development,2012,,CBS,US,60,0,0,"Drama, Action, Family",0
+28675,Why Am I?,Ended,2016-05-31,,TVNZ 1,US,60,6.0000,2,"Romance/Dating, Family, How To/Do It Yourself",10
+28678,The Nanny Diaries,In Development,2012,,ABC,US,60,0,0,"Drama, Family, Lifestyle",0
+28689,Рассмеши комика,Canceled,Feb/19/2011,,1 + 1,UA,43,0,0,"Comedy, Family, Talent",120
+28690,Társas játék,Ended,2011-10-23,,HBO,HU,30,0,0,"Comedy, Drama, Romance",26
+28695,Sigrid søker selskap,New Series,2011,,NRK1,NO,30,0,0,Romance/Dating,6
+28703,Guy Code,Ended,2011-11-15,,MTV2,US,30,0,0,"Comedy, Interview, Current Events",63
+28704,Design Wars,Canceled/Ended,Dec/02/2011,2012,HGTV,US,60,0,0,"Family, Educational, Talent, How To/Do It Yourself, Design/Decorating",13
+28707,Dit Is Mijn Lijf,New Series,Oct/26/2011,,RTL 4,NL,50,0,0,Medical,7
+28712,Susan Boyle: An Unlikely Superstar,Ended,Nov/04/2011,Nov/04/2011,sky MOVIES FAMILY,GB,60,0,0,"Music, Celebrities, Lifestyle",1
+28719,Monster Man,Canceled/Ended,Mar/07/2012,Apr/18/2012,Syfy,US,60,0,0,Family,6
+28720,Secret Millionaires Club,Returning Series,Oct/23/2011,,Discovery Family,US,30,0,0,"Finance, Animation General",14
+28728,America's Supernanny,Canceled/Ended,Nov/29/2011,Mar/06/2013,Lifetime,US,60,4.0000,2,"Comedy, Family, Talent, Lifestyle",16
+28731,The Tommy Wi-Show,Ended,Sep/24/2011,,YouTube,US,8,0,0,Comedy,10
+28734,Great British Ghosts,Ended,2011-08-18,,Yesterday,GB,43,0,0,Supernatural,20
+28737,The Modest Adventures of David O'Doherty,Canceled/Ended,May/2007,Jun/2007,RTÉ TWO,IE,25,0,0,"Comedy, Sketch/Improv",1
+28738,Naughty But Nice with Rob Shuter,Pilot Rejected,Nov/06/2010,,AXStv,US,60,0,0,"Family, Celebrities, Interview",2
+28754,Goodnight Burbank,TBD/On The Bubble,Oct/12/2011,,AXStv,US,30,0,0,Comedy,6
+28755,New York: A Documentary Film,Canceled/Ended,Sep/04/1999,Sep/13/2003,PBS,US,120,0,0,History,8
+28758,Paid Programming: Icelandic Ultra Blue,Pilot Rejected,Nov/03/2009,,Adult Swim,US,11,0,0,Comedy,0
+28763,Drie generaties,New Series,Oct/04/2011,Nov/29/2011,Canvas,BE,30,0,0,"History, Interview",6
+28764,Теоретики,Canceled/Ended,Dec/28/2009,Dec/31/2009,СТВ,BY,30,0,0,Comedy,4
+28766,Sex Rx,New Series,Nov/2011,,LOGO TV,US,60,0,0,"Romance/Dating, Educational, Sex, How To/Do It Yourself",1
+28767,Ceramics: A Fragile History,Canceled/Ended,Oct/10/2011,Oct/24/2011,BBC FOUR,GB,60,0,0,"History, Arts & Crafts",3
+28769,Forever Young,Canceled/Ended,Apr/03/2013,May/01/2013,TVland,US,30,6.5000,2,"Romance/Dating, Family, Lifestyle",6
+28773,Shoebox Sessions,In Development,2011,,SUNDANCE TV,US,30,0,0,"Family, Celebrities, Lifestyle",0
+28774,Ade in Britain,Canceled/Ended,Nov/07/2011,Apr/12/2013,itv,GB,60,0,0,"Lifestyle, Travel",50
+28775,Vedetään hatusta,Returning Series,Sep/18/2010,,MTV3,FI,30,0,0,Sketch/Improv,30
+28782,America the Wild with Casey Anderson,Ended,Mar/11/2012,Sep/22/2013,CW,US,30,7.0000,2,"Action, Adventure, Family, Animals/Pets, Outdoors/Wildlife",13
+28789,In the Dark,In Development,2012,,Syfy,US,30,0,0,"Comedy, Family",0
+28797,Hunting Justice with William Phelps,In Development,2012,,Investigation Discovery,US,60,0,0,"Crime, Drama, Mystery, Action, Family",0
+28799,Deadly Sins,Ended,2012-03-03,,Investigation Discovery,US,60,5.5000,2,"Crime, Mystery",57
+28800,Unraveled,Ended,2015-01-08,,Investigation Discovery,US,60,0,0,"Crime, Drama, Action, Family",12
+28805,Lost Heroes of World War One,Ended,2011-11-07,,Channel 5,GB,60,0,0,"History, War",5
+28810,Hammer Session!,Canceled/Ended,Jul/10/2010,Sep/18/2010,TBS,JP,50,0,0,"Crime, Teens",11
+28817,Big Cheese,Ended,2016-09-30,,Food Network,US,30,0,0,Food,6
+28818,Born Dealers,Ended,Nov/05/2011,Dec/10/2011,Destination America,US,60,0,0,"Family, Educational, How To/Do It Yourself",6
+28827,Paint The Town,In Development,2012,,Bravo,US,60,0,0,"Family, Lifestyle",0
+28835,New Chicks: Brabantse nachten op Curaçao,New Series,Nov/01/2011,,RTL 5,NL,50,10.0000,1,"Teens, Lifestyle, Travel",5
+28836,Wild Wives of Africa,New Series,Nov/01/2011,,NAT GEO WILD,US,60,0,0,"Adventure, Family, Educational",6
+28839,Baseball Wives,Canceled/Ended,Nov/30/2011,Jan/30/2012,VH1,US,60,4.0000,2,"Romance/Dating, Family, Lifestyle",8
+28841,The Art Of America,Canceled/Ended,Nov/14/2011,Nov/28/2011,BBC FOUR,GB,60,0,0,Travel,3
+28852,Gran Hotel,Ended,2011-10-04,,Antena 3,ES,75,0,0,Drama,39
+28855,Family Pickle,Canceled/Ended,Oct/26/2011,Nov/09/2011,RLTV,US,60,0,0,"Family, Educational, Cooking/Food, How To/Do It Yourself",3
+28867,What's Up Warthogs!,Returning Series,Mar/11/2011,,Disney XD,CA,30,0,0,"Comedy, Action, Family, Teens",20
+28873,Winslow,In Development,2012,,USA Network,US,60,0,0,"Crime, Drama, Action, Family",0
+28877,Big in Japan,In Development,2012,,USA Network,US,30,0,0,"Comedy, Family, Music, Talent",0
+28894,Специстория,Canceled/Ended,Mar/17/2011,,ECC TV,RU,70,0,0,"History, Military/War, Interview, Politics, Educational",19
+28900,The Vampire Princess,New Series,Nov/03/2011,,Smithsonian CHANNEL,US,60,0,0,"Drama, Mystery, Horror/Supernatural, Family",1
+28906,Amazing Plants,New Series,Dec/01/2011,,Smithsonian CHANNEL,US,60,0,0,"Family, Educational",1
+28917,Hollywood Moms Night,Pilot Ordered,Nov/27/2011,,Pop TV,US,60,0,0,"Family, Lifestyle",1
+28918,Triggers: Weapons That Changed The World,Returning Series,Nov/30/2011,,AMERICAN HEROES CHANNEL,US,60,5.5000,2,"Action, History, Military/War, Family, Educational",12
+28951,Lawless,Canceled/Ended,Mar/21/1997,Mar/21/1997,FOX,US,60,0,0,"Crime, Drama, Action",1
+28952,Big Ten Football Championship,Returning Series,Dec/03/2011,,FOX,US,210,0,0,Competition,4
+28962,Black Dynamite,Ended,2012-07-15,,Adult Swim,US,30,7.0000,2,"Comedy, Action",19
+28963,Ship Happens,In Development,2012,,A&E,US,60,0,0,"Adventure, Family, Talent, Travel, Automobiles/Vehicles",0
+28972,Diamond Divers,Canceled/Ended,Jun/20/2012,Aug/01/2012,SPIKE,US,60,4.0000,2,"Drama, Mystery, Action, Adventure, Family, Talent",6
+29031,AFI Master Class,New Series,Nov/15/2011,,TURNER CLASSIC MOVIES,US,60,10.0000,1,"History, Family, Anthology, Educational",3
+29040,Proefkonijnen,Ended,2011-12-14,,NPO 3,NL,55,0,0,"Lifestyle, Fitness",54
+29041,Desperate Scousewives,Canceled/Ended,Nov/28/2011,Jan/16/2012,E4,GB,60,0,0,"Family, Lifestyle",8
+29046,Don't Be Tardy...,Ended,2012-04-26,,Bravo,US,30,6.0000,3,"Romance/Dating, Family, Lifestyle",94
+29050,"Любовь - не то, что кажется",Canceled/Ended,May/12/2009,Jul/21/2009,CTC,RU,49,0,0,"Comedy, Romance/Dating",40
+29055,Прокурорская проверка,Ended,Mar/28/2011,,НТВ,RU,55,0,0,"Crime, Action, Discovery/Science",475
+29073,Громовы,Canceled/Ended,Feb/13/2006,Feb/14/2008,Россия-1,RU,44,0,0,"Drama, Family",24
+29091,Comedy Баттл (Турнир),Canceled/Ended,Jan/14/2011,,ТНТ,RU,48,0,0,"Comedy, Sketch/Improv",22
+29099,That was 2011: The ITV News Review of the Year,Ended,Dec/29/2011,Dec/30/2011,sky MOVIES FAMILY,GB,30,0,0,"Finance, Current Events",2
+29122,Гостья,Running,2025-11-13,,Иви,SU,10,0,0,"Drama, Romance/Dating, Sci-Fi, Adventure, Children",8
+29127,The Butlins Story,Ended,Dec/20/2011,Dec/20/2011,sky MOVIES FAMILY,GB,60,0,0,"History, Family, Lifestyle, Travel",1
+29130,Red vs. Blue,Ended,2003-04-01,,YouTube,US,10,9.5000,4,"Comedy, Action, Adventure",371
+29134,Fields of Valor: The Civil War,Canceled/Ended,Dec/03/2011,Dec/17/2011,3net,US,60,0,0,"History, Family, Anthology, Educational",4
+29145,Paddy’s Show and Telly,TBD/On The Bubble,Dec/29/2011,Dec/22/2012,itv,GB,60,0,0,"Family, Celebrities",2
+29164,Ouran High School Host Club TV,Canceled/Ended,Jul/22/2011,Sep/30/2011,TBS,JP,20,9.6667,3,Comedy,11
+29165,Nissene over skog og hei,Canceled/Ended,Dec/01/2011,Dec/24/2011,TVNorge,NO,15,0,0,"Comedy, Interview",24
+29168,Sunday Night Fever,New Series,Dec/03/2011,,RTL 4,NL,70,0,0,"Music, Talent, Dance",2
+29179,BCS National Championship Game,Returning Series,Jan/04/1999,,ESPN,US,240,0,0,"Action, Family, Sports, Talent, Fitness",16
+29195,Black Mirror,To Be Determined,2011-12-04,,Netflix,GB,10,9.0597,67,"Drama, Thriller, Science-Fiction",33
+29199,Extreme (2010),Canceled,Jun/13/2010,Dec/10/2011,TLC,US,30,0,0,"Action, Family, Lifestyle",6
+29203,The Big Fat Quiz,Running,2004-12-28,,Channel 4,GB,10,10.0000,1,Comedy,65
+29241,The Story of Musicals,New Series,Jan/02/2012,,BBC FOUR,GB,60,0,0,"History, Music, Celebrities",1
+29274,First Week In,Canceled/Ended,Jan/09/2012,Feb/06/2012,Discovery Channel,US,60,0,0,"Crime, Lifestyle",6
+29276,The Exit List,TBD/On The Bubble,Jan/10/2012,Feb/28/2012,itv,GB,60,0,0,"Family, Lifestyle",7
+29285,The One Jasper Carrott,Ended,Jan/09/2012,Jan/09/2012,BBC one,GB,30,0,0,Comedy,1
+29287,Cold Comfort Farm,Canceled/Ended,Jun/22/1968,Jul/06/1968,BBC one,GB,50,0,0,Comedy,3
+29297,Super Systems,Canceled/Ended,Dec/26/2011,Oct/28/2012,3net,US,60,0,0,"Family, Educational",5
+29299,Lidia Celebrates America,Running,2011-12-20,,PBS,US,60,0,0,"Family, Celebrities, Educational, Cooking/Food, How To/Do It Yourself, Travel",17
+29313,Мундольф,New Series,Jul/28/2010,,,RU,120,0,0,"Comedy, Family",54
+29314,Ultimate Journeys,Canceled/Ended,2005,Jan/25/2010,Discovery CHANNEL,GB,50,5.0000,2,Travel,22
+29326,Live Aid,Canceled/Ended,Jul/13/1985,,BBC one,GB,480,0,0,Music,0
+29353,La Galère,Canceled/Ended,Feb/13/2007,,Télé,CA,60,0,0,"Soaps, Drama",57
+29357,Унесённые призраками,Canceled/Ended,Jul/20/2001,,,JP,125,0,0,"Drama, Anime",0
+29361,Strictly Sexual: The Series,Canceled/Ended,2011,,,US,30,4.0000,2,Comedy,6
+29363,Gator Boys,Ended,2012-01-08,,Animal Planet,US,60,4.0000,2,Nature,65
+29390,Doomsday Preppers,Returning Series,Jun/27/2011,,National Geographic Channel,US,60,7.3333,3,"Finance, Military/War, Medical, Interview, Politics, Current Events, Educational, Cooking/Food, Discovery/Science, Lifestyle, How To/Do It Yourself, Garden/Landscape, Housing/Building",52
+29393,Canada’s Greatest Know-It-All,Canceled/Ended,Jan/30/2012,Mar/11/2013,Discovery Channel,CA,60,0,0,"Family, Talent",16
+29395,Animal House Outdoors,New Series,Dec/26/2011,,SPORTSMAN CHANNEL,US,30,0,0,"Family, Sports, How To/Do It Yourself",4
+29405,Shooting Stars (US),Ended,Jan/07/2012,,VELOCITY,US,60,0,0,"Family, Celebrities, Sports, How To/Do It Yourself",2
+29408,Wild Life,Canceled/Ended,Mar/24/2008,Mar/25/2008,NHK,JP,90,0,0,,2
+29421,Have You Heard From Johannesburg?,New Series,Jan/12/2012,,PBS,US,60,0,0,"History, Family, Anthology, Educational",5
+29430,Coming Out Diaries,Canceled/Ended,Jan/17/2012,Jan/17/2012,BBC three,GB,60,0,0,"Family, Lifestyle",1
+29451,New Prince of Tennis,Canceled/Ended,Jan/05/2012,Mar/29/2012,TV Tokyo,JP,25,10.0000,1,"Sports, Anime",13
+29453,Охотники за бриллиантами,Canceled/Ended,Oct/03/2011,,Первый канал,RU,52,0,0,"Crime, Drama, Action, History",0
+29474,De Flandriens van het veld,New Series,Dec/26/2011,Jan/30/2011,Canvas,BE,55,0,0,"Interview, Sports, Current Events",6
+29479,Pasta,Canceled/Ended,Jan/04/2010,Mar/09/2010,MBC,KR,70,0,0,"Drama, Romance/Dating, Cooking/Food",20
+29481,The 2012 Summer Olympics,Canceled/Ended,Jul/27/2012,,NBC,GB,180,0,0,Sports,17
+29488,Son,New Series,Jan/09/2012,,ATV,TR,90,0,0,"Crime, Drama, Action, Lifestyle",24
+29491,Love Broker,Ended,2012-03-05,,Bravo,US,60,4.0000,2,"Romance/Dating, Family, Lifestyle",8
+29494,Young Talent Time (2012),New Series,Jan/22/2012,,ten,AU,60,3.0000,1,"Family, Music, Dance",16
+29515,Musée Eden,Canceled/Ended,Mar/16/2010,,,CA,60,0,0,"Crime, Drama, History",9
+29524,Ondes de choc,Canceled/Ended,Sep/15/2007,,,FR,55,0,0,"Crime, Drama",6
+29528,Paranormal Trauma,New Series,Jan/10/2012,,BIOGRAPHY CHANNEL,CA,42,0,0,Mystery,0
+29541,West Coast Customs,Ended,2013-06-16,,Fox Sports 2,US,60,0,0,"Drama, Family",37
+29545,Young Baker Of The Year,New Series,Jan/29/2012,,BBC three,GB,60,0,0,Cooking/Food,1
+29556,Iron Chef America Countdown,New Series,Jan/31/2012,,Cooking Channel,US,30,0,0,"Family, Educational, Cooking/Food, How To/Do It Yourself",1
+29566,Winter Road Rescue,Running,2012-02-02,,Channel 5,GB,60,0,0,"Lifestyle, Travel",23
+29568,Defiance,Ended,2013-04-15,,Syfy,US,60,7.7500,16,"Action, Adventure, Science-Fiction",38
+29572,Tunnelbanan,Ended,2012-01-25,,Kanal 5,SE,60,0,0,"Drama, Action, Travel",114
+29574,Наркоман Павлик,Returning Series,Nov/07/2011,,,RU,12,0,0,"Comedy, Crime, Action, Adventure, Teens, Lifestyle",48
+29589,Cat Street,Canceled/Ended,Aug/28/2008,Oct/02/2008,,JP,10,0,0,Drama,6
+29594,Elementary,Ended,2012-09-27,,CBS,US,60,8.8767,73,"Crime, Drama, Mystery",154
+29602,Animal Practice,Ended,2012-08-12,,NBC,US,30,8.0000,3,Comedy,9
+29614,Quean,Pilot Ordered,2012,,CBS,US,10,0,0,"Crime, Drama",0
+29618,Widow Detective,Pilot Ordered,2012,,CBS,US,10,0,0,"Crime, Drama",0
+29620,The Moment,Canceled/Ended,Feb/20/2013,May/31/2013,USA Network,US,60,0,0,Sports,9
+29632,Quo Vadis?,Canceled/Ended,Nov/16/1986,,Channel 4,IT,60,0,0,Drama,0
+29646,Orthros no Inu,Canceled/Ended,Jul/24/2009,Sep/25/2009,TBS,JP,40,0,0,"Drama, Thriller",9
+29662,Political Animals,Ended,2012-07-15,,USA Network,US,60,9.0000,3,Drama,6
+29673,Dangerous Flights,Ended,2012-05-08,,Discovery Channel,CA,60,0,0,"Action, Adventure",18
+29677,Danny Hollywood,Pilot Ordered,2012,,CW,US,10,0,0,"Drama, Sci-Fi, Music",0
+29679,Bad Girls (2012),Pilot Ordered,2012,,NBC,US,10,0,0,Drama,0
+29708,Let it Go,Pilot Ordered,2012,,FOX,US,10,0,0,Comedy,0
+29710,The Royal Mint,Canceled/Ended,Nov/22/2010,Dec/13/2010,BBC one,GB,10,0,0,"Finance, History",4
+29711,Time Team - History Hunters,Canceled/Ended,Nov/21/1998,Jan/16/1999,Channel 4,GB,10,0,0,"History, Educational",0
+29712,Southie Pride,In Development,2012,,TLC,US,10,0,0,,0
+29716,Watson & Oliver,Ended,2012-02-20,,BBC Two,GB,30,0,0,Comedy,12
+29732,Big Body Squad,To Be Determined,2019-05-15,,Channel 5,GB,60,0,0,"Crime, Medical, Family, Lifestyle",18
+29733,Smile Precure,Canceled/Ended,Feb/05/2012,Dec/09/2012,TV Asahi,JP,25,0,0,"Adventure, Anime",42
+29736,Остров ненужных людей,Canceled/Ended,Jan/23/2012,,,RU,45,0,0,"Drama, Adventure",24
+29737,Черный Пират,Canceled/Ended,1998,1998,Рен-ТВ,IT,24,0,0,"Drama, Action, History, Adventure, Animation General",6
+29738,EX – eine romantische Komödie,Canceled/Ended,Sep/05/2008,,ORF 1,AT,30,0,0,"Comedy, Drama",0
+29748,Mudcats,Returning Series,Feb/09/2012,,National Geographic Channel,US,60,4.0000,2,"Action, Family, Sports, How To/Do It Yourself, Outdoors/Wildlife",18
+29773,Party Like,New Series,Feb/09/2012,,National Geographic Channel,US,60,0,0,"Family, Lifestyle, How To/Do It Yourself",5
+29785,Total Drama: Revenge of the Island,Canceled/Ended,Jan/05/2012,Apr/12/2012,TeleToon,CA,30,4.0000,2,"Comedy, Action, Adventure, Teens, Animation General",13
+29787,Doi Hanh Dong Liem Chinh,Canceled/Ended,Nov/05/2011,Dec/24/2011,HTV7,US,45,0,0,Crime,0
+29792,Reguły Gry,Ended,2012-02-16,,TVP1,PL,30,0,0,Comedy,15
+29817,Playhouse Presents,Ended,2012-04-12,,Sky Arts,GB,30,0,0,"Comedy, Drama",29
+29836,Livet på Laerkevej,New Series,Jan/27/2012,,SVT1,DK,40,0,0,"Comedy, Drama",7
+29855,Crime and Punishment (2012),Canceled/Ended,Mar/12/2012,Mar/23/2012,BBC one,GB,45,6.0000,2,"Crime, Lifestyle",10
+29862,Mary's Bottom Line,New Series,Mar/15/2012,,Channel 4,GB,60,0,0,"Finance, Lifestyle",4
+29867,Price It Out,New Series,Mar/07/2012,,diy network,US,30,0,0,Design/Decorating,13
+29881,Kuroko no Basuke,Ended,2012-04-07,,MBS,JP,30,9.5000,8,"Sports, Anime",75
+29894,Trial Heat,Canceled/Ended,1994,Jan/2006,truTV,US,10,0,0,Crime,2
+29902,Звёздный ринг,Canceled/Ended,Mar/06/2012,,СТБ,UA,120,0,0,Music,6
+29904,The Grifball Saga,Returning Series,Jan/01/2010,,YouTube,US,10,0,0,"Comedy, Action, Sci-Fi, Animation General",0
+29931,The Syndicate,Ended,2012-03-27,,BBC One,GB,60,0,0,Drama,23
+29938,Gems,Canceled/Ended,Jan/02/1985,1988,itv,GB,30,0,0,"Soaps, Fashion/Make-up",0
+29945,Blizzard Island,Canceled/Ended,Dec/11/1988,Feb/26/1989,CAN TV19,CA,30,0,0,Children,12
+29950,Tsukahara Bokuden,Canceled/Ended,Oct/02/2011,Nov/13/2011,NHK,JP,45,0,0,History,7
+29961,Big Fish,Canceled/Ended,Jan/08/2012,Apr/01/2012,one,AU,30,0,0,"Adventure, Travel, Outdoors/Wildlife",13
+29968,Navajo Cops,New Series,May/11/2011,,National Geographic Channel,US,60,0,0,"Crime, Drama, Action, Family",7
+29977,Vikings,Ended,2013-03-03,,History,CA,60,9.2345,226,"Drama, Action, History",89
+29984,Warrior Massacre,New Series,Mar/15/2012,,National Geographic Channel,US,60,0,0,"History, Family, Anthology",3
+29992,World Series of Dating,New Series,Mar/26/2012,,BBC three,GB,30,0,0,"Comedy, Romance/Dating",8
+29994,Krew z krwi,Ended,2012-04-11,,TVP2,PL,60,0,0,"Crime, Drama, Action",28
+30002,Lupin the Third: Mine Fujiko to Iu Onna,Canceled/Ended,Apr/04/2012,Jun/27/2012,NTV,JP,25,0,0,"Comedy, Adventure, Anime",13
+30008,Crimes That Shook The World,Canceled/Ended,Sep/29/2006,Mar/15/2012,Discovery Channel,US,60,0,0,Crime,17
+30015,House of Five Leaves,Canceled/Ended,Apr/15/2010,Jul/02/2010,Fuji TV,JP,23,0,0,"Drama, History, Anime",12
+30028,Rory McGrath's Pub Dig,New Series,Apr/03/2012,,Channel 5,GB,60,0,0,"History, Lifestyle, Travel",4
+30037,Our Food,New Series,Apr/04/2012,,BBC TWO,GB,60,0,0,"Cooking/Food, Lifestyle, Travel",4
+30061,Brooklyn 11223,Ended,2012-03-26,,Oxygen,US,60,4.0000,2,"Family, Lifestyle",6
+30076,The Wiener's Circle,New Series,Mar/20/2012,,truTV,US,30,0,0,"Family, Lifestyle",6
+30081,Hero: Unseen Warfare,Canceled/Ended,Nov/18/2009,Jan/14/2010,MBC,KR,63,0,0,Comedy,16
+30093,Divine Women,TBD/On The Bubble,Apr/11/2012,,BBC TWO,GB,60,0,0,"History, Religion, Lifestyle",3
+30105,Southern Nights,Canceled,Apr/07/2012,Jun/02/2012,Country Music Television,US,60,4.0000,2,"Romance/Dating, Family",8
+30116,Hotel Stephanie,Canceled/Ended,Nov/09/2009,Oct/05/2010,BBC one,GB,60,0,0,"Finance, Housing/Building",8
+30127,Robinsonekspedisjonen vinter,Ended,Mar/11/2012,,TV3,NO,45,0,0,"Drama, Adventure",10
+30142,If They Were My Kids,Returning Series,2013,,Discovery Life,US,10,0,0,"Drama, Family, Educational",0
+30149,Horizon: Nasa's Mission to Mars,Ended,Jan/01/2012,Jan/01/2012,Science,US,60,0,0,"Drama, Action, Sci-Fi, Educational, Discovery/Science",1
+30176,Stripes,In Development,,,CBS,US,10,4.0000,2,Comedy,5
+30183,Steps: On the Road Again,New Series,Apr/23/2012,,sky LIVING,GB,60,0,0,"Music, Celebrities, Lifestyle",6
+30191,Edge of War,TBD/On The Bubble,Apr/03/2012,,AMERICAN HEROES CHANNEL,US,60,0,0,"Drama, Action, Military/War, Family",6
+30193,Love For Sail,Canceled,Apr/10/2012,Apr/17/2012,Lifetime,US,60,4.0000,2,"Romance/Dating, Family, Lifestyle",2
+30194,No Kitchen Required,New Series,Apr/03/2012,,BBC America,US,60,7.0000,2,"Family, Educational, Cooking/Food, How To/Do It Yourself",10
+30203,Boystown,In Development,2013,,YouTube,US,10,0,0,"Soaps, Comedy, Drama",0
+30208,La Dueña,Ended,Apr/18/2012,Nov/21/2012,Telefe,AR,38,0,0,"Soaps, Drama, Family",32
+30215,Dogs in the City,Ended,2012-05-30,,CBS,US,60,6.0000,2,"Family, Animals/Pets",6
+30217,Вечерний Киев,Returning Series,Mar/23/2012,,1 + 1,UA,90,0,0,"Comedy, Sketch/Improv, Interview",44
+30218,De meesterbakker,New Series,Apr/04/2012,,VTM,BE,60,0,0,"Talent, Cooking/Food",5
+30220,The New Normal,Ended,2012-09-10,,NBC,US,30,6.0000,4,Comedy,22
+30221,Dog with a Blog,Ended,2012-10-12,,Disney Channel,US,30,8.2500,4,"Comedy, Drama, Family",70
+30227,Charles Endell Esquire,Canceled/Ended,Jul/28/1979,Jun/14/1980,itv,GB,60,0,0,"Comedy, Drama",6
+30236,60 Seconds,Returning Series,Jul/16/2001,,BBC three,GB,1,0,0,"Finance, History, Politics, Sports, Current Events",0
+30239,BBC Weekend News,Running,1954-07-05,,BBC One,GB,10,0,0,"Finance, Current Events",2475
+30242,The Late Review,Canceled/Ended,1994,1999,BBC TWO,GB,10,0,0,"Comedy, Music, Interview, Politics, Current Events, Dance, Lifestyle, Cinema/Theatre, Arts & Crafts",0
+30243,Newsnight Scotland,Returning Series,Oct/04/1999,,BBC TWO Scotland,GB,20,0,0,Current Events,0
+30248,ITV News at 1.30,Returning Series,Oct/16/1972,,itv,GB,20,0,0,Current Events,694
+30257,Channel 4 News Summary,Running,2009-12-21,,Channel 4,GB,10,0,0,Current Events,3662
+30260,5 News at 5,Ended,2011-02-14,,Channel 5,GB,30,0,0,Current Events,1616
+30265,Britain's Deadliest Roads,New Series,Sep/17/2014,,Channel 5,GB,60,0,0,Discovery/Science,1
+30266,5 News Weekend,Running,2016-01-02,,5,GB,10,0,0,Current Events,715
+30269,5 News at Noon,Canceled/Ended,1998,2004,Channel 5,GB,10,0,0,Current Events,1341
+30274,5 News at 7.30,Canceled/Ended,Jul/16/2001,2004,Channel 5,GB,30,0,0,Current Events,0
+30275,Деффчонки,Ended,2012-04-09,,ТНТ,RU,25,0,0,Comedy,127
+30286,Wind and Cloud,Canceled/Ended,2002,2004,Taiwan Television,TW,45,0,0,"Adventure, Fantasy",0
+30291,Big Ang,Canceled/Ended,Jul/08/2012,Sep/02/2013,VH1,US,30,6.5000,2,Family,10
+30360,Crash & Bernstein,Ended,2012-10-08,,Disney XD,US,25,4.0000,2,"Comedy, Family, Children",39
+30387,The Last Don II,Canceled/Ended,1998,1998,CBS,US,120,0,0,"Crime, Drama",2
+30412,Goldfathers,TBD/On The Bubble,May/04/2012,,National Geographic Channel,US,60,0,0,"Family, Lifestyle",5
+30421,Uit De Weg,Canceled/Ended,Feb/22/2012,Apr/22/2012,VT4,BE,10,0,0,Automobiles/Vehicles,9
+30430,TOME: Terrain of Magical Expertise,New Series,Nov/11/2011,,YouTube,US,15,0,0,"Comedy, Mystery, Action, Sci-Fi, Adventure, Animation General, Fantasy",4
+30441,The Political Correction,Ended,2021-06-20,,GB News,GB,120,0,0,Politics,66
+30465,Teodors Julekalender,Canceled/Ended,Dec/01/1986,Dec/24/1986,NRK1,NO,10,0,0,Children,24
+30474,Comedy Central Stand-Up Presents…,Ended,2012-05-11,,Comedy Central,US,30,6.0000,2,Comedy,110
+30475,The GC,Returning Series,May/02/2012,,TV3,NZ,30,0,0,Lifestyle,16
+30482,Invention Hunters,Ended,May/13/2012,Jun/18/2012,food network,US,30,0,0,"Family, Talent",7
+30505,Ben and Kate,Ended,2012-09-25,,FOX,US,30,0,0,Comedy,13
+30506,The Goodwin Games,Ended,2013-05-20,,FOX,US,30,5.0000,3,"Comedy, Family",7
+30529,The Secret History Of Our Streets,New Series,Jun/06/2012,,BBC TWO,GB,60,0,0,"History, Family, Lifestyle",9
+30534,Gotham Girls,Ended,2000-07-27,,GothamGirls.com,US,5,0,0,"Comedy, Crime, Science-Fiction",31
+30536,Live at the Electric,Returning Series,May/31/2012,,BBC three,GB,30,0,0,"Comedy, Music, Sketch/Improv",23
+30568,All in the Best Possible Taste with Grayson Perry,Canceled/Ended,Jun/05/2012,Jun/19/2012,Channel 4,GB,60,0,0,Arts & Crafts,3
+30582,All the Right Moves,Ended,2012-07-31,,Oxygen,US,60,4.0000,2,"Drama, Celebrities, Talent, Dance",8
+30598,Empire Girls: Julissa & Adrienne,Canceled/Ended,Jun/03/2012,Aug/26/2012,Esquire NETWORK,US,60,6.0000,2,"Family, Celebrities, Lifestyle",10
+30603,Kimi no Iru Machi,Canceled/Ended,Mar/16/2012,Jun/15/2012,OVA,JP,25,4.0000,1,Anime,2
+30612,Head Games (2012),Ended,Jun/03/2012,Jun/17/2012,Discovery Channel,US,60,0,0,"Drama, Medical, Family, Educational, Discovery/Science",3
+30613,"Are You Normal, America?",Canceled,Jun/03/2012,Jul/14/2012,OPRAH WINFREY NETWORK,US,60,0,0,"Family, Talent",4
+30629,Chicagolicious,Canceled/Ended,Jun/11/2012,Jan/08/2013,Esquire NETWORK,US,60,8.0000,2,"Family, Talent, How To/Do It Yourself, Fashion/Make-up",20
+30641,Top 100 Video Games of All Time,New Series,Jun/11/2012,,G4,US,60,0,0,"Family, Teens",5
+30642,Brand X with Russell Brand,Ended,2012-06-28,,FX,US,30,0,0,Comedy,26
+30649,The Strange Case Of The Law,New Series,Jun/18/2012,,BBC FOUR,GB,60,0,0,"Crime, History",3
+30655,Backyard Inventors,Canceled/Ended,May/16/2012,Jul/25/2012,W,CA,60,0,0,"Finance, Buy, Sell & Trade",12
+30663,Pac-Man: The Adventure Begins,In Development,2013,,DiSNEY XD,US,30,0,0,"Comedy, Adventure, Family, Children, Children Cartoons",0
+30677,Untamed Americas,New Series,Jun/10/2012,,NAT GEO WILD,US,60,6.5000,2,"History, Adventure, Family, Educational, Outdoors/Wildlife",4
+30684,Ten News at Five (Brisbane),Returning Series,Jan/1992,,ten,AU,60,0,0,Current Events,2478
+30696,7.30,Running,2011-03-07,,ABC,AU,30,0,0,Current Events,2228
+30699,Family Time,Ended,2017-03-18,,TVBS,US,90,0,0,Drama,62
+30730,Nine Morning News,Returning Series,1981,,Nine Network,AU,60,0,0,Current Events,233
+30734,Nine News Sydney,Returning Series,1956,,Nine Network,AU,60,0,0,Current Events,3284
+30742,Extra (AU),Canceled/Ended,Feb/09/1991,Jun/26/2009,Nine Network,AU,30,0,0,Current Events,0
+30754,Walking and Talking,Canceled/Ended,Jun/25/2012,Jul/16/2012,sky ATLANTIC,GB,30,0,0,"Comedy, Drama, Family, Lifestyle",4
+30766,Aloha Gold,Pilot Ordered,2012,,travel CHANNEL,US,30,0,0,"Action, Adventure, Family, Travel",0
+30767,The Week the Women Went (US),Canceled/Ended,Aug/14/2012,Sep/11/2012,Lifetime,US,60,4.0000,2,"Family, Lifestyle",5
+30776,Prime7 News (North Coast),Returning Series,1990,,,AU,30,0,0,Current Events,0
+30797,WIN News Toowoomba,Returning Series,1960,,WIN Television,AU,30,0,0,Current Events,0
+30806,I Will Survive,New Series,Aug/22/2012,,ten,AU,60,0,0,"Music, Talent, Cinema/Theatre",16
+30825,The Circus,Ended,Jun/29/2012,Jun/29/2012,sky MOVIES FAMILY,GB,60,0,0,"Family, Lifestyle",1
+30829,The Burn,Canceled/Ended,Aug/14/2012,Feb/12/2013,Comedy Central,US,30,0,0,"Comedy, Family, Celebrities, Interview",12
+30839,The Assistant (2012),New Series,Jun/13/2012,,YouTube,US,5,0,0,Comedy,6
+30842,Szomszédok hu,Canceled/Ended,Feb/01/1987,,m1,HU,10,0,0,"Soaps, Family",0
+30851,Blackout,Ended,2012-07-02,,BBC One,GB,60,0,0,"Drama, Action, Thriller",3
+30853,Hals über Kopf,Canceled/Ended,Dec/21/1987,,ZDF,DE,30,0,0,"Comedy, Children",0
+30859,Gallery Girls,Ended,2012-08-13,,Bravo,US,60,0,0,"Family, Lifestyle, Fashion/Make-up",8
+30874,Dona Beija,Ended,1986-04-07,,Rede Manchete,BR,60,0,0,"Drama, Adventure, Romance",2
+30913,Bad Guy,Canceled/Ended,May/26/2010,Aug/05/2010,SBS,KR,67,0,0,"Drama, Romance/Dating, Thriller",17
+30914,Herbert & Schnipsi,Canceled/Ended,Jan/12/1994,Mar/18/2005,BR,DE,30,0,0,Comedy,11
+30922,Shark Wranglers,Canceled/Ended,Jul/01/2012,Sep/02/2012,HISTORY,US,60,4.0000,2,"Animals/Pets, Discovery/Science, Outdoors/Wildlife",10
+30946,Royal Greenwich,Ended,Jul/29/2012,Jul/29/2012,sky MOVIES FAMILY,GB,60,0,0,History,1
+30971,Extreme Fishing with Robson Green - At the Ends of the Earth,Canceled/Ended,May/12/2011,Jun/16/2011,Channel 5,GB,60,0,0,"Adventure, Lifestyle",6
+30974,Bank of Dave,Running,2023-01-16,,Netflix,GB,10,0,0,"Comedy, Drama",4
+30984,Networks of Power,New Series,Jul/10/2012,,sky ATLANTIC,GB,60,0,0,"Finance, Travel",6
+31006,Drive To Buy,TBD/On The Bubble,Jul/16/2012,Jul/24/2012,itv,GB,60,0,0,"Family, Lifestyle, Housing/Building",7
+31028,The Midnight Beast,Ended,2012-07-05,,E4,GB,60,0,0,Comedy,12
+31037,Property Wars,Canceled/Ended,Jul/12/2012,Aug/01/2013,Discovery Channel,US,30,5.0000,2,"Family, Educational, How To/Do It Yourself, Housing/Building",38
+31052,The Flush,Running,2012-06-27,,Outdoor Channel,US,30,0,0,"Action, Adventure, Nature",42
+31067,Dawson Bros. Funtime,TBD/On The Bubble,Jul/02/2012,,BBC three,GB,30,0,0,Comedy,1
+31073,Ugotowani,Running,2015-09-06,,TVN,PL,60,0,0,Cooking/Food,201
+31080,The Spaceman of Afghanistan,New Series,Oct/13/2014,,BBC FOUR,GB,60,0,0,"Discovery/Science, Lifestyle",1
+31082,Complicit,In Development,2013,,Channel 4,GB,10,0,0,Military/War,0
+31097,Klinikum Berlin Mitte,Canceled/Ended,Feb/22/2000,May/30/2002,Sat. 1,DE,60,0,0,"Drama, Medical",0
+31106,Splatalot,New Series,Mar/14/2011,,nickelodeon,US,30,0,0,"Comedy, Action, Family, Teens",25
+31116,For the Win,TBD/On The Bubble,Jul/02/2012,,BBC three,GB,30,0,0,"Comedy, Sketch/Improv",1
+31120,Daybreak (Webisode),Canceled/Ended,May/31/2012,,daybreak2012.com,US,10,0,0,"Action, Sci-Fi, Adventure",5
+31149,Infamous Assassinations,Ended,2007,,BBC one,GB,30,0,0,"Drama, Action, History, Military/War, Family, Educational",8
+31152,Gangsters: Americas Most Evil,Ended,2012-07-20,,REELZ,US,60,0,0,"Crime, Drama",68
+31158,American Greed: The Fugitives,Returning Series,Aug/01/2012,,CNBC,US,60,4.0000,2,"Crime, Drama, Family",13
+31184,Cinammon Girl,Pilot Ordered,2013,,Lifetime,US,10,0,0,Drama,0
+31187,Kérem a következőt!,Canceled/Ended,1974,,m1,HU,15,0,0,"Family, Children, Children Cartoons",0
+31188,A kockásfülű nyúl,Canceled/Ended,1975,,m1,HU,8,0,0,"Family, Children, Children Cartoons",0
+31189,Pityke őrmester,Canceled/Ended,1979,,m1,HU,8,0,0,"Family, Children, Children Cartoons",0
+31192,"Süsü, a sárkány",Ended,1976-07-07,,M2,HU,30,0,0,"Family, Music, Fantasy",9
+31193,The Face,Ended,2013-02-12,,Oxygen,US,60,4.0000,2,Fashion/Make-up,18
+31194,First Crossings,Returning Series,Jul/24/2012,,ONE,NZ,60,0,0,"History, Adventure, Travel, Outdoors/Wildlife",13
+31195,Dead Good Job,TBD/On The Bubble,Sep/12/2012,,BBC TWO,GB,60,0,0,"Finance, Family, Lifestyle",3
+31196,Elbow Room,Returning Series,May/12/2012,,HGTV,US,30,0,0,"Family, Educational, How To/Do It Yourself, Housing/Building",26
+31197,Going Yard,Returning Series,May/12/2012,,HGTV,US,10,0,0,"Family, Educational, How To/Do It Yourself, Garden/Landscape",19
+31208,The BBC 999 Awards,New Series,Aug/16/2012,,BBC one,GB,90,0,0,Lifestyle,1
+31209,Ruth Rendell's Thirteen Steps Down,Ended,Aug/13/2012,Aug/20/2012,itv,GB,60,0,0,"Crime, Drama",2
+31214,Gye Baek,New Series,Jul/25/2011,,MBC,KR,60,0,0,"Drama, Action, Adventure",0
+31215,"Lorraine's Fast, Fresh & Easy Food",New Series,Aug/13/2012,,BBC TWO,GB,30,0,0,Cooking/Food,6
+31219,Paranormal Paparazzi,Ended,2012-09-28,,Travel Channel,US,30,0,0,Supernatural,8
+31232,Comedy Marathon,New Series,Aug/17/2012,,BBC three,GB,480,0,0,Comedy,0
+31233,Don't Tell the Bride (AU),TBD/On The Bubble,Aug/21/2012,,ten,AU,60,0,0,"Romance/Dating, Family, Lifestyle",6
+31235,Shop This Room,Canceled/Ended,Aug/04/2012,2012,HGTV,US,30,0,0,"Family, Educational, How To/Do It Yourself, Design/Decorating",4
+31236,The Woodlies,New Series,2012,2012,Seven,AU,24,0,0,"Children, Fantasy, Children Cartoons",1
+31237,After the Beep,Canceled/Ended,1995,1995,ABC,AU,10,0,0,Comedy,0
+31238,Against All Odds: In Search Of A Miracle,Canceled/Ended,Nov/01/2005,Jan/24/2006,Trinity Broadcasting Network,US,30,0,0,"History, Military/War, Politics, Educational, Religion",13
+31240,Fight Night,Returning Series,Dec/22/2012,,NBCSN,US,120,0,0,"Drama, Action, Family, Sports, Talent, Fitness",3
+31241,United Bates of America,Canceled/Ended,Mar/13/2012,Sep/03/2012,TLC,US,30,7.0000,2,Family,8
+31244,The Last Weekend,Ended,Aug/19/2012,Sep/02/2012,itv,GB,60,0,0,Drama,3
+31246,Class of (AU),TBD/On The Bubble,Aug/15/2012,,ten,AU,60,0,0,"Family, Educational, Lifestyle",10
+31252,The Revolution Will Be Televised,Ended,2012-08-22,,BBC Three,GB,30,0,0,Comedy,19
+31253,Ripper Street,Ended,2012-12-30,,BBC Two,GB,60,6.5000,2,"Crime, Drama, Mystery",38
+31256,Nature Boy,Canceled/Ended,Feb/14/2000,Mar/06/2000,BBC TWO,GB,60,0,0,Drama,4
+31257,Choccywoccydoodah,To Be Determined,2011-03-14,,Food Network,GB,30,0,0,Food,70
+31259,Underemployed,Ended,2012-10-16,,MTV,US,60,5.3333,3,"Comedy, Drama",12
+31265,Harry's Mountain Heroes,Ended,Aug/27/2012,Aug/27/2012,sky MOVIES FAMILY,GB,90,0,0,Adventure,1
+31267,Britain by Night,Canceled/Ended,Aug/30/2012,Aug/30/2012,itv,GB,60,0,0,"Family, Lifestyle",1
+31269,The British,Canceled/Ended,Sep/06/2012,Oct/18/2012,sky ATLANTIC,GB,60,0,0,History,7
+31271,Wolfpack of Reseda,Ended,2012-02-16,,FOX,US,10,5.0000,2,"Comedy, Mystery",8
+31274,Secret Interview,New Series,Aug/22/2012,,Channel 5,GB,60,0,0,Finance,4
+31275,John Barrowman's Dallas,New Series,Aug/29/2012,,Channel 5,GB,40,0,0,"Celebrities, Lifestyle, Travel",2
+31277,R&B Divas,Canceled,Aug/20/2012,,TV one,US,60,0,0,"Family, Music, Talent, Lifestyle",30
+31279,Hardcore Pawn: Chicago,Ended,2013-01-01,,truTV,US,30,4.0000,2,"Buy, Sell & Trade",18
+31281,China On Four Wheels,TBD/On The Bubble,Sep/09/2012,,BBC TWO,GB,60,0,0,"Adventure, Travel",2
+31283,Fight Factory,New Series,Aug/15/2012,,NUVOtv,US,60,0,0,"Sports, Talent",9
+31287,Abandoned,Canceled/Ended,Aug/22/2012,Oct/03/2012,National Geographic Channel,US,30,5.5000,2,"Family, Educational, How To/Do It Yourself",13
+31288,The American Bible Challenge,Ended,2012-08-23,,Game Show Network,US,60,10.0000,1,"History, Family",27
+31289,I Found the Gown,Ended,2012-08-24,,TLC,US,30,5.0000,2,"Family, Lifestyle",44
+31295,The Lizzie Bennet Diaries,Canceled/Ended,Apr/09/2012,,YouTube,US,5,4.0000,2,"Comedy, Literature",100
+31299,Download Festival,Returning Series,Aug/29/2012,,VH1 CLASSIC,US,120,0,0,"Family, Music, Celebrities, Talent",5
+31300,Rockness,New Series,Aug/30/2012,,palladia,US,120,0,0,"Family, Music, Celebrities, Talent",4
+31302,Family Tree,Ended,2013-05-12,,HBO,US,30,4.6667,3,"Comedy, Drama",8
+31309,"Soredemo, Ikite Yuku",Canceled/Ended,Jul/07/2011,Sep/15/2011,Fuji TV,JP,45,0,0,Drama,11
+31311,Verry Terry,Pilot Ordered,Aug/16/2012,,Channel 4,GB,30,0,0,"Comedy, Celebrities, Interview",1
+31312,Celebrity Motor Homes,Ended,2011-12-22,,GAC Family,US,30,0,0,"Family, Celebrities, Lifestyle, Automobiles/Vehicles",35
+31325,A Mother's Son,Ended,2012-09-03,,ITV1,GB,45,0,0,"Crime, Drama, Thriller",2
+31330,Ronna and Beverly,New Series,Sep/10/2012,,sky ATLANTIC,GB,60,0,0,"Comedy, Celebrities",6
+31337,The Style Awards,Returning Series,Sep/2002,,Esquire NETWORK,US,60,0,0,"Family, Celebrities, Talent, Lifestyle, Fashion/Make-up",7
+31340,Perfekcyjna Pani Domu,Returning Series,Mar/18/2012,,TVN,PL,60,0,0,Lifestyle,48
+31352,WWE Saturday Morning Slam,Canceled,Aug/25/2012,May/11/2013,CW,US,30,10.0000,1,"Action, Celebrities, Fitness",38
+31373,MAX Quickies,New Series,Aug/24/2012,,CINEMAX,US,10,0,0,"Drama, Action, Family",2
+31388,Joy Behar: Say Anything!,Ended,Sep/04/2012,Aug/01/2013,get TV,US,60,0,0,"Celebrities, Interview, Politics",22
+31392,Texas Car Wars,Canceled,Sep/06/2012,May/06/2013,Discovery Channel,US,60,6.0000,2,"Drama, Family, Automobiles/Vehicles",12
+31398,Weg naar Compostela,Canceled/Ended,Aug/29/2011,Oct/17/2011,één,BE,30,0,0,"Interview, Travel",8
+31404,In Godsnaam,Returning Series,Jan/25/2010,,Vier,BE,50,0,0,"Religion, Travel",17
+31429,The Scapegoat,Ended,Sep/09/2012,Sep/09/2012,sky MOVIES FAMILY,GB,120,0,0,"Drama, History",1
+31447,De Slimste Mens (2012),New Series,Jul/23/2012,,NCRV,NL,45,0,0,"Celebrities, Tech/Gaming",62
+31458,Warplane,TBD/On The Bubble,Aug/30/2012,,AMERICAN HEROES CHANNEL,US,60,0,0,"Drama, Action, History, Military/War, Family",4
+31474,Space 2099,In Development,2013,,itv,GB,10,0,0,Sci-Fi,0
+31501,My Shopping Addiction,Ended,Oct/15/2012,Dec/10/2012,oxygen,US,60,4.0000,2,"Family, Lifestyle",8
+31502,Mash Up,Canceled/Ended,Oct/10/2012,Dec/05/2012,Comedy Central,US,30,0,0,"Comedy, Family, Sketch/Improv, Celebrities",5
+31510,Miss U Much,Canceled/Ended,Jul/19/2013,Aug/30/2013,VH1,US,30,0,0,"Family, Celebrities, Talent, Lifestyle",8
+31521,Unit Luchtvaartpolitie,Ended,2012-09-02,,RTL4,NL,45,0,0,"Crime, Action",8
+31537,Resident Evil,Ended,2022-07-14,,Netflix,US,10,8.1429,7,"Drama, Horror",8
+31539,Soul,Canceled/Ended,Aug/05/2009,Sep/03/2009,MBC,KR,67,0,0,"Crime, Drama, Romance/Dating, Mystery, Thriller, Horror/Supernatural",10
+31542,Hacktion Újratöltve,New Series,Sep/17/2012,,m1 HD,HU,52,0,0,"Crime, Drama, Action",49
+31554,Mighty Thor,Canceled/Ended,1966,1966,,CA,20,0,0,"Drama, Action, Super Heroes, Adventure, Children, Fantasy, Children Cartoons",13
+31584,Nigellissima,New Series,Sep/24/2012,,BBC TWO,GB,30,0,0,Cooking/Food,7
+31613,КиноFail,Canceled/Ended,Apr/28/2011,,Unknown,RU,5,0,0,Cinema/Theatre,10
+31619,Anonymous (2014),In Development,2014,,TNT DRAMA,US,60,0,0,"Drama, Action, Family",0
+31668,Апостол,Canceled/Ended,Apr/07/2008,Apr/24/2008,Первый канал,RU,50,0,0,"Action, History, Military/War",12
+31670,Звездочет,Canceled/Ended,Nov/15/2004,Nov/30/2004,Россия-1,RU,45,0,0,Action,0
+31677,Welcome to India,Canceled/Ended,Oct/03/2012,,BBC TWO,GB,60,0,0,"History, Travel",3
+31697,The Aspen Institute Presents,New Series,Sep/18/2012,,WORLD,US,60,0,0,"Family, Interview, Educational",10
+31707,Oprah: Where Are They Now?,Running,2012-10-02,,Oprah Winfrey Network,US,60,0,0,"Drama, Mystery, Family, Lifestyle",108
+31710,Psycho-Pass,Ended,2012-10-12,,Fuji TV,JP,60,9.1111,9,"Crime, Action, Anime, Science-Fiction",41
+31715,Unsealed: Alien Files (2012),Returning Series,Sep/24/2012,,Syndicated,US,30,0,0,"Mystery, Sci-Fi, Family, Discovery/Science",86
+31727,The Real Sherlock Holmes,Canceled/Ended,Sep/28/2012,Sep/28/2012,History,CA,60,0,0,"History, Interview, Educational",0
+31747,Ixion Saga DT,Canceled/Ended,Oct/08/2012,Apr/01/2013,Tokyo MX,JP,25,5.5000,2,"Adventure, Anime",25
+31762,Project Runway Sverige,New Series,Oct/01/2012,,TV3,SE,60,0,0,Fashion/Make-up,10
+31763,Party Girls,In Development,2013,,ABC,US,30,0,0,"Comedy, Family",0
+31793,LOLwork,Ended,2012-11-07,,Bravo,US,30,7.0000,2,"Comedy, Family",6
+31801,Я отменяю смерть,Canceled/Ended,Oct/09/2012,Nov/16/2012,ТВ3,RU,45,0,0,"Drama, Mystery, Fantasy",24
+31813,Bonnie & Clyde,Ended,2013-12-08,,History,US,120,0,0,"Crime, Drama",2
+31817,Auf Herz und Nieren,Ended,2012-09-17,,SAT1 Emotions,DE,60,0,0,"Comedy, Romance/Dating",6
+31819,Pyros,Returning Series,Apr/24/2012,,DISCOVERY SCIENCE,CA,60,0,0,Discovery/Science,14
+31826,The Dust Bowl,Canceled/Ended,Nov/18/2012,Nov/19/2012,PBS,US,120,0,0,"Action, History, Family, Educational",2
+31834,Sex Traffic,Ended,Oct/14/2004,Oct/21/2004,Channel 4,GB,115,0,0,Drama,2
+31846,Rome,On Hiatus,Apr/03/2012,,CBS SPORTS NETWORK,US,30,0,0,"Celebrities, Interview, Sports",378
+31865,Car Lot Rescue,Canceled/Ended,Feb/10/2013,Mar/31/2013,SPIKE,US,60,0,0,"Finance, Family, How To/Do It Yourself",8
+31883,Unresolved: Celebrity Cases,Pilot Rejected,,,TV one,US,60,0,0,"Crime, Drama, Mystery, Action, Family, Celebrities",0
+31919,Home & Family,Ended,2012-10-01,,Hallmark Channel,US,120,0,0,"How To/Do It Yourself, Garden/Landscape, Housing/Building, Design/Decorating",732
+31930,Ben Fogle's Animal Clinic,Canceled/Ended,Oct/23/2012,May/27/2014,Channel 5,GB,60,0,0,Animals/Pets,15
+31996,The Borgias (1981),Canceled/Ended,Oct/14/1981,Dec/16/1981,BBC TWO,GB,10,9.0000,2,"Drama, History, Anthology, Religion",10
+32016,Go Back To Where You Came From,Running,2025-02-03,,Channel 4,AU,10,0,0,"Drama, Action, Family, Lifestyle",14
+32044,Fivehead,In Development,2013,,ABC,US,30,0,0,"Comedy, Family",0
+32063,Maron,Ended,2013-05-03,,IFC,US,30,9.0000,2,Comedy,49
+32093,Aoi Sekai no Chuushin de,Ended,2012-10-20,,Tokyo MX,JP,25,10.0000,1,"Action, Anime, War",3
+32104,Secret State,Ended,2012-11-07,,Channel 4,GB,60,0,0,"Drama, Action",4
+32108,Now What?,Pilot Ordered,2013,,ABC,US,10,0,0,Comedy,0
+32112,Pros & Cons,In Development,2013,,ABC,US,60,0,0,"Comedy, Crime, Drama, Action, Family",0
+32115,Attenborough: 60 Years In The Wild,Canceled/Ended,Nov/16/2012,Nov/30/2012,BBC TWO,GB,60,0,0,"Discovery/Science, Outdoors/Wildlife",3
+32152,Blackboard,Canceled/Ended,Apr/05/2012,Apr/07/2012,TBS,JP,120,0,0,"Drama, Educational",3
+32163,Bradley Wiggins: A Year in Yellow,New Series,Nov/21/2012,,sky ATLANTIC,GB,60,0,0,Sports,1
+32200,"Catastrophe, Inc.",Canceled/Ended,Nov/04/2012,2013,HGTV,US,30,0,0,"Action, Family, Educational, How To/Do It Yourself, Garden/Landscape, Housing/Building",15
+32227,LG15: The Resistance,Canceled/Ended,Sep/20/2008,Dec/12/2008,YouTube,US,30,0,0,"Comedy, Drama, Romance/Dating, Family",0
+32245,Hatufim,Ended,2010-03-06,,Channel 2,IL,60,0,0,"Drama, Mystery, Thriller",24
+32249,Harder Than It Looks,New Series,Aug/29/2012,,YouTube,US,30,0,0,"Comedy, Romance/Dating, Family",8
+32266,Die Wanderhure,Canceled/Ended,Oct/05/2010,Nov/13/2012,Sat. 1,DE,120,0,0,Drama,3
+32289,The Town,Ended,2012-12-05,,ITV1,GB,60,0,0,"Drama, Mystery",3
+32313,Three Seven Eleven,Canceled/Ended,Feb/13/1993,Jun/15/1994,itv,GB,10,0,0,"Children, Educational",0
+32333,17 мгновений весны,,,,Первая программа ЦТ,SU,10,0,0,"Drama, Action, History, Military/War, Adventure, Politics",0
+32336,Дети 90-х...,In Development,Mar/25/2012,,Internet,RU,15,0,0,"Crime, Drama",4
+32337,Inside Claridges,New Series,Dec/03/2012,,BBC TWO,GB,60,0,0,Finance,3
+32354,Hipertensão,Ended,Apr/14/2002,,Rede Globo,BR,45,0,0,Action,33
+32355,O Jogo,Canceled/Ended,May/27/2003,,Rede Globo,BR,40,0,0,"Crime, Action, Adventure, Family",0
+32361,10 Years of Girls Aloud,Ended,Dec/15/2012,Dec/15/2012,sky MOVIES FAMILY,GB,80,0,0,"Music, Celebrities",1
+32363,Casa dos Artistas,Canceled/Ended,Oct/28/2001,Oct/18/2004,SBT,BR,60,0,0,"Family, Celebrities",0
+32384,Celebrity Style Story,Ended,2012-07-07,,E!,US,30,0,0,"Family, Celebrities, Lifestyle",66
+32397,The Girl,New Series,Dec/26/2012,,BBC TWO,GB,90,0,0,"History, Celebrities, Lifestyle",1
+32406,Shocking Family Secrets,Returning Series,Nov/22/2012,,Discovery Life,US,60,8.0000,2,"Drama, Medical, Family, Lifestyle",6
+32410,Livet på andra sidan,New Series,Nov/04/2012,,TV4,SE,60,0,0,"Sci-Fi, Horror/Supernatural",0
+32417,FireZone,Canceled/Ended,Dec/01/2012,Dec/22/2012,pivot,US,30,0,0,"Drama, Action, Talent",4
+32428,The Spice Girls Story: Viva Forever!,Ended,Dec/24/2012,Dec/24/2012,sky MOVIES FAMILY,GB,90,0,0,"Music, Celebrities",1
+32438,Storage Wars: Miami,Ended,2015-10-06,,A&E,US,30,0,0,"Family, Educational, Talent, How To/Do It Yourself",10
+32441,The Nation's Favourite Christmas Song,Ended,Dec/22/2012,Dec/22/2012,sky MOVIES FAMILY,GB,90,0,0,"Music, Celebrities",1
+32443,Joanna Lumley: The Quest for Noah's Ark,Ended,Dec/23/2012,Dec/23/2012,sky MOVIES FAMILY,GB,90,0,0,"History, Adventure",1
+32448,Ask ve Ceza,Canceled/Ended,Jan/05/2010,Jun/27/2011,ATV,TR,90,10.0000,1,"Drama, Romance/Dating, Family",62
+32450,Rome: A History of the Eternal City,TBD/On The Bubble,Dec/05/2012,Dec/19/2012,BBC FOUR,GB,60,0,0,"History, Travel",3
+32451,AC/DC Live at River Plate,Canceled/Ended,Dec/07/2012,Dec/07/2012,BBC FOUR,GB,60,0,0,Music,1
+32461,Awakening,In Development,2013,,CW,US,60,0,0,"Drama, Mystery, Thriller, Horror/Supernatural, Family",0
+32470,Twee tot de zesde macht,Running,2012-10-21,,één,BE,55,0,0,"Comedy, Educational",70
+32476,Julekongen,New Series,Dec/01/2012,,NRK1,NO,30,0,0,"Adventure, Children",24
+32480,How to be Married with Sharon Horgan,New Series,Jan/02/2013,,Channel 4,GB,60,0,0,Lifestyle,1
+32486,Les Misèrables Movie Special,Ended,Jan/01/2013,Jan/01/2013,sky MOVIES FAMILY,GB,60,0,0,Celebrities,1
+32497,Funny Old Year,Returning Series,Dec/31/2012,,itv,GB,60,0,0,"Celebrities, Lifestyle",3
+32499,Zombie Hotel (US),Returning Series,2012,,starz KIDS & FAMILY,FR,15,0,0,"Comedy, Horror/Supernatural, Family, Animation General, Children",0
+32501,Santa's Apprentice,Ended,2012,,starz KIDS & FAMILY,FR,15,0,0,"Comedy, Family, Animation General, Children",0
+32510,Babes on a Bus,Pilot Ordered,2013,,FOX,US,60,0,0,"Romance/Dating, Family, Lifestyle, Travel",0
+32512,I Love Jenni,Ended,2011-03-05,,NBC Universo,US,30,0,0,"Comedy, Romance/Dating, Family, Lifestyle",51
+32513,Jenni Rivera Presents Chiquis and Raq-C,Canceled/Ended,Jul/03/2010,Sep/25/2010,mun2,US,60,0,0,"Family, Lifestyle",13
+32551,Parkinson: Masterclass,Returning Series,Nov/13/2012,,sky ARTS 1,GB,60,0,0,Interview,13
+32555,Michael Feinstein - The Sinatra Legacy,Canceled/Ended,Dec/14/2012,Dec/14/2012,sky ARTS 2,GB,90,0,0,Music,1
+32564,Fit,New Series,Jan/07/2013,,Cbbc,GB,30,0,0,"Comedy, Children, Sketch/Improv",13
+32566,Cheongdam Dong Alice,Final Season,Dec/01/2012,,SBS,KR,70,0,0,Drama,0
+32575,The Voice of Thailand,New Series,Sep/09/2012,,Channel 3,TH,105,0,0,"Family, Music, Celebrities, Talent",0
+32578,Drug Bust (NZ),Returning Series,Apr/18/2011,,TV3,NZ,30,4.0000,1,"Crime, Action",12
+32586,The Voice Kids (Vietnam),New Series,2013,,Vietnam Television,VN,60,0,0,"Family, Music, Celebrities, Talent",0
+32597,Mom,Ended,2013-09-23,,CBS,US,30,9.1111,27,"Comedy, Family",174
+32632,The Jenny McCarthy Show (2013),Canceled/Ended,Feb/08/2013,May/24/2013,VH1,US,30,0,0,"Comedy, Family, Celebrities, Interview, Talent",15
+32640,The Breakfast Fix,Returning Series,2008,,4Music,GB,135,0,0,Music,112
+32662,Klondike,Ended,2014-01-20,,Discovery,US,60,0,0,"Drama, History, Adventure",6
+32669,Esquenta,Returning Series,Jan/02/2011,,Rede Globo de Televisão,BR,60,0,0,Music,58
+32678,American Wiseass,New Series,Dec/10/2012,,HISTORY,US,30,0,0,"Comedy, Family, Celebrities, Talent",1
+32749,I Love The 1880s,New Series,Nov/12/2012,,HISTORY,US,30,5.0000,2,"Drama, History, Family, Anthology, Educational",12
+32772,Non-Stop New Year's Eve Party!,Returning Series,Jan/01/2013,,4Music,GB,105,0,0,Music,2
+32781,The Big Fix,In Development,2013,,CNBC,US,60,0,0,"Finance, Family, How To/Do It Yourself",0
+32792,Suomen Surkein Kuski,Running,2012-09-18,,MTV3,FI,60,0,0,Comedy,110
+32805,GASS,New Series,Jan/03/2013,,VELOCITY,US,60,0,0,"Action, Family, Talent, Automobiles/Vehicles",1
+32808,The UK Music Video Chart,New Series,Jan/02/2013,,4Music,GB,120,0,0,Music,5
+32812,From Day 1,Returning Series,2008,,4Music,GB,60,0,0,Music,4
+32820,Doraemon (1979),Canceled/Ended,Apr/02/1979,,TV Asahi,JP,10,0,0,"Comedy, Adventure, Children, Anime",491
+32863,The Governor's Wife,Ended,2013-10-27,,A&E,US,25,4.5000,2,"Family, Lifestyle",8
+32864,Rodeo Girls,TBD/On The Bubble,Dec/11/2013,,A&E,US,60,7.0000,2,,6
+32868,DC Nation Shorts,Returning Series,Mar/03/2012,,Cartoon Network,US,1,0,0,"Comedy, Action, Super Heroes, Family, Children, Children Cartoons",155
+32872,Senran Kagura,Canceled/Ended,Jan/06/2013,Mar/24/2013,AT-X,JP,25,0,0,"Drama, Action, Anime",12
+32886,A New Age of Exploration,New Series,Jan/11/2013,,National Geographic Channel,US,60,0,0,"Family, Educational, Discovery/Science",1
+32889,Space Shuttle Columbia,New Series,Jan/31/2013,,PBS,US,60,0,0,"Drama, Action, History, Family, Educational, Discovery/Science",1
+32898,Wayward Pines,Ended,2015-05-14,,FOX,US,60,8.2333,30,"Drama, Mystery, Science-Fiction",20
+32899,Family Trade,Canceled/Ended,Mar/12/2013,Apr/16/2013,Game Show Network,US,30,0,0,"Family, Automobiles/Vehicles, Buy, Sell & Trade",8
+32916,Mi Corazón Insiste… en Lola Volcán,Canceled/Ended,May/23/2011,Nov/28/2011,TELEMUNDO,US,44,0,0,"Soaps, Romance/Dating, Action",133
+32920,Hataraki Man (2006),Canceled/Ended,Oct/13/2006,Dec/22/2006,Fuji TV,JP,25,0,0,Anime,11
+32981,Janela Indiscreta,Returning Series,Mar/03/2010,,RTP2,PT,10,0,0,"Celebrities, Current Events",3
+32984,The British Academy Film Awards,Running,1948-05-21,,BBC One,GB,10,0,0,Celebrities,77
+33013,ТАСС уполномочен заявить…,Ended,Jun/10/1984,Jun/28/1984,Первая программа ЦТ,SU,700,0,0,"Crime, Drama, Action, History, Politics",0
+33019,Special Agent Oso,Ended,2009-04-04,,Disney Channel,US,30,8.0000,1,"Action, Adventure, Children",110
+33030,Sea City,New Series,Feb/15/2013,,BBC TWO,GB,30,0,0,Lifestyle,3
+33047,The Source,New Series,Feb/03/2013,,sky ARTS 2,GB,5,0,0,"Interview, Arts & Crafts",3
+33092,Is't nog ver?,New Series,Feb/05/2013,,Vier,BE,50,0,0,"Interview, Travel",10
+33096,Inside Out West,Ended,2006-09-25,,BBC One West,GB,30,0,0,Current Events,38
+33107,Britain's Secret Shoppers,Canceled/Ended,Feb/14/2013,Mar/21/2013,Channel 4,GB,60,0,0,"Family, Lifestyle",6
+33114,Sarah & Duck,Ended,2013-02-18,,CBeebies,GB,5,0,0,Children,120
+33117,The Wind Blows,Ended,2019-05-27,,jTBC,KR,90,0,0,"Drama, Romance",16
+33118,Spy (US),Pilot Rejected,2013,,ABC,US,30,0,0,"Comedy, Action, Family",0
+33120,Bad Management,Pilot Rejected,2013,,ABC,US,30,0,0,"Comedy, Family",0
+33124,Bits & Pieces,Pilot Ordered,2013,,DiSNEY CHANNEL,US,30,0,0,"Comedy, Family",0
+33132,Inquisitio,Canceled/Ended,Jul/04/2012,,France 2,FR,52,0,0,"Drama, Action, Religion",8
+33143,Cenerentola,Canceled/Ended,Oct/30/2011,Oct/30/2011,RAI 1,IT,180,0,0,"Drama, Romance/Dating, Music",2
+33145,Teenage Fairytale Dropouts,Ended,2012-12-31,,Seven Network,AU,30,0,0,"Comedy, Children, Fantasy",52
+33171,Traición,Ended,2017-11-28,,RTVE,CO,70,0,0,Drama,106
+33175,Beauty and the Beat,Returning Series,Feb/04/2013,,BNN,NL,55,0,0,"Music, Celebrities, Talent",0
+33190,History of the Eagles,Ended,2013-02-15,,Showtime,US,120,0,0,Music,2
+33192,"Something Borrowed, Something New",Ended,2013-02-08,,TLC,US,30,5.0000,2,"Family, Educational, Lifestyle, How To/Do It Yourself, Fashion/Make-up",54
+33193,Ironside,Ended,2013-10-02,,NBC,US,60,0,0,"Crime, Drama, Action",4
+33199,Big Rig Bounty Hunters,TBD/On The Bubble,Feb/14/2013,,HISTORY,US,30,5.0000,2,"Crime, Action, Adventure",20
+33201,The Onion Presents: The News,In Development,2013,,Amazon Prime Instant Video,US,30,0,0,"Comedy, Family",0
+33203,Browsers,Canceled/Ended,Apr/19/2013,,Amazon Prime Instant Video,US,25,0,0,"Comedy, Family, Music",1
+33207,Mort Grimley,Pilot Ordered,2013,,Amazon Prime Instant Video,US,30,0,0,"Comedy, Family",0
+33208,TGIF,In Development,2013,,Amazon Prime Instant Video,US,30,0,0,"Comedy, Family",0
+33215,The Crazy Ones,Ended,2013-09-26,,CBS,US,30,7.0000,4,Comedy,22
+33220,Jacked Up,In Development,2013,,CBS,US,30,0,0,"Comedy, Family",0
+33227,Fame in the Family,Running,2022-03-14,,Channel 4,US,30,0,0,"Family, Celebrities, Lifestyle",15
+33234,The Beatles' Please Please Please Me: Remaking A Classic,Ended,Feb/15/2013,,BBC FOUR,GB,60,0,0,"Music, Interview",1
+33235,The Holocaust and My Father: Six Million and One,Ended,Feb/21/2013,,BBC FOUR,GB,90,0,0,"History, Military/War",1
+33237,The Dare Devil,Returning Series,Feb/11/2013,,Cbbc,GB,25,0,0,Children,30
+33244,Wild West Alaska,Ended,2013-01-13,,Animal Planet,US,60,4.0000,2,"Comedy, Adventure, Family, Outdoors/Wildlife",38
+33245,Ching's Chinese New Year,New Series,Feb/10/2013,,Cooking Channel,US,60,0,0,"Family, Educational, Cooking/Food, Lifestyle, How To/Do It Yourself",1
+33254,Peter Rabbit,Ended,2012-12-14,,Nick Jr.,US,30,7.0000,2,Children,112
+33264,Ladies Night,Running,2019-04-30,,BET,US,60,0,0,Music,9
+33267,Schafkopf,Returning Series,Nov/23/2012,,ZDF,DE,50,0,0,Comedy,6
+33273,Stories from the Road to Freedom,New Series,Feb/16/2013,,HISTORY,US,120,0,0,Family,1
+33276,The Paranormal Project,Ended,Feb/16/2013,Feb/16/2013,Destination America,US,60,0,0,"Drama, Mystery, Thriller, Family",1
+33291,Model Killers,New Series,Feb/11/2013,,"fyi,",US,10,9.0000,2,"Crime, Celebrities",3
+33294,Jack Taylor,Ended,2010-08-02,,Virgin Media One,IE,90,10.0000,2,"Crime, Drama, Mystery",12
+33298,Sila,Ended,Sep/15/2006,Sep/20/2008,ATV,TR,90,0,0,"Soaps, Drama, Romance/Dating, Family",79
+33301,Склифосовский,Running,2012-09-24,,Смотрим,RU,10,0,0,"Drama, Medical",224
+33308,Mayday (UK),Canceled/Ended,Mar/03/2013,Mar/07/2013,BBC one,GB,60,0,0,Drama,5
+33316,The Terror,Running,2018-03-26,,AMC,US,60,9.5000,6,"Drama, Thriller, Horror",20
+33318,The Wanted Life,Canceled/Ended,Jun/02/2013,Jul/14/2013,E!,US,30,6.0000,3,"Family, Music, Talent",7
+33319,Robber,Ended,Jan/02/2008,Feb/28/2008,SBS,KR,70,0,0,"Comedy, Romance/Dating",16
+33328,Girlfriend in a Coma,In Development,2013,,NBC,US,30,0,0,"Comedy, Family",0
+33333,My Korean Deli,In Development,2013,,ABC,US,30,0,0,"Comedy, Family",0
+33337,Reign,Ended,2013-10-17,,The CW,US,60,8.6154,39,"Drama, History, Romance",78
+33338,Reckless,Ended,2014-06-29,,CBS,US,60,7.0000,2,Drama,13
+33347,Sports Illustrated: Swimsuit,Ended,1992-02-09,,Audience Network,US,60,5.0000,1,"Family, Celebrities, Sports, Talent, Travel, Fashion/Make-up, Fitness",43
+33355,What's Cooking?,New Series,Feb/25/2013,,Channel 4,GB,70,0,0,"Family, Celebrities, Cooking/Food, Lifestyle",65
+33376,A 60s Pop Flashback: Hullabaloo,New Series,Mar/02/2013,,PBS,US,60,0,0,"History, Family, Music, Celebrities, Talent",1
+33433,I Solved a Murder,New Series,Feb/17/2013,,"fyi,",US,60,0,0,"Crime, Drama, Action, Family",3
+33648,Passover: Why Is This Night Different?,Ended,Mar/24/2013,Mar/24/2013,BBC one,GB,30,0,0,"History, Current Events",1
+33899,Giving You the Business,New Series,Apr/15/2013,,Food Network,CA,60,0,0,"Family, Cooking/Food",9
+34088,Amish: Devil's Playground,New Series,Apr/09/2013,,Destination America,US,60,0,0,"Drama, Family, Lifestyle",1
+34182,Backyard Oil,Canceled/Ended,Apr/23/2013,Dec/31/2013,Discovery Channel,US,30,6.0000,2,Family,13
+34233,Hatfields & McCoys (2013),Pilot Rejected,2013,,NBC,US,60,0,0,"Drama, Action, Family",0
+34510,Życie od kuchni,New Series,Mar/10/2013,,TVP 2,PL,40,0,0,"Family, Cooking/Food, Lifestyle",0
+34550,Qubool Hai,In Development,Oct/29/2012,,ZEE TV,IN,20,10.0000,2,"Drama, Family",312
+34719,Blinging Up Baby,Ended,May/02/2013,,E!,US,60,0,0,"Family, Celebrities",1
+34742,Operation Snow Tiger,New Series,Jun/09/2013,,BBC TWO,GB,60,0,0,Outdoors/Wildlife,2
+34767,Extreme Parking,New Series,May/28/2013,,travel CHANNEL,US,60,0,0,Family,3
+34893,Groundbreaking Music,Returning Series,Jun/2013,,ASPiRE,US,60,0,0,"Family, Music, Celebrities, Talent",0
+34894,Groundbreaking Comedy,Returning Series,2013,,ASPiRE,US,60,0,0,"Comedy, Family",0
+34895,Groundbreaking Documentaries,Returning Series,Jun/2013,,ASPiRE,US,60,0,0,"Drama, Family",0
+34899,Now/Next Music,Returning Series,Jun/2013,,ASPiRE,US,60,0,0,"Family, Music, Celebrities, Talent",0
+34901,ARiSE,Returning Series,Jun/2013,,ASPiRE,US,60,0,0,"Family, Lifestyle",0
+34902,Occult,In Development,,,A&E,US,60,0,0,Drama,0
+34903,Brew Dogs,Ended,2013-09-24,,Esquire Network,US,60,10.0000,2,"Travel, Food",27
+34905,Itse Valtiaat,Ended,Apr/14/2001,Jan/05/2007,YLE TV1,FI,15,0,0,"Comedy, Animation General, Politics, Current Events",12
+34908,Bloody Tales of the Tower of London,New Series,Jun/08/2013,,National Geographic Channel,US,60,0,0,"Drama, Mystery, Action, Family",3
+34909,Street Genius,Returning Series,Jun/10/2013,,National Geographic Channel,US,30,4.0000,2,"Family, Discovery/Science",31
+34912,Outlander,Running,2014-08-09,,STARZ,US,60,9.4667,75,"Adventure, Romance, Science-Fiction",102
+34915,My America: de Amerikaanse droom van Michiel Vos,New Series,Jul/17/2013,Aug/07/2013,Canvas,BE,26,0,0,Interview,4
+34917,God in Frankrijk,Ended,Jun/05/2013,,één,BE,50,0,0,"History, Music, Sports, Travel",4
+34919,De neus van Pinokkio,Canceled/Ended,Mar/31/2013,,één,BE,60,0,0,Comedy,10
+34920,Squadra Antimafia - Palermo Oggi,Ended,2009-03-31,,Canale 5,IT,110,9.9091,11,"Drama, Action, Adventure",74
+34921,Frank de la Jungla,Ended,Oct/03/2010,Feb/03/2013,Cuatro,ES,60,0,0,"Adventure, Discovery/Science",26
+34923,The Affair,Ended,2022-11-03,,Shahid,US,10,8.3333,9,"Drama, Romance",58
+34927,Amber,Ended,Jan/19/2014,Jan/22/2014,RTÉ ONE,IE,60,0,0,"Drama, Mystery, Family",4
+34934,Airport Live,Ended,2013-06-17,,BBC Two,GB,60,0,0,Travel,8
+34935,The Morning Show with Sybil & Martin,Canceled,May/11/2009,,TV3,IE,55,0,0,"Interview, Current Events",65
+34936,Midday,Returning Series,Sep/01/2008,,TV3,IE,65,0,0,"Celebrities, Interview, Current Events, Lifestyle",125
+34938,Viper GTS,Ended,Dec/24/2002,Dec/24/2002,OVA,JP,30,0,0,"Adult Cartoons, Fantasy, Sex",0
+34941,Tattoos After Dark,Ended,2014-01-01,,Oxygen,US,30,0,0,"Drama, Family, Talent, Lifestyle",18
+34942,Break Up Tattoos,In Development,2013,,oxygen,US,60,0,0,"Drama, Family, Talent, Lifestyle",0
+34945,Bog Stop,Returning Series,2008,,TG4,IE,25,0,0,Children,14
+34946,The Consumer Show,Returning Series,2010,,RTÉ ONE,IE,30,0,0,"Finance, Current Events, Lifestyle",7
+34948,The RTÉ Two New Comedy Awards,New Series,Apr/30/2013,,RTÉ TWO,IE,55,0,0,Comedy,1
+34950,Salem,Ended,2014-04-20,,WGN America,US,60,9.0625,16,"Drama, Thriller, Supernatural",36
+34951,Tripping Out with Alie & Georgia,Ended,2013-06-21,,Cooking Channel,US,30,7.0000,2,"Comedy, Travel, Food",6
+34952,Me Time with Diablo Cody,In Development,2013,,tbs,US,60,0,0,"Comedy, Family, Celebrities, Interview, Lifestyle",0
+34957,Railroad Alaska,Ended,2013-11-16,,Destination America,US,60,6.5000,2,"Action, Adventure",24
+34958,Goodbye Granadaland,New Series,Jun/15/2013,,itv,GB,90,0,0,"Family, Celebrities",1
+34960,Micro Monsters with David Attenborough,Ended,Jun/15/2013,,sky 1,GB,30,0,0,Outdoors/Wildlife,7
+34962,Lucas Brothers Moving Co.,Returning Series,Nov/23/2013,Mar/01/2014,FXX,US,15,0,0,"Comedy, Family, Animation General",6
+34963,Insatiable,Ended,2018-08-10,,Netflix,US,10,8.5000,14,"Comedy, Drama",22
+34968,Your Face Sounds Familiar (UK),Canceled,Jun/29/2013,Aug/03/2013,itv,GB,60,10.0000,1,"Family, Music, Celebrities, Talent",6
+34973,The Route Masters: Running London's Roads,Ended,Jun/18/2013,Feb/02/2014,BBC TWO,GB,60,0,0,"Finance, Lifestyle, Travel",5
+34974,The Blurb,Ended,2011,Dec/30/2013,challenge,GB,30,0,0,"Tech/Gaming, Lifestyle",52
+34976,Undercover Mums,TBD/On The Bubble,2013,,TLC,GB,60,0,0,Family,0
+34978,Blue Peter - You Decide!,New Series,Jun/24/2013,,Cbbc,GB,30,0,0,"Children, Celebrities, Lifestyle",5
+34981,Punya Chon Kon Krua,Ended,Oct/19/2012,Nov/11/2012,Channel 3,TH,98,0,0,"Comedy, Romance/Dating, Family",12
+34983,Nail Salon Paris,Ended,May/03/2013,Jun/28/2013,MBC QueeN,KR,106,0,0,"Comedy, Romance/Dating, Fashion/Make-up",10
+34984,Monstar,Ended,May/17/2013,Aug/02/2013,tvN,KR,80,0,0,"Comedy, Romance/Dating, Music, Teens",12
+34986,Rhys Jones's Wildlife Patrol,New Series,May/19/2013,,BBC one,GB,30,0,0,Outdoors/Wildlife,4
+34987,Flights and Fights,New Series,Jun/20/2013,,BBC TWO,GB,60,0,0,"Finance, Lifestyle",1
+34996,Professor Hutton's Curiosities,New Series,Jun/12/2013,,YESTERDAY,GB,30,0,0,Discovery/Science,12
+34998,Shopaholic Showdown,Returning Series,May/30/2013,,TLC,GB,60,0,0,Lifestyle,18
+34999,Thief of Thieves,In Development,2014,,amc,US,60,0,0,"Crime, Drama",0
+35002,That Puppet Game Show,Canceled,Aug/10/2013,Jan/05/2014,BBC one,GB,45,0,0,"Comedy, Family, Celebrities",8
+35003,Stroumboulopoulos,Returning Series,Jun/09/2013,,CNN,US,60,0,0,"Celebrities, Interview, Current Events, Lifestyle",3
+35006,What's In the Barn?,Returning Series,Jun/25/2013,,VELOCITY,US,30,4.0000,2,"Action, History, Family, Travel, Automobiles/Vehicles",16
+35012,The Spark,In Development,2014,,HBO,US,60,0,0,"Drama, Action, Sci-Fi, Thriller, Family",0
+35014,Starting Strong (2013),Ended,Jun/02/2013,,Syndicated,US,30,0,0,Military/War,5
+35016,Fathers and Songs,Ended,Jun/16/2013,,BBC FOUR,GB,60,0,0,Music,1
+35018,The Best Films Ever,New Series,Jun/03/2013,,BBC three,GB,30,0,0,"Comedy, Interview, Lifestyle",4
+35021,Beautiful Thing: A Passion for Porcelain,Ended,Jun/18/2013,,BBC FOUR,GB,60,0,0,Design/Decorating,1
+35026,A Season In Purgatory,Ended,May/05/1996,1996,CBS,US,60,0,0,Crime,2
+35028,My Shining Girl,Ended,Jan/07/2012,Mar/17/2012,KBS Drama,KR,66,0,0,"Comedy, Romance/Dating, Celebrities",12
+35030,Любит не любит,Returning Series,Apr/01/2013,,ТЕТ,RU,25,0,0,"Comedy, Romance/Dating",26
+35033,Black Box,Ended,2014-04-24,,ABC,US,60,0,0,"Drama, Thriller, Medical",13
+35034,The '90s: The Last Great Decade,Ended,2014-07-06,,National Geographic Channel,US,120,10.0000,1,"History, Family, Music, Celebrities, Educational, Talent, Lifestyle",3
+35037,Бывшая жена,New Series,May/20/2013,,Первый канал,RU,52,0,0,Drama,4
+35038,Supermarket Superstar,Ended,2013-07-22,,Lifetime,US,60,4.0000,2,Food,10
+35040,Beware Ireland: Rogue Traders At Work,Returning Series,Feb/15/2012,,TV3,IE,60,0,0,"Current Events, Garden/Landscape",1
+35045,Killing Kennedy,New Series,Nov/10/2013,,National Geographic Channel,US,60,0,0,"Crime, Drama, Action, History, Family, Politics, Educational",1
+35047,Ruby Skye P.I.,Ended,2010-10-25,,YouTube,CA,6,0,0,"Comedy, Mystery, Children",21
+35048,Secrets From The Workhouse,New Series,Jun/25/2013,,itv,GB,60,0,0,"History, Family, Lifestyle",2
+35053,"The Goddess of Fire, Jung-Yi",Ended,Jul/01/2013,Oct/22/2013,MBC,KR,66,0,0,"Romance/Dating, History",32
+35055,Little Britons,Ended,2020-04-01,,Channel 5,GB,65,0,0,Lifestyle,6
+35057,Junior Vets (IE),New Series,Jun/06/2013,,RTÉ ONE,IE,30,0,0,"Medical, Animals/Pets",3
+35059,Temple Street Children's Hospital,Returning Series,2011,,TV3,IE,30,0,0,"Medical, Children",0
+35061,Tallafornia,Returning Series,Dec/12/2011,,3e,IE,30,0,0,"Teens, Lifestyle",11
+35063,Pop Corn TV,New Series,May/31/2013,,TG4,IE,30,0,0,Comedy,2
+35066,The Big Money Game,Returning Series,Jun/14/2008,,RTÉ ONE,IE,50,0,0,"Lifestyle, Travel",11
+35071,City Girl Diaries,Ended,2013-07-21,,Esquire Network,US,60,0,0,"Drama, Romance/Dating, Lifestyle",6
+35075,The Family Project,Returning Series,May/20/2013,,RTÉ ONE,IE,30,0,0,"Family, Teens, Children",6
+35081,CrimeCall,Running,2004-09-28,,RTÉ ONE,IE,60,0,0,Crime,209
+35086,The Big Performance,Returning Series,Sep/28/2010,,Cbbc,GB,30,0,0,Music,5
+35090,A Tudor Feast,Ended,Dec/23/2007,,BBC FOUR,GB,60,0,0,"History, Family, Educational, Cooking/Food, Lifestyle, How To/Do It Yourself",0
+35093,Heil Honey I'm Home!,Canceled,Sep/30/1990,,sky 1,GB,30,0,0,Comedy,1
+35101,Greatest Coaches in NFL History,Ended,Jun/04/2013,Jun/06/2013,ESPN,US,60,0,0,"Family, Celebrities, Sports, Talent, Lifestyle",4
+35106,Moto-Cause: Neale Bayly Rides,Ended,Jun/09/2013,,FOX SPORTS 1,US,60,0,0,"Action, Family, Talent, Travel, Automobiles/Vehicles",3
+35112,Royalty Close Up,New Series,Jul/04/2013,,sky ARTS 1,GB,30,0,0,"Interview, Arts & Crafts",3
+35116,Смотрим... Обсуждаем...,Returning Series,Oct/17/2010,,Россия - Культура,RU,129,0,0,"Crime, Military/War, Music, Politics, Sports, Religion, Discovery/Science, Cinema/Theatre, Literature",0
+35131,Me and My Guide Dog,Ended,2013-07-03,,ITV,GB,60,0,0,"Family, Animals/Pets, Lifestyle",3
+35132,Skywire Live With Nik Wallenda,Ended,Jun/23/2013,,Discovery Channel,US,120,0,0,"Talent, Discovery/Science",1
+35135,The Specials,New Series,Jul/01/2013,,BBC one,GB,30,0,0,"Crime, Lifestyle",15
+35142,Startling By Each Step,Ended,Sep/10/2011,Sep/29/2011,Hunan TV,CN,45,0,0,"Drama, Romance/Dating, Mystery, History, Politics",35
+35144,The Best of Ireland AM,Returning Series,2009,,TV3,IE,60,0,0,"Celebrities, Interview, Current Events, Lifestyle",21
+35148,The Meaning of Life with Gay Byrne,Returning Series,Apr/19/2009,,RTÉ ONE,IE,30,0,0,"Celebrities, Interview",4
+35159,Хранитель,Canceled/Ended,Nov/02/2009,Nov/26/2009,НТВ,RU,48,0,0,Crime,16
+35160,Jules Massenet: Manon,Ended,Jul/08/2013,,sky ARTS 2,GB,165,0,0,Music,1
+35165,Shot for Going to School,Ended,Jul/03/2013,,BBC three,GB,60,0,0,Current Events,1
+35179,Man Seeking Woman,Ended,2015-01-14,,FXX,US,30,7.0000,6,"Comedy, Fantasy, Romance",30
+35182,V-Entertainment,Returning Series,2009,,Vuzu,ZA,30,0,0,"Music, Celebrities, Interview, Lifestyle",10
+35185,Forever Young (SA),Returning Series,Mar/09/2012,,Mzansi Magic,ZA,30,0,0,Lifestyle,13
+35188,Beneath,In Development,2014,,ABC,US,10,0,0,Drama,0
+35207,Step Up or Step Out,Returning Series,May/08/2011,,E.tv,ZA,55,0,0,"Music, Dance, Lifestyle",13
+35222,NBC News Special,Returning Series,Aug/31/2004,,NBC,US,60,0,0,Family,0
+35247,Test Your Brain,Ended,Oct/24/2011,Nov/07/2011,National Geographic Channel,US,45,0,0,Discovery/Science,3
+35254,The Honourable Woman,Ended,2014-07-03,,BBC Two,GB,60,4.0000,2,"Drama, Thriller, Espionage",8
+35268,Rosenblatt Recitals,New Series,Jul/15/2013,,sky ARTS 2,GB,90,0,0,Music,4
+35285,Inu to Hasami wa Tsukaiyō,Canceled/Ended,Jul/02/2013,Sep/17/2013,Tokyo MX,JP,25,0,0,Anime,12
+35287,Kitakubu Katsudō Kiroku,Ended,Jul/05/2013,Oct/11/2013,Nippon TV,JP,30,0,0,Anime,12
+35296,Fishing with John,Ended,1991-11-20,,IFC,US,30,0,0,"Adventure, Sports, Travel",6
+35309,Gavin Crawford's Wild Wild West,Ended,Jul/06/2013,,CBC,CA,30,0,0,Comedy,1
+35339,Chō Jigen Game Neptune,Canceled/Ended,Jul/12/2013,Sep/27/2013,Animax,JP,25,0,0,Anime,12
+35343,Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky,Ended,Nov/17/2010,Jun/17/2011,,JP,30,0,0,"Adventure, Fantasy, Anime",3
+35348,"God, Guns & Automobiles",New Series,Jul/08/2013,,HISTORY,US,30,5.5000,2,"Family, Automobiles/Vehicles",14
+35354,Knock It Off,Returning Series,Jul/06/2013,,Live Well NETWORK,US,30,0,0,"Family, Educational, How To/Do It Yourself, Housing/Building",5
+35361,Двуличная девчонка! / Switch Girl!!,Canceled/Ended,Dec/24/2011,Feb/11/2013,,JP,26,0,0,"Comedy, Romance/Dating, Teens",16
+35363,Buying RVs,New Series,Jul/15/2013,,Destination America,US,30,0,0,"Family, Educational, How To/Do It Yourself, Automobiles/Vehicles",4
+35368,G-Thing,New Series,Jul/24/2013,,fuse,US,30,0,0,"Family, Music, Lifestyle",2
+35385,League of Extraordinary Gentlemen,Pilot Ordered,2014,,FOX,US,60,0,0,"Drama, Action, Super Heroes, Family",0
+35393,"Das Auto: The Germans, Their Cars And Us",New Series,Aug/04/2013,,BBC TWO,GB,60,0,0,"Discovery/Science, Automobiles/Vehicles",1
+35397,Wall of Fame (US),In Development,2013,,NBC,US,60,0,0,"Comedy, Family, Celebrities",0
+35408,The Art of...,Running,2024-06-04,,ABC iview,US,10,0,0,"Family, Educational",47
+35431,Diaries of a Broken Mind,Ended,Jul/17/2013,,BBC three,GB,90,0,0,"Medical, Current Events",1
+35432,This Week Live,New Series,Jul/24/2013,,ten,AU,60,0,0,"Comedy, Current Events",13
+35449,Varsity Days,New Series,Jul/15/2013,,Pac-12 Network,US,90,0,0,"Drama, Action, Family, Celebrities, Interview, Sports, Talent",5
+35460,That Music Show,Running,2013-08-02,,Channel 4,GB,60,0,0,"Comedy, Music",2
+35494,Saint Hoods,Canceled,Aug/02/2013,Aug/09/2013,Discovery Channel,US,60,0,0,"Crime, Lifestyle",2
+35497,The Pete Holmes Show,Ended,2013-10-28,,TBS,US,30,0,0,Comedy,80
+35500,Sompong Nong Somchai,Canceled/Ended,2004,,,TH,75,0,0,"Comedy, Drama, Romance/Dating",0
+35503,O Negócio,Ended,2013-08-18,,HBO Latin America,BR,60,0,0,"Comedy, Drama",51
+35504,Старшеклассники,Ended,2006,2009,Пятый канал,RU,25,0,0,"Comedy, Drama, Teens",1
+35506,Nazi Megastructures,Ended,2013-11-18,,National Geographic,US,60,0,0,"History, War",48
+35507,Deep Fried Masters,Ended,2013-08-05,,Destination America,US,60,4.0000,2,Food,8
+35512,Gaiji Keisatsu,Ended,Nov/14/2009,Dec/19/2009,NHK,JP,60,0,0,Thriller,6
+35519,My Family Recipe Rocks,Returning Series,Jan/14/2012,,"fyi,",US,30,0,0,"Family, Cooking/Food",30
+35525,Jiu: Keishichou Tokushuhan Sousagakari,Canceled/Ended,2011,2011,,JP,45,0,0,Action,9
+35527,Stephen Fry’s Key To The City,New Series,Aug/06/2013,,itv,GB,60,0,0,"Lifestyle, Travel",1
+35536,American Woman,Ended,2018-06-07,,Paramount Network,US,30,0,0,"Comedy, Drama",12
+35543,10 Million Dollar Bigfoot Bounty,Ended,2014-01-10,,Paramount Network,US,60,4.0000,2,Adventure,8
+35551,Surviving the In-Laws,Ended,2013-07-31,,TLC,US,60,0,0,"Comedy, Family, Lifestyle",2
+35560,Candy Boy,Canceled/Ended,May/02/2008,May/08/2009,,JP,15,10.0000,1,"Comedy, Romance/Dating, Anime",8
+35566,Justice for All,Ended,2020-10-29,,Play4,US,10,10.0000,1,"Crime, Drama, Family",106
+35569,Alaskan Women Looking for Love,Ended,2013-10-06,,TLC,US,60,6.5000,2,Romance,6
+35573,Husband Hunters,In Development,2014,,TLC,US,30,0,0,"Romance/Dating, Family, Lifestyle",0
+35578,Sarah Jane's Alien Files,Canceled/Ended,Oct/11/2010,Nov/15/2010,Cbbc,GB,60,0,0,"Drama, Mystery, Sci-Fi, Family",6
+35581,Fightback Britain,New Series,Aug/12/2013,,itv,GB,30,0,0,"Crime, Lifestyle",4
+35582,Big School,Ended,2013-08-16,,BBC One,GB,30,8.0000,1,Comedy,12
+35586,Gem Hunt,New Series,Jun/03/2012,,travel CHANNEL,US,60,0,0,"Drama, Action, Adventure, Family, Talent, Travel",0
+35591,Better Man,Ended,2013-07-25,,SBS,AU,120,0,0,Drama,4
+35594,Arrow Emblem – Hawk of the Grand Prix,Canceled/Ended,Sep/22/1977,Aug/31/1978,Fuji TV,JP,26,0,0,"Drama, Sports, Anime",44
+35604,Sex House,Ended,Jul/12/2012,Sep/13/2012,YouTube,US,7,0,0,Comedy,0
+35624,The Flash,Ended,2014-10-07,,The CW,US,60,9.3042,1627,"Drama, Action, Science-Fiction",184
+35625,Hillary,In Development,2014,,NBC,US,120,0,0,"Celebrities, Politics",0
+35648,Deranged,Canceled,2008,,TUFF TV,US,10,0,0,,10
+35657,Janet King,Ended,2014-02-27,,ABC,AU,60,10.0000,2,"Crime, Drama, Mystery",24
+35662,Fatrick,Pilot Rejected,2014,,FOX,US,30,0,0,"Comedy, Family",0
+35679,Jennifer Falls,Ended,2014-06-04,,TV Land,US,30,0,0,Comedy,10
+35703,Restaurant Divided,Canceled/Ended,Oct/24/2013,,food network,US,60,4.0000,1,"Family, Cooking/Food",6
+35724,Fleming: The Man Who Would Be Bond,Ended,2014-01-29,,BBC America,US,60,0,0,"Drama, Action, Espionage",4
+35727,Famous in 12,Ended,2014-06-03,,The CW,US,60,0,0,"Family, Lifestyle",5
+35827,Albert ii,Ended,Sep/02/2013,,één,BE,50,0,0,"Soaps, Comedy, Mystery, Thriller, History, Family, Celebrities, Politics, Current Events, Educational, Religion, Lifestyle, Literature",5
+35829,The Resistance,Returning Series,Jan/01/2013,,SPORTSMAN CHANNEL,US,30,0,0,"Drama, Action, Adventure, Family, Sports, Outdoors/Wildlife",25
+35834,Miłość nad rozlewiskiem,Ended,2010-09-12,,TVP1,PL,45,0,0,"Comedy, Drama, Family",13
+35837,FanAddicts!,Ended,2013-08-28,,REELZ,US,30,0,0,"Celebrities, How To/Do It Yourself",8
+35840,Limelight (2014),In Development,2014,,ABC,US,10,0,0,"Crime, Drama",0
+35843,Print and be Damned,New Series,Aug/08/2013,,TV3,IE,60,0,0,"Celebrities, Interview, Lifestyle",3
+35849,Mass on Sunday,Returning Series,2013,,RTÉ ONE,IE,60,0,0,Religion,6
+35852,A Gathering of Traditions,New Series,Aug/14/2013,,MHz Worldview,US,60,0,0,"Music, Talent",3
+35861,The Rose of Tralee,Returning Series,Aug/1978,,RTÉ ONE,IE,60,0,0,Lifestyle,3
+35869,2014 FIFA World Cup Magazine,Ended,Aug/20/2013,,RTÉ TWO,IE,25,0,0,Sports,1
+35874,Science Britannica,New Series,Sep/18/2013,,BBC TWO,GB,60,0,0,Discovery/Science,3
+35876,Construction Squad: Operation Homefront,Ended,2013-08-30,,Channel 5,GB,60,0,0,Housing/Building,6
+35878,Ghost Friends,Ended,Apr/02/2009,Jun/04/2009,NHK,JP,10,0,0,"Comedy, Mystery, Horror/Supernatural, Family, Fantasy",10
+35880,QI (CZ),Canceled,Aug/14/2013,Oct/23/2013,Prima Family,CZ,30,0,0,"Comedy, Celebrities, Educational",11
+35881,The Death of Yugoslavia,Ended,Sep/03/1995,,BBC TWO,GB,50,0,0,"History, Military/War, Politics",6
+35885,Fantastic Finishes,New Series,Aug/17/2013,,FOX SPORTS 1,US,30,0,0,"Drama, Action, History, Family, Talent",6
+35891,Consider This,Returning Series,Aug/20/2013,,Al Jazeera America,US,60,0,0,"Interview, Current Events",205
+35894,Techknow,Ended,2013-08-25,,Al Jazeera America,US,30,0,0,"Family, Educational",119
+35896,NASCAR Sprint Cup Practice,Canceled/Ended,Aug/13/2010,,FOX SPORTS 1,US,90,0,0,"Drama, Action, Family, Sports, Talent, Automobiles/Vehicles",41
+35898,St. Nick (2014),In Development,2014,,FOX,US,10,0,0,"Crime, Drama, Religion",0
+35899,NASCAR Raceday on FOX Sports 1,Returning Series,Aug/18/2013,,FOX SPORTS 1,US,60,0,0,"Action, Sports, Competition",21
+35900,UFC Unleashed on FOX Sports,Returning Series,Aug/18/2013,,FOX SPORTS 1,US,60,0,0,"Interview, Competition",29
+35902,NASCAR Live,Returning Series,Aug/17/2013,,FOX SPORTS 1,US,60,0,0,"Family, Celebrities, Interview, Sports, Talent, Lifestyle",23
+35905,Al Rojo Vivo,Running,2002-04-29,,Telemundo,US,60,0,0,"Action, Family, Interview, Sports, Talent",1114
+35916,Blake's 7 (US),In Development,2014,,XBOX LIVE,US,10,0,0,"Drama, Action, Sci-Fi, Adventure",0
+35918,Koolhaus,In Development,2014,,Amazon Prime Instant Video,US,10,0,0,"Crime, Drama, Action",0
+35925,Genesis - Sum of the Parts,Ended,Oct/10/2014,Oct/10/2014,SHOWTIME,US,89,0,0,"Drama, Music, Talent",0
+35929,UFC Ultimate Insider,Ended,2012-02-07,,Fox Sports 1,US,30,0,0,Sports,107
+35937,Match of the Day 2 (US),New Series,Aug/17/2013,,NBCSN,US,90,0,0,"Action, Family, Sports, Fitness",3
+35941,Premier League 36,New Series,Aug/17/2013,,NBCSN,US,30,0,0,"Action, Family, Sports, Talent, Lifestyle, Fitness",3
+35942,Doomsday Garage,Returning Series,Aug/21/2013,,CMT Pure Country,US,30,0,0,"Housing/Building, Design/Decorating",1
+35946,Rolex Sports Car Series Racing,Returning Series,Aug/17/2013,,FOX SPORTS 2,US,180,0,0,"Drama, Action, Family, Sports, Talent",3
+35952,Ceart's Coir,Returning Series,2010,,TG4,IE,30,0,0,Crime,1
+35953,The Amazing 80's,New Series,Aug/26/2013,,Nine Network,AU,60,0,0,"History, Celebrities, Lifestyle",6
+35955,It's a Date,In Development,,,Pop,AU,30,0,0,"Comedy, Romance",16
+35956,Głęboka woda,Ended,2011-06-14,,TVP2,PL,50,0,0,Drama,25
+35958,Olive Kitteridge,Ended,2014-11-02,,HBO,US,60,0,0,Drama,4
+35960,Sandra Bleachtaire Sisceal,New Series,2013,,TG4,IE,15,0,0,"Children, Fantasy",4
+35965,UFC Countdown,Running,,,Fox Sports 1,US,60,0,0,Competition,57
+35966,UFC Reloaded,Ended,2011-12-31,,Fox Sports 1,US,180,0,0,Competition,77
+35969,Swansea Market,Ended,2013-05-10,,BBC One Wales,GB,30,0,0,"Finance, Lifestyle",4
+35972,Collegiate Bass Fishing Championship,Running,2009-12-19,,NBCSN,US,30,0,0,"Sports, Outdoors/Wildlife",21
+35974,Brains on Trial with Alan Alda,Canceled/Ended,Sep/11/2013,Sep/18/2013,PBS,US,60,0,0,"Crime, Drama, Action, Family, Lifestyle",2
+35982,Secrets of the Tower of London,New Series,Oct/27/2013,,PBS,US,60,0,0,"History, Educational",1
+35987,How to Get Away with Murder,Ended,2014-09-25,,ABC,US,60,9.0000,54,"Drama, Thriller, Legal",90
+35989,MotoGP World Championship,New Series,Aug/18/2013,,FOX SPORTS 1,US,60,0,0,"Drama, Action, Family, Sports, Talent, Automobiles/Vehicles",9
+35991,Lucas Oil Late Model Dirt Series,Returning Series,Mar/03/2010,,FOX SPORTS 1,US,60,0,0,"Competition, Automobiles/Vehicles",82
+35992,Дурнев +1,Ended,,,TET,UA,23,0,0,"Comedy, Teens, Sketch/Improv, Interview, Lifestyle",110
+35994,UEFA Champions League Highlights,Running,2016-02-17,,BBC One,US,10,0,0,"Drama, Action, Family, Sports, Talent",87
+35995,UEFA Champions League Pregame,Returning Series,Aug/20/2013,,FOX SPORTS 2,US,30,0,0,Sports,14
+35996,Vigilante Diaries,On Hiatus,Jun/11/2013,,,US,21,0,0,"Crime, Action",0
+36000,"Cosentino: The Magic, The Mystery, The Madness",New Series,Aug/27/2013,,Seven,AU,60,0,0,Family,3
+36008,Flippin' Sisters,New Series,Aug/22/2013,,"fyi,",US,60,0,0,"Family, Housing/Building",1
+36013,Jamie's Money Saving Meals,Ended,2013-09-02,,Channel 4,GB,30,0,0,Food,22
+36016,The Guilty,Ended,2013-09-05,,ITV1,GB,60,0,0,"Crime, Drama",3
+36017,Aussie Animal Island,TBD/On The Bubble,Sep/03/2013,,itv,GB,30,0,0,Outdoors/Wildlife,6
+36018,Rebuilding the World Trade Center,Ended,Sep/01/2013,,Channel 4,GB,90,0,0,"History, Lifestyle",0
+36019,Educating Yorkshire,Running,2013-09-05,,Channel 4,GB,60,0,0,"Educational, Lifestyle",18
+36022,National Women's Soccer League on FOX,New Series,Jul/14/2013,,FXX,US,120,0,0,"Drama, Action, Family, Sports, Talent",9
+36025,Motocross,Returning Series,May/18/2013,,Syndicated,US,120,0,0,"Drama, Action, Family, Sports, Talent",52
+36029,Beat The Ancestors,Canceled/Ended,Feb/24/2013,Oct/21/2013,Channel 5,GB,60,0,0,"History, Educational, How To/Do It Yourself, Housing/Building",5
+36033,Paroled,In Development,2014,,FOX,US,30,0,0,"Comedy, Family",0
+36034,The Longest Date,In Development,2014,,FOX,US,30,0,0,"Comedy, Romance/Dating",0
+36035,Moto Highlight Series,New Series,May/22/2013,,NBCSN,US,30,0,0,"Interview, Sports",15
+36039,Wolfblood Uncovered,New Series,Sep/09/2013,,Cbbc,GB,15,10.0000,1,Outdoors/Wildlife,10
+36041,The Power Inside,Ended,Aug/15/2013,,,US,8,4.0000,2,,6
+36049,Mum and Dad are Splitting Up,New Series,Sep/05/2013,,BBC TWO,GB,60,0,0,"Family, Lifestyle",1
+36053,Monster High,Ended,2010-05-05,,Nickelodeon,US,90,0,0,"Comedy, Adventure, Horror",194
+36057,IndyCar 36,Returning Series,Apr/01/2012,,NBCSN,US,30,0,0,"Drama, Action, Family, Celebrities, Interview, Sports, Automobiles/Vehicles",15
+36082,NASCAR Nationwide Series Practice,Canceled/Ended,Jul/04/2013,,ESPN 2,US,90,0,0,"Competition, Automobiles/Vehicles",32
+36085,NASCAR Countdown,Returning Series,Apr/08/2011,,ESPN,US,30,0,0,"Sports, Automobiles/Vehicles",38
+36091,Looking,Ended,2014-01-19,,HBO,US,30,4.0000,2,"Comedy, Drama, Romance",20
+36098,Beyond the Dream,Running,2024-06-09,,Nine Network,US,10,0,0,History,5
+36100,Time To Time,In Development,2014,,NBC,US,10,0,0,"Crime, Drama",0
+36127,Match Day Preview,Returning Series,1998,,MUTV,GB,30,0,0,"Interview, Sports",7
+36150,RGIII: Will to Win,New Series,Aug/27/2013,,ESPN,US,60,0,0,"Drama, Action, Celebrities, Interview, Sports, Talent",1
+36155,Deadbeat,Ended,2014-04-09,,Hulu,US,10,8.0000,6,"Comedy, Supernatural",36
+36167,Mud Lovin' Rednecks,Returning Series,Sep/25/2011,,Animal Planet,US,60,4.0000,2,"Comedy, Family, Lifestyle",9
+36183,Tokyo Marble Chocolate,Ended,Dec/19/2007,,,JP,25,0,0,"Romance/Dating, Anime",2
+36198,Orient: Club For A Fiver,Ended,Oct/1995,,Channel 4,GB,10,0,0,Sports,0
+36207,Stewardessen,Canceled/Ended,Sep/05/1969,Oct/10/1969,Das Erste,DE,25,0,0,,5
+36240,Vanessa & Ashley: Inner-Circle,Ended,Aug/08/2013,,E!,US,60,0,0,Celebrities,1
+36249,RV Crazy!,Ended,Jan/04/2004,,travel CHANNEL,US,60,0,0,"Travel, Automobiles/Vehicles",0
+36255,Damaged Goods,To Be Determined,2022-07-12,,Prime Video,US,10,0,0,Comedy,8
+36288,Antigone 34,Ended,2012-03-23,,France 2,FR,50,0,0,Drama,6
+36289,Manhattan,Ended,2014-07-27,,NewsNation,US,60,4.0000,2,Drama,23
+36316,Car vs. Wild,New Series,Sep/25/2013,,Discovery CHANNEL,GB,60,0,0,"Travel, Automobiles/Vehicles",10
+36328,The Bird Dog Circuit World Championship,New Series,Jul/06/2013,,MAVTV,US,30,0,0,"Sports, Outdoors/Wildlife",10
+36330,Social Circle,In Development,2014,,ABC,US,60,0,0,"Drama, Thriller",0
+36352,Killer Clans,Ended,2016-09-17,,Quest,GB,60,0,0,"Romance/Dating, Mystery, Thriller",10
+36354,When Life Means Life,Returning Series,2012,,crime & investigation network,GB,60,0,0,Crime,12
+36390,The Aftermath,Ended,2017-01-02,,NFL Network,US,120,0,0,Sports,15
+36449,Better Call Saul,Ended,2015-02-08,,AMC,US,60,9.0099,101,"Crime, Drama, Legal",63
+36470,Nobunaga no Chef,Canceled/Ended,Jan/11/2013,Mar/15/2013,TV Asahi,JP,28,0,0,Drama,9
+36496,Interludes,Returning Series,Sep/14/2013,,TV one,US,60,0,0,"Music, Interview",5
+36527,The Big Interview,Returning Series,Aug/16/2013,,AXStv,US,60,0,0,"Celebrities, Interview",46
+36539,Secret Voices of Hollywood,Ended,Sep/29/2013,,BBC FOUR,GB,90,0,0,"Celebrities, Interview",1
+36555,Cycling – World Road Championships 2013,Canceled/Ended,Sep/22/2013,,BBC RED BUTTON,GB,190,0,0,Sports,5
+36642,Married at First Sight,Running,2014-07-08,,Peacock,US,10,10.0000,1,Romance,343
+36666,What's the Big Idea?,New Series,Mar/16/2013,,CBeebies,GB,10,0,0,"Children, Educational, Children Cartoons",7
+36716,Wild Colombia with Nigel Marven,Ended,2012,2012,eden,GB,45,0,0,"Adventure, Travel, Outdoors/Wildlife",4
+36726,Inside the National Trust,New Series,Oct/06/2013,,itv,GB,60,0,0,"Lifestyle, Housing/Building",14
+36736,More Wrong Mans,New Series,Sep/29/2013,,BBC RED BUTTON,GB,35,0,0,Comedy,1
+36740,World Rally Championship,Returning Series,Oct/08/2013,,itv4,GB,60,0,0,Sports,28
+36745,Girls Without Boys,In Development,2014,,ABC,US,30,0,0,Comedy,0
+36751,Deadly Pole To Pole,Returning Series,Oct/15/2013,,Cbbc,GB,30,0,0,"Adventure, Children",20
+36755,Meerkats: Secrets of an Animal Superstar,New Series,Oct/11/2013,,BBC TWO,GB,60,0,0,Outdoors/Wildlife,1
+36765,Pig Goat Banana Cricket,Ended,2015-07-16,,Nicktoons,US,30,7.0000,1,"Comedy, Fantasy",41
+36775,Med Cezir,Ended,Sep/13/2013,Jun/12/2015,Star TV,TR,100,0,0,"Soaps, Drama, Romance/Dating",77
+36781,Barrett-Jackson Automobile Auction,Running,2015-01-13,,MotorTrend,US,120,0,0,Automobiles/Vehicles,114
+36786,Éjjel Nappal Budapest,Returning Series,Feb/11/2013,,RTL Klub,HU,50,0,0,"Drama, Interview",625
+27384,Танці з зірками,Ended,2006-10-08,,1+1,UA,120,0,0,Family,34
+36807,Secret Love,Ended,2013-09-25,,KBS2,KR,60,0,0,"Drama, Thriller, Romance",16
+36823,Meet the Family,Returning Series,Sep/29/2013,,CityTV,CA,30,0,0,"Comedy, Family",4
+36834,The Moaning of Life,Ended,2013-10-20,,Sky Showcase,GB,60,0,0,"Comedy, Travel",11
+36835,It's a Dogs Life,New Series,Oct/14/2013,,Channel 4,GB,60,0,0,Animals/Pets,2
+36836,Diary of a Teenage Virgin,New Series,Oct/14/2013,,Channel 4,GB,60,0,0,"Teens, Lifestyle",1
+36888,The Mason Twins,Pilot Rejected,2014,,NBC,US,30,0,0,"Comedy, Family",0
+36890,A Volcano Odyssey,Canceled/Ended,2012,2012,eden,GB,45,0,0,"Educational, Discovery/Science",2
+36897,Football Friday Live,On Hiatus,Aug/26/2011,,FOX COLLEGE SPORTS ATLANTIC,US,30,0,0,Competition,4
+36898,Football Friday Blitz,On Hiatus,Sep/02/2011,,FOX COLLEGE SPORTS ATLANTIC,US,150,0,0,Competition,5
+36899,Inside the Summit League,Returning Series,Mar/18/2013,,FOX COLLEGE SPORTS ATLANTIC,US,30,0,0,Competition,8
+36909,Conviction,Ended,2016-10-03,,ABC,US,60,9.4444,9,"Crime, Drama, Legal",13
+36910,My Tattoo Addiction,TBD/On The Bubble,Oct/18/2012,,Channel 4,GB,60,0,0,"Lifestyle, Fashion/Make-up",4
+37016,America's Scariest Halloween Attractions,Returning Series,Oct/30/2006,,travel CHANNEL,US,60,0,0,"Mystery, Horror/Supernatural",4
+37067,The Man’s Guide To Love,In Development,2014,,CBS,US,30,0,0,Comedy,0
+37085,Um land allt,Returning Series,Oct/14/2012,,Stöð 2,IS,30,0,0,"Family, Travel",0
+37133,Iceberg Hunters,Canceled/Ended,Sep/18/2012,Oct/02/2012,Weather Channel,US,60,0,0,"Educational, Discovery/Science",4
+37140,Jóia Rara,New Series,Sep/16/2013,,Rede Globo de Televisão,BR,45,0,0,"Drama, Family",152
+37149,At Hell's Door: Behind the Scenes at Hellfest,New Series,Oct/31/2013,,AXStv,US,30,0,0,"Music, Interview",1
+37192,Live From The National Theatre: 50 Years On Stage,New Series,Nov/02/2013,,BBC TWO,GB,135,0,0,"History, Celebrities",1
+37212,Portrait Artist of the Year,Running,2013-11-05,,Sky Arts,GB,60,9.0000,2,"Competition, Arts & Crafts",125
+37213,The Meaning of Monty Python,Ended,Nov/05/2013,,sky ARTS 1,GB,60,0,0,Comedy,1
+37222,Cain,Ended,2012-10-05,,France 2,FR,60,10.0000,2,"Crime, Action, Adventure",68
+37226,Berserk: Golden Age Arc,Canceled/Ended,Feb/04/2012,Feb/01/2013,Unknown,JP,90,10.0000,2,"Action, Horror/Supernatural, Fantasy, Anime",3
+37243,Women's Pro Rodeo Today,Returning Series,Jul/02/2008,,RFD-TV,US,30,0,0,"Action, Talent, Competition",31
+37253,PBR World Finals,Returning Series,Oct/23/2013,,CBS SPORTS NETWORK,US,120,0,0,Competition,47
+37261,Hiring Squad,Ended,Oct/27/2013,,SPIKE,US,60,0,0,Lifestyle,1
+37297,Law Man,In Development,2014,,NBC,US,60,0,0,"Crime, Drama",0
+37322,Tigers About the House,New Series,Jun/16/2014,,BBC TWO,GB,60,0,0,Outdoors/Wildlife,5
+37352,The Cover,In Development,2014,,CW,US,60,0,0,"Crime, Drama, Romance/Dating",0
+37353,Amanda Burton's Killer Forensics,New Series,Nov/28/2013,,INVESTIGATION DISCOVERY,GB,60,0,0,Crime,5
+37361,David Attenborough's Natural Curiosities,Ended,2013-01-29,,W,GB,30,0,0,Nature,27
+37370,America Declassified,Ended,2013-11-03,,Travel Channel,US,60,0,0,"Mystery, History",17
+37376,News One Now,Returning Series,Nov/04/2013,,TV one,US,60,4.0000,2,"Celebrities, Interview, Current Events",305
+37387,Prime Minister and I,Ended,2013-12-09,,KBS2,KR,65,10.0000,1,"Comedy, Family, Romance",17
+37402,Fighting for a Generation,New Series,Nov/05/2013,,FOX SPORTS 1,US,120,0,0,"History, Celebrities, Interview",1
+37448,Zapp,Returning Series,Apr/14/2002,,NDR,DE,30,0,0,"Politics, Educational",0
+37456,Talks Music,New Series,Nov/11/2013,,sky ARTS 1,GB,60,0,0,"Music, Interview",10
+37481,12 Years A Slave: A TV One Special with Cathy Hughes,Ended,Nov/09/2013,,TV one,US,60,0,0,"Drama, History, Interview, Educational",1
+37499,Live from E!,Running,2007-05-20,,E!,US,120,0,0,"Celebrities, Interview, Lifestyle",111
+37500,Monty Halls and the .....,New Series,Nov/25/2013,,Channel 5,GB,60,0,0,"History, Adventure",4
+37510,Cites,Ended,2015-04-27,,TV3,FR,50,0,0,"Comedy, Drama, Romance",51
+37519,Wahlburgers,Ended,2014-01-22,,A&E,US,60,6.5000,2,"Celebrities, Cooking/Food",96
+37549,Warsaw Shore,Running,2013-11-10,,MTV Polska,PL,60,10.0000,2,"Soaps, Sex",159
+37571,Next/Следующий,Canceled/Ended,2001,2001,Рен-ТВ,RU,50,0,0,"Comedy, Drama",0
+37582,Letters to Jackie: Remembering President Kennedy,Ended,Nov/17/2013,,TLC,US,60,0,0,"Drama, History, Politics",1
+37604,Cougar v. Wolf,New Series,Nov/30/2013,,NAT GEO WILD,US,60,0,0,"Drama, Discovery/Science, Outdoors/Wildlife",1
+37671,Выжить после,Ended,2013-11-18,,СТС Love,RU,60,0,0,"Drama, Thriller, Horror",36
+37699,The Inspector and the Sea,New Series,Nov/22/2013,,MHz Worldview,US,60,0,0,"Crime, Drama, Action",2
+37702,Royal Variety Performance,Returning Series,Jul/01/1927,,itv,GB,150,0,0,,9
+37758,The Improv: 50 Years Behind the Brick Wall,Ended,Dec/06/2013,Dec/06/2013,epix,US,60,0,0,"Comedy, Sketch/Improv, Celebrities",1
+37776,Alien Python Hunt,Ended,Dec/20/2013,,NAT GEO WILD,GB,60,0,0,Outdoors/Wildlife,1
+37800,Galyntine,Pilot Rejected,2015,,amc,US,60,0,0,"Action, Sci-Fi, Adventure, Fantasy",0
+37802,John Bishop’s Christmas Show,New Series,Dec/23/2013,,BBC one,GB,60,0,0,"Comedy, Sketch/Improv",2
+37809,Mel Smith: I've Sort Of Done Things,New Series,Dec/24/2013,,BBC TWO,GB,60,0,0,Celebrities,1
+37889,Ben and James Versus the Arabian Desert,New Series,Dec/26/2013,,BBC TWO,GB,60,0,0,"Adventure, Travel",2
+37891,College Basketball on Pac-12 Network,Returning Series,Dec/01/2013,,Pac-12 Network,US,120,0,0,Competition,252
+37926,Sex Sent Me to the ER,Ended,2013-12-28,,TLC,US,60,3.6667,3,Medical,56
+37929,Giovanni Falcone,New Series,Dec/01/2013,,MHz Worldview,US,60,0,0,"Crime, Drama, Action, History",2
+37941,Katie Melua Plays Avo Session,Ended,Dec/11/2013,,sky ARTS 2,GB,100,0,0,Music,1
+37964,Friday Night Tykes,Ended,2014-01-14,,Esquire Network,US,60,6.5000,2,Sports,41
